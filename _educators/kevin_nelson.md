@@ -2,7 +2,7 @@
 # Required:
 title: "Kevin Nelson"     # first (middle) last
 country: US              # your country of residence (2 letters)
-roles: [Instructor]              # subset of [facilitator, instructor, mentor], can stay empty ([])
+roles: [instructor]              # subset of [facilitator, instructor, mentor], can stay empty ([])
 years: [2020]              # in which years did you help out? (e.g. [2020, 2019])
 
 # Optional (please add github or gravatar for your picture)
