@@ -1,7 +1,10 @@
-<!-- Make sure to include educator_header to use this -->
-
-{% if person.github %}
-<img data-src="https://avatars.githubusercontent.com/{{ person.github }}" class="img-circle lazyload" alt="GitHub profile photo of {{person.title}}">
-{% else %}
+{% comment %}
+Make sure to include educator_header to use this.
+Gravatar takes preference because it's only responsible for pictures (and there would be no other reasons for users to specify it)
+If both github and gravatar are unspecified, we take gravatar, because it'll produce a generic user icon.
+{% endcomment %}
+{% if person.gravatar or person.github == '' or person.github == null %}
 <img data-src="https://www.gravatar.com/avatar/{{ person.gravatar }}?d=mp" class="img-circle lazyload" alt="Gravatar profile photo of {{person.title}}">
+{% else %}
+<img data-src="https://avatars.githubusercontent.com/{{ person.github }}" class="img-circle lazyload" alt="GitHub profile photo of {{person.title}}">
 {% endif %}
