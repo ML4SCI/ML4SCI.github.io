@@ -7,7 +7,7 @@ years: [2019, 2020]              # in which years did you help out? (e.g. [2020,
 
 # Optional (please add github or gravatar for your picture)
 github:  "mattbellis"     # your github handle  (github.com/<handle>)
-gravatar: 98c468813c628de3b2dad6121514890d
+gravatar:
 homepage: "https://www.siena.edu/faculty-and-staff/person/matt-bellis/"     # your personal homepage  (full url)
 twitter: "matt_bellis"      # your twitter handle 
 gitlab:       # your gitlab handle  (gitlab.com/<handle>)

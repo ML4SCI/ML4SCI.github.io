@@ -7,7 +7,7 @@ years: [2019, 2020]                  # in which years did you help out? (e.g. [2
 
 # Optional (please add github or gravatar for your picture)
 github: jpivarski                    # your github handle  (github.com/<handle>)
-gravatar: jpivarski
+gravatar:
 homepage: null                       # your personal homepage  (full url)
 twitter: JimPivarski                 # your twitter handle
 gitlab: jpivarski                    # your gitlab handle  (gitlab.com/<handle>)
