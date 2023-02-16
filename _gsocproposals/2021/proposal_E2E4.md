@@ -27,6 +27,9 @@ One of the important aspects of searches for new physics at the [Large Hadron Co
 ## Requirements
 C++, Python, PyTorch, Tensorflow and some previous experience in Machine Learning.
 
+## Task
+Please use this link to access the test for this project. Tests will be published by Feb. 24
+
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
   * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
