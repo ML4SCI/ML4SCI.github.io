@@ -5,9 +5,9 @@ project: CMS
 year: 2021
 organization:
   - Alabama
-  - BITS Pilani Goa
+  - New York University
   - Brown
-  - CMU
+  - Vishwakarma Institute of Technology
 
 ---
 
