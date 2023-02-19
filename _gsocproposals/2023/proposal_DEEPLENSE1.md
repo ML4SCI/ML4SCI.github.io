@@ -1,4 +1,4 @@
- ---
+---
 title: Gravitational Lens Finding for Dark Matter Substructure Pipeline
 layout: gsoc_proposal
 project: DEEPLENSE

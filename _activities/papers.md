@@ -16,7 +16,7 @@ The work of our students is published in scientific papers.
 
 
 <tr>
-     <td>Andrews M, Burkle B, Chen YF, DiCroce D, Gleyzer S, Heintz U, Narain M, Paulini M, Pervan N, Shafi Y, Sun W.<a href="https://arxiv.org/abs/2104.14659" target="_blank">"End-to-end jet classification of boosted top quarks with the CMS open data".</a> Physical Review D. 2022 Mar 22;105(5):052008.</td>
+     <td>Andrews M, Burkle B, Chen YF, DiCroce D, Gleyzer S, Heintz U, Narain M, Paulini M, Pervan N, Shafi Y, Sun W. <a href="https://arxiv.org/abs/2104.14659" target="_blank">"End-to-end jet classification of boosted top quarks with the CMS open data".</a> Physical Review D. 2022 Mar 22;105(5):052008.</td>
   </tr>
 
 <tr>
