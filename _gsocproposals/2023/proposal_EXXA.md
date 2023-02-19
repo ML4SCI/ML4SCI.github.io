@@ -31,6 +31,8 @@ Total project length: 175 hours.
   * Python, previous experience in machine learning
   * Basic knowledge of astronomy and observations is useful but not required
 
+## Test
+Test will become live after GSoC Orgs are announced
 <!-- ## Test
 
 No evaluation test for this project, however, we encourage you to:

@@ -29,6 +29,10 @@ Total project length: 175 hours.
   * Trained quantum transformer model.
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
   
+
+## Test
+Test will become live after GSoC Orgs are announced
+
 <!-- ## Test
 
 Please use [this link](https://docs.google.com/document/d/e/2PACX-1vSeQWHXbf-87eCPcEj-LcYEcBpPKnqCYoU0uf7PH-ou_XRdcg_xtXaP4fzSY8b_FiGMIyqsLjDNWqZD/pub) to access the test for this project. -->
