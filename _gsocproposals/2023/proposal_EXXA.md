@@ -7,6 +7,7 @@ organization:
  - Alabama
  - Brown
  - EPFL
+ - Georgia
 ---
 
 ## Description
@@ -45,5 +46,6 @@ No evaluation test for this project, however, we encourage you to:
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
+  * [Jason Terry](mailto:ml4-sci@cern.ch) (University of Georgia)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV**. The mentors will then get in touch with you.
