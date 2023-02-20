@@ -32,8 +32,10 @@ This project will focus on the integration of E2E code with the [CMSSW](https://
 ## Requirements
 C++, Python, PyTorch and some previous experience in Machine Learning.
 
-## Task
-Please use this link to access the test for this project. Tests will be published by Feb. 24
+## Test
+Test will become live after GSoC Orgs are announced
+<!-- ## Test
+Please use [this link](https://drive.google.com/file/d/1mTpD6evd5HiBx8-MlxLdAvTxqOMbJq9h/view?usp=sharing) to access the test for this project. -->
 
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)

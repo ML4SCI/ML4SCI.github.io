@@ -5,9 +5,9 @@ project: CMS
 year: 2021
 organization:
   - Alabama
-  - BITS Pilani Goa
+  - New York University
   - Brown
-  - CMU
+  - Vishwakarma Institute of Technology
 
 ---
 
@@ -20,8 +20,9 @@ This project will focus on the integration of E2E code with the [CMSSW](https://
 
 
 ## Task ideas
- * Integration/interface of E2E with the CMSSW inference engine
- * Test and benchmarking of inference on GPUs
+ * Include Sonic support to the inference. Bring the cpu execution part to GPUs in the inference ([Reference](https://github.com/andyburton/Sonic-CMS))
+ * Add support for Vision transformers
+ * Add pytorch support to the inference ([Reference](https://cms-ml.github.io/documentation/inference/pytorch.html))
 
 ## Expected results
  * Integrated code within CMSSW classes
@@ -31,12 +32,15 @@ This project will focus on the integration of E2E code with the [CMSSW](https://
 ## Requirements
 C++, Python, PyTorch and some previous experience in Machine Learning.
 
+## Task
+Please use this link to access the test for this project. Tests will be published by Feb. 24
+
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
-  * [Davide DiCroce](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (BITS Pilani Goa)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Andrews](mailto:ml4-sci@cern.ch) (Carnegie Mellon University)
+  * [Purva Chaudhari](mailto:ml4-sci@cern.ch) (Carnegie Mellon University)
 
 
 Please DO NOT contact mentors directly by email, and instead please send project inquiries to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title in the subject and relevant mentors will get in touch with you. 

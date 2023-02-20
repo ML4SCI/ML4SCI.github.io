@@ -24,6 +24,8 @@ Total project length: 175 hours.
 ## Expected results
   * Results from training Neural Autoregressive Flow model to estimate the background on a physics analysis application searching for a resonance over a smooth background. 
  
+ ## Test
+Test will become live after GSoC Orgs are announced
 <!-- ## Test
 
 Please use [this link](https://docs.google.com/document/d/e/2PACX-1vQFS4M_MDcn8ROykYeH7fP12EMdOvnCH6vT9PUQjSHubSg6gabFA7BDKe8VqNeIZVVF6KNfIku2UAPr/pub) to access the test for this project. -->

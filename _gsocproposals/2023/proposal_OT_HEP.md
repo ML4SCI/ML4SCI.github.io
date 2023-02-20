@@ -24,6 +24,8 @@ Total project length: 175 hours.
 ## Task ideas and expected results
 Application of optimal transport techniques using deep learning for classification, anomaly detection and graph generative models in high energy physics.
 
+## Test
+Test will become live after GSoC Orgs are announced
 <!-- ## Test
 
 Please use this [link](https://docs.google.com/document/d/1dPJjCSMi2wfr7eLbJVIaFe1e6kIXOHlR/edit?usp=sharing&ouid=103538884238549030751&rtpof=true&sd=true
