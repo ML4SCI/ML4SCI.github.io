@@ -1,7 +1,7 @@
 ---
 title: Identifying the Physical Process of Planet Formation
 layout: gsoc_proposal
-project: PHSYFIND
+project: EXXA
 year: 2023
 organization:
  - Alabama
