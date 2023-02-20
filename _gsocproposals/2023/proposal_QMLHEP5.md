@@ -31,11 +31,7 @@ Total project length: 175 hours.
   
 
 ## Test
-Test will become live after GSoC Orgs are announced
-
-<!-- ## Test
-
-Please use [this link](https://docs.google.com/document/d/e/2PACX-1vSeQWHXbf-87eCPcEj-LcYEcBpPKnqCYoU0uf7PH-ou_XRdcg_xtXaP4fzSY8b_FiGMIyqsLjDNWqZD/pub) to access the test for this project. -->
+Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project.
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
