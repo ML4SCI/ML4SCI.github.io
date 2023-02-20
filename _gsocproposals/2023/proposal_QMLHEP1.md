@@ -30,9 +30,8 @@ Total project length: 175 hours.
   * Trained Quantum Generative Adversarial Network method based on e.g. Pennylane framework.
   * Successfully apply the Quantum Machine Learning method to LHC physics analyses and obtain performance benchmarks to compare to classical machine learning methods.
  
- ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test Please use [this link](https://docs.google.com/document/d/e/2PACX-1vSeQWHXbf-87eCPcEj-LcYEcBpPKnqCYoU0uf7PH-ou_XRdcg_xtXaP4fzSY8b_FiGMIyqsLjDNWqZD/pub) to access the test for this project. -->
+## Test
+Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project.
   
 ## Requirements 
   * Solid knowledge of machine learning and deep learning

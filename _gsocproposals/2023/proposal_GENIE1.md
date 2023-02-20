@@ -36,10 +36,14 @@ Test will become live after GSoC Orgs are announced
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
+  * [Amal Saif](mailto:ml4-sci@cern.ch) (PSUT)
   * [Tom Magorsch](mailto:ml4-sci@cern.ch) (TUM)
 
 ## Links
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)
   * [Paper 1](https://doi.org/10.1038/s41598-022-22086-3)
+  * [Paper 2](https://arxiv.org/abs/2104.01725) 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+
+
