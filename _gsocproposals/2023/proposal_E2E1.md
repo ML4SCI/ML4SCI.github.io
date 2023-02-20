@@ -2,12 +2,12 @@
 title: End-to-End Deep Learning Reconstruction for CMS Experiment
 layout: gsoc_proposal
 project: CMS
-year: 2023
+year: 2021
 organization:
   - Alabama
-  - Brown
-  - CMU
   - New York University
+  - Brown
+  - Vishwakarma Institute of Technology
 
 ---
 
@@ -18,33 +18,32 @@ One of the important aspects of searches for new physics at the [Large Hadron Co
 This project will focus on the integration of E2E code with the [CMSSW](https://github.com/cms-sw/cmssw) inference engine for use in reconstruction algorithms in offline and high-level trigger systems of the [CMS](https://home.cern/science/experiments/cms) experiment.
 
 
-## Duration
-
-Total project length: 175/350 hours.
 
 ## Task ideas
- * Integration/interface of E2E with the CMSSW inference engine
- * Test and benchmarking of inference on GPUs
+ * Include Sonic support to the inference. Bring the cpu execution part to GPUs in the inference ([Reference](https://github.com/andyburton/Sonic-CMS))
+ * Add support for Vision transformers
+ * Add pytorch support to the inference ([Reference](https://cms-ml.github.io/documentation/inference/pytorch.html))
 
 ## Expected results
  * Integrated code within CMSSW classes
  * Benchmark of end-to-end deep learning inference on cpu and gpu
 
-## Requirements
- * Skills: C++, Python, PyTorch and some previous experience in Machine Learning.
 
-<!-- ## Test
-Please use [this link](https://drive.google.com/file/d/1mTpD6evd5HiBx8-MlxLdAvTxqOMbJq9h/view?usp=sharing) to access the test for this project. -->
+## Requirements
+C++, Python, PyTorch and some previous experience in Machine Learning.
+
+## Task
+Please use this link to access the test for this project. Tests will be published by Feb. 24
 
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
-  * [Davide DiCroce](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
+  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (BITS Pilani Goa)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Andrews](mailto:ml4-sci@cern.ch) (Carnegie Mellon University)
+  * [Purva Chaudhari](mailto:ml4-sci@cern.ch) (Vishwakarma Institute of Technology)
 
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please DO NOT contact mentors directly by email, and instead please send project inquiries to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title in the subject and relevant mentors will get in touch with you. 
 
 
 
