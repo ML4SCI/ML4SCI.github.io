@@ -26,10 +26,16 @@ Application of optimal transport techniques using deep learning for classificati
 
 ## Test
 Test will become live after GSoC Orgs are announced
-<!-- ## Test
+
+<!-- 
+
+## Test
 
 Please use this [link](https://docs.google.com/document/d/1dPJjCSMi2wfr7eLbJVIaFe1e6kIXOHlR/edit?usp=sharing&ouid=103538884238549030751&rtpof=true&sd=true
-) to access the test for this project. -->
+) to access the test for this project.
+
+
+ -->
 
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.
