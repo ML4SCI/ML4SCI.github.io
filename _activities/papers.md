@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Contributor Publications"
 author: "Emanuele Usai"
 layout: default
 ---

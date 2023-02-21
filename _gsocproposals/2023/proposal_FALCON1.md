@@ -23,12 +23,15 @@ organization:
 Total project length: 175 hours.
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
+Test will become live after GSoC Orgs are announced.
 
-Please use this [link](https://docs.google.com/document/d/1D-4baai481dNyUHBPtTUSQjBT2Qfrw4s/edit?usp=sharing&ouid=103538884238549030751&rtpof=true&sd=true
-) to access the test for this project. -->
+<!-- 
 
+## Test
+Please use this [link](https://docs.google.com/document/d/1D-4baai481dNyUHBPtTUSQjBT2Qfrw4s/edit?usp=sharing&ouid=103538884238549030751&rtpof=true&sd=true) to access the test for this project.
+
+ -->
+ 
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.
 
