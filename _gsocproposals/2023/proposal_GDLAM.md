@@ -27,10 +27,7 @@ Total project length: 175 hours.
  *  Benchmarks of deep network model inference for muon momentum assignment for prompt and displaced particles
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
-
-Please use this [link](https://drive.google.com/file/d/13gQToLhaoKGM7hXJY2sxVaVFqvS0Z9X9/view?usp=sharing) to access the test for this project. -->
+Please use this [link](https://drive.google.com/file/d/13gQToLhaoKGM7hXJY2sxVaVFqvS0Z9X9/view?usp=sharing) to access the test for this project.
 
 ## Requirements
 Python, C++, and some previous experience in Machine Learning. 

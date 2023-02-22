@@ -32,9 +32,7 @@ Total project length: 175 hours.
 Python, PyTorch and relevant past experience in Machine Learning. 
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.  -->
+Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)

@@ -32,9 +32,7 @@ Total project length: 175 hours.
  * Skills: C++, Python, PyTorch and some previous experience in Machine Learning.
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test 
-Please use [this link](https://drive.google.com/file/d/1mTpD6evd5HiBx8-MlxLdAvTxqOMbJq9h/view?usp=sharing) to access the test for this project. -->
+Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project.
 
 ## Mentors
 
