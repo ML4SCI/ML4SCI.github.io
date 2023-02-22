@@ -9,7 +9,7 @@ organization:
 
 ## Description
 
-Understanding planet formation is key to unlocking Earth's and the Solar System's history as well as the possbility and abundance of life in the universe. Using observational and simulational data, the student will train machine learning models that can detect the presence of a particular physical process in planet-forming environments. The student will apply their models to data from real observations with the hopes of finding previously overlooked phenomena in order to further inform the scientific community of relevant, observable phenomena involved in planet formation.
+Understanding planet formation is key to unlocking Earth's and the Solar System's history as well as the possibility and abundance of life in the universe. Using observational and simulated data, the student will train machine learning models that can detect the presence of a particular physical process in planet-forming environments. The student will apply their models to data from real observations with the hopes of finding previously overlooked phenomena in order to further inform the scientific community of relevant, observable phenomena involved in planet formation.
 
 ## Duration
 
@@ -33,18 +33,11 @@ Total project length: 175 hours
 
 ## Mentors
 
-* [Sergei Gleyzer](http://sergeigleyzer.com/) (University of Alamaba)
+* [Sergei Gleyzer](http://sergeigleyzer.com/) (University of Alabama)
 
-Please DO NOT contact mentors directly by email. Instead, please email ml4-sci@cern.ch with Project Title and include your CV and test results. The relevant mentors will then get in touch with you.
+Please DO NOT contact mentors directly by email, and instead please send project inquiries to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title in the subject and relevant mentors will get in touch with you. 
 
-## Corresponding Project
-
-* [EXXA](https://ml4sci.org/gsoc/2023/proposal_EXXA.html)
 
 ## Links
 
 * [Previous Paper](https://iopscience.iop.org/article/10.3847/1538-4357/aca477)
-
-## Participating Organizations
-
-* [University of Alabama](https://physics.ua.edu/)

@@ -1,7 +1,7 @@
 ---
 title: Deriving planetary surface composition from orbiting observations from spacecraft
 layout: gsoc_proposal
-project: MESSENGER
+project: Lunar Prospector
 year: 2023
 organization:
  - Alabama
@@ -35,12 +35,16 @@ Please use [this link](https://drive.google.com/file/d/1QoxSdeL0JOqJJKCea75AwIya
 Python and relevant past experience in Machine Learning.
 
 
+
+
 ## Mentors
 
   * [Patrick Peplowski](mailto:ml4-sci@cern.ch) (JHUAPL)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Mauricio Allyon-Unzueta](mailto:ml4-sci@cern.ch) (NASA Goddard)
 
-
  
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+
+## Links
+  * [Paper 1](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005JE002656)
