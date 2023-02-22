@@ -5,7 +5,6 @@ project: EXXA
 year: 2023
 organization:
  - Alabama
- - Brown
  - EPFL
  - Georgia
 ---
@@ -46,7 +45,7 @@ No evaluation test for this project, however, we encourage you to:
 
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
   * [Jason Terry](mailto:ml4-sci@cern.ch) (University of Georgia)
 

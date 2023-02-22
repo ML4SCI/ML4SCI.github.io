@@ -6,8 +6,7 @@ year: 2023
 organization:
  - Alabama
  - Wisconsin
- - Waterloo
- - Brown
+ - TUM
 ---
 
 ## Description
@@ -42,8 +41,8 @@ Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOC
 ## Mentors
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Raphael Koh](mailto:ml4-sci@cern.ch) (University of Waterloo)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM) 
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)

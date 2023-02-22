@@ -5,7 +5,6 @@ project: E2E
 year: 2023
 organization:
   - Alabama
-  - Brown
   - CMU
   - New York University
 ---
@@ -38,11 +37,13 @@ Please use [this link](https://drive.google.com/file/d/1mTpD6evd5HiBx8-MlxLdAvTx
 
 ## Mentors
 
-  * [Davide DiCroce](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Michael Andrews](mailto:ml4-sci@cern.ch) (Carnegie Mellon University)
+  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.

@@ -6,7 +6,6 @@ year: 2023
 organization:
   - Alabama
   - New York University
-  - Brown
   - Vishwakarma Institute of Technology
 
 ---
@@ -38,11 +37,14 @@ Test will become live after GSoC Orgs are announced
 Please use [this link](https://drive.google.com/file/d/1mTpD6evd5HiBx8-MlxLdAvTxqOMbJq9h/view?usp=sharing) to access the test for this project. -->
 
 ## Mentors
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (BITS Pilani Goa)
+  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Purva Chaudhari](mailto:ml4-sci@cern.ch) (Vishwakarma Institute of Technology)
+  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
+
 
 
 Please DO NOT contact mentors directly by email, and instead please send project inquiries to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title in the subject and relevant mentors will get in touch with you. 

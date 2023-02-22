@@ -34,5 +34,6 @@ Please use this [link](https://docs.google.com/document/d/1eMtRPR-nH2NyituMBIDAZ
   * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (University of Kentucky)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
+  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.

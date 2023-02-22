@@ -6,6 +6,8 @@ year: 2023
 organization:
  - Alabama
  - EPFL
+ - Princess Sumaya University for Technology
+ - BITS Pilani Hyderabad
 ---
 
 ## Description

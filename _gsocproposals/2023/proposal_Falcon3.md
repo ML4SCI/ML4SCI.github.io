@@ -6,7 +6,6 @@ year: 2023
 organization: 
  - Alabama
  - EPFL
- - Brown
  - Middle East Technical University
  - Princess Sumaya University for Technology
 
@@ -38,9 +37,8 @@ Strong machine learning skills, good knowledge of C++ and Python. Interest in Ma
 
 ## Mentors 
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
-  * [Davide DiCroce](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sinan Gençoğlu](mailto:ml4-sci@cern.ch) (Middle East Technical University)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (Princess Sumaya University for Technology)
 

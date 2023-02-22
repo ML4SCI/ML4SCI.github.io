@@ -38,7 +38,6 @@ Strong machine learning skills, good knowledge of C++ and Python. Interest in Ma
 ## Mentors 
   * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
   * [Michelle Kuchera](mailto:ml4-sci@cern.ch) (Davidson College) 
-  * [John Blue](mailto:ml4-sci@cern.ch) (Davidson College)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
   * [Sinan Gençoğlu](mailto:ml4-sci@cern.ch) (Middle East Technical University)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (Princess Sumaya University for Technology)

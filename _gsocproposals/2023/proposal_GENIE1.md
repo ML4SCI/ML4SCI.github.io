@@ -6,6 +6,9 @@ year: 2023
 organization:
  - Alabama
  - EPFL
+ - TUM
+ - Princess Sumaya University for Technology
+ - BITS Pilani Hyderabad
 ---
 
 ## Description
@@ -38,6 +41,7 @@ Test will become live after GSoC Orgs are announced
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (PSUT)
   * [Tom Magorsch](mailto:ml4-sci@cern.ch) (TUM)
+  * [Ameya Thete](mailto:ml4-sci@cern.ch) (BITS Pilani)
 
 ## Links
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)
