@@ -13,7 +13,7 @@ organization:
 ---
 
 ## Description
-[DeepFalcon](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_138.pdf) is a generative ultra-fast non-parametric detector simulation package. The goal of this project is to extend DeepFalcon to include diffusion models to improve simulation of calorimeter and tracker hits from particle interaction with the detectors
+[DeepFalcon](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_138.pdf) is a generative ultra-fast non-parametric detector simulation package. The goal of this project is to extend DeepFalcon to extend the current graph VAE to improve simulation of calorimeter and tracker hits from particle interaction with the detectors
 
 ## Task ideas and expected results
   * Extend and scale Graph VAEs to the multi-layer detectors.
