@@ -15,7 +15,7 @@ One of the most important physical quantities in particle physics is the cross s
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas and expected results
   * Apply symbolic machine learning techniques to predict the squared amplitudes and cross section for high-energy physics 

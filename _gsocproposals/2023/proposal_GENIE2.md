@@ -16,7 +16,7 @@ In the search for new physics at the [Large Hadron Collider (LHC)](https://home.
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Develop implicit neural representation model for particle physics data

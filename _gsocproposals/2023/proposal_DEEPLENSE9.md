@@ -22,7 +22,7 @@ The goal of this project is to develop and test methods to identify lensed syste
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Explore the use of domain adaptation methods for lens finding. 

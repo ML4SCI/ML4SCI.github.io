@@ -20,7 +20,7 @@ This project will focus on further development of the DeepLense pipeline that co
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Update results for classification, regression, anomaly detection, etc. with simultion data new models of dark matter (e.g. SIDM, WDM)

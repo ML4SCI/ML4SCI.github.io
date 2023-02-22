@@ -14,7 +14,7 @@ State-of-the-art sequence to sequence models (seq2seq) have yielded spectacular 
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * The goal of the project is to use available seq2seq models to create the mapping between an histogram and a symbolic function. See more details [here](https://ml4sci.org/assets/faseroh.pdf).

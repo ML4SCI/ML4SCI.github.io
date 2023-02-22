@@ -17,7 +17,7 @@ The concept of Optimal Transport (OT) can be very useful in quantifying a distan
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas and expected results
 Application of optimal transport techniques using deep learning for classification, anomaly detection and graph generative models in high energy physics.

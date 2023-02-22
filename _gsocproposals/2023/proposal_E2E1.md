@@ -16,7 +16,9 @@ One of the important aspects of searches for new physics at the [Large Hadron Co
 
 This project will focus on the integration of E2E code with the [CMSSW](https://github.com/cms-sw/cmssw) inference engine for use in reconstruction algorithms in offline and high-level trigger systems of the [CMS](https://home.cern/science/experiments/cms) experiment.
 
+## Duration
 
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Include Sonic support to the inference. Bring the cpu execution part to GPUs in the inference ([Reference](https://github.com/andyburton/Sonic-CMS))

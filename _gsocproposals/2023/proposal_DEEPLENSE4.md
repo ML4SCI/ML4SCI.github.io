@@ -20,7 +20,7 @@ This project will focus on further development of the DeepLense pipeline that co
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Expand the DeepLense functionality to include vision transformers suitable for computer vision tasks applicable to DeepLense data

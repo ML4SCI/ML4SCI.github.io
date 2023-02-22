@@ -18,7 +18,7 @@ The intended model is supposed to perform anomaly detection on a graph-level, co
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Development of a model for graph based anomaly detection 

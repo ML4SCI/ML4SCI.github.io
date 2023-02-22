@@ -21,7 +21,7 @@ __This is a popular project.__
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas and expected results
   * Using publicly available observational data, models will be constructed that predict the presence of a planet. The participant may use data from any type of detection of method, and there is no limit to the number of detection methods that may be used. 

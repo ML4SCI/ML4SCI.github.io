@@ -13,7 +13,7 @@ Understanding planet formation is key to unlocking Earth's and the Solar System'
 
 ## Duration
 
-Total project length: 175 hours
+Total project length: 175/350 hours.
 
 ## Task Ideas
 

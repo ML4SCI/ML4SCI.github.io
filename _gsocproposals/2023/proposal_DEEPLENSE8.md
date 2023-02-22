@@ -19,7 +19,7 @@ This project will focus on further development of the simulations used in the De
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Help to streamline the simulation of strong lensing data sets. 
