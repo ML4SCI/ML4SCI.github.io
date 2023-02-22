@@ -6,7 +6,7 @@ layout: plain
 ## Full Mentor List (Name, Email, Org)
 
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Richard S. Miller](mailto:ml4-sci@cern.ch) (Johns Hopkins University Applied Physics Laboratory)
   * [James P. Mastandrea](mailto:ml4-sci@cern.ch) (Johns Hopkins University Applied Physics Laboratory)
   * [Patrick Peplowski](mailto:ml4-sci@cern.ch) (Johns Hopkins University Applied Physics Laboratory)
