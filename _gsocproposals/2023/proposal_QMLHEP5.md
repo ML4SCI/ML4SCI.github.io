@@ -18,7 +18,7 @@ With this project we seek to implement Quantum Machine Learning methods for LHC 
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Implement a quantum transformer architecture.

@@ -17,7 +17,7 @@ This project will focus on the development of end-to-end graph neural networks f
 
 ## Duration
 
-Total project length: 175 hours. 
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Development of end-to-end graph neural networks for low-momentum tau identification

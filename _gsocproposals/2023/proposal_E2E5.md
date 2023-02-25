@@ -13,6 +13,10 @@ organization:
 
 One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.   
 
+## Duration
+
+Total project length: 175/350 hours.
+
 ## Task ideas
  * Develop suitable equivariant neural network models and use them to analyze the collision data
  * Benchmark the equivariant neural network with vision transformers and convolution-based models

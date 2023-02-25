@@ -18,7 +18,7 @@ This project will focus on implementation and benchmarking of deep learning algo
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Development and Benchmarking of graph networks (GNN) for momentum regression in the trigger system

@@ -20,7 +20,7 @@ This project will focus on the development of deep learning-based image super-re
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Expand the DeepLense functionality with superresolution algorithms suitable for computer vision tasks applicable to strong gravitational lensing data.

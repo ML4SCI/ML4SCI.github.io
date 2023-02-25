@@ -10,7 +10,6 @@ organization:
  - Princess Sumaya University for Technology
  - CERN
 
-
 ---
 
 ## Description
@@ -18,23 +17,13 @@ The concept of Optimal Transport (OT) can be very useful in quantifying a distan
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas and expected results
 Application of optimal transport techniques using deep learning for classification, anomaly detection and graph generative models in high energy physics.
 
 ## Test
-Test will become live after GSoC Orgs are announced
-
-<!-- 
-
-## Test
-
-Please use this [link](https://docs.google.com/document/d/1dPJjCSMi2wfr7eLbJVIaFe1e6kIXOHlR/edit?usp=sharing&ouid=103538884238549030751&rtpof=true&sd=true
-) to access the test for this project.
-
-
- -->
+Please use this [link](https://docs.google.com/document/d/1bwRaHc0IYIcFOokMcW-mYJv2i24iP1mm08ALTSyQ4EI/edit?usp=sharing) to access the test for this project.
 
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.

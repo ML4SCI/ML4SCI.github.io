@@ -16,7 +16,7 @@ NASA has sent many robotic spacecraft to perform remote-sensing observations of 
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Identify the best ML model to extract element composition information from cumulative gamma-ray spectra using Lunar Prospector measurements of the Moon.

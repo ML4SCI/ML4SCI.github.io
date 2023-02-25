@@ -18,7 +18,7 @@ With this project we seek to implement Quantum Machine Learning methods for LHC 
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Implement a trainable embedding function to encode classical data onto a quantum model with contrastive learning. Try and develop different ideas for embedding functions and contrastive losses for training.

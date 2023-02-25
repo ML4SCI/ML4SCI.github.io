@@ -22,7 +22,7 @@ This project will focus on the development of self-supervised learning technique
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Explore the use of Transformers/Hybrid architectures with self-supervised learning for representation learning. The trained model can then be fine-tuned for specific tasks such as regression or classification.

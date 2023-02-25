@@ -15,7 +15,7 @@ In the search for new physics at the [Large Hadron Collider (LHC)](https://home.
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Develop diffusion models for learning the latent space structure
@@ -24,10 +24,10 @@ Total project length: 175 hours.
 ## Expected results
   * Functional diffusion model
   * Benchmarks on selected datasets
- 
-## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test Please use [this link](https://docs.google.com/document/d/e/2PACX-1vSeQWHXbf-87eCPcEj-LcYEcBpPKnqCYoU0uf7PH-ou_XRdcg_xtXaP4fzSY8b_FiGMIyqsLjDNWqZD/pub) to access the test for this project. -->
+
+
+## Test 
+Please use [this link](https://docs.google.com/document/d/10C8mNjE-WE6OuESjcnuJ_N430D-Hdtz-4_lLxGMnKbI/edit?usp=sharing) to access the test for this project.
   
 ## Requirements 
   * Skills: Python, PyTorch or Keras and some previous experience in Machine Learning. 
