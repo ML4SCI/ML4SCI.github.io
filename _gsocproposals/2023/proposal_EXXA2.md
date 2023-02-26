@@ -31,6 +31,9 @@ Total project length: 175 hours
 * Python, PyTorch, C/Fortran
 * Background in astronomy is a bonus but not a requirement
 
+## Test
+Use [this link](https://docs.google.com/document/d/10jZ7aubVkfkcpURQQnvrvbC7o3XgglsJwjS0UA7SRBE/edit?usp=sharing) for instructions on completing the test.
+
 ## Mentors
 
 * [Sergei Gleyzer](http://sergeigleyzer.com/) (University of Alamaba)
