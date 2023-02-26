@@ -15,7 +15,7 @@ One of the most important physical quantities in particle physics is the cross s
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas and expected results
   * Apply symbolic machine learning techniques to predict the squared amplitudes and cross section for high-energy physics 
@@ -24,15 +24,13 @@ Total project length: 175 hours.
 Python, C++ and some experience in Machine Learning sequence models.
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
-
-Please use this [link](https://docs.google.com/document/d/1eMtRPR-nH2NyituMBIDAZdmcCkZF2TyUFQp6zg-z5pA/edit) to access the test for this project. -->
+Please use this [link](https://docs.google.com/document/d/1eMtRPR-nH2NyituMBIDAZdmcCkZF2TyUFQp6zg-z5pA/edit) to access the test for this project.
 
 
 ## Mentors
   * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (University of Kentucky)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
+  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.

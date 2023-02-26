@@ -6,8 +6,7 @@ year: 2023
 organization:
  - Alabama
  - Wisconsin
- - Waterloo
- - Brown
+ - TUM
 ---
 
 ## Description
@@ -19,7 +18,7 @@ With this project we seek to implement Quantum Machine Learning methods for LHC 
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
   * Implement an equivariant quantum neural network.
@@ -30,10 +29,7 @@ Total project length: 175 hours.
   * Benchmark of the performance against a non-equivariant model
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
-
-Please use [this link](https://docs.google.com/document/d/e/2PACX-1vSeQWHXbf-87eCPcEj-LcYEcBpPKnqCYoU0uf7PH-ou_XRdcg_xtXaP4fzSY8b_FiGMIyqsLjDNWqZD/pub) to access the test for this project. -->
+Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project.
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
@@ -46,8 +42,8 @@ Please use [this link](https://docs.google.com/document/d/e/2PACX-1vSeQWHXbf-87e
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Raphael Koh](mailto:ml4-sci@cern.ch) (University of Waterloo)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)

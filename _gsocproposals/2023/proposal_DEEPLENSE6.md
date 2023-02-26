@@ -7,6 +7,8 @@ year: 2023
 organization:
   - Alabama
   - Brown
+  - Paris
+  - RWTH
 ---
 
 ## Description
@@ -18,7 +20,7 @@ This project will focus on the development of deep learning-based image super-re
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Expand the DeepLense functionality with superresolution algorithms suitable for computer vision tasks applicable to strong gravitational lensing data.
@@ -30,14 +32,14 @@ Total project length: 175 hours.
 Python, PyTorch and relevant past experience in Machine Learning. 
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.  -->
+Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
+  * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 

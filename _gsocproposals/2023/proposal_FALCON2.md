@@ -6,7 +6,6 @@ year: 2023
 organization: 
  - Alabama
  - EPFL
- - Brown
  - Middle East Technical University
  - Princess Sumaya University for Technology
  - CERN
@@ -14,7 +13,7 @@ organization:
 ---
 
 ## Description
-[DeepFalcon](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_138.pdf) is an ultra-fast non-parametric detector simulation package that automatically abstracts detector response, usually done by hand in fast-simulators used by particle physics experiments. The goal of this project is to extend the current implementation of graph auto-encoders to improve end-to-end simulation of the detector deposits. 
+[DeepFalcon](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_138.pdf) is a generative ultra-fast non-parametric detector simulation package. The goal of this project is to extend DeepFalcon to extend the current graph VAE to improve simulation of calorimeter and tracker hits from particle interaction with the detectors
 
 ## Task ideas and expected results
   * Extend and scale Graph VAEs to the multi-layer detectors.
@@ -22,22 +21,18 @@ organization:
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test 
-Please use this [link](https://docs.google.com/document/d/1D-4baai481dNyUHBPtTUSQjBT2Qfrw4s/edit?usp=sharing&ouid=103538884238549030751&rtpof=true&sd=true) to access the test for this project.  -->
-
+Please use this [link](https://docs.google.com/document/d/1bwRaHc0IYIcFOokMcW-mYJv2i24iP1mm08ALTSyQ4EI/edit?usp=sharing) to access the test for this project.
 
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.
 
 ## Mentors 
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
-  * [Davide DiCroce](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sinan Gençoğlu](mailto:ml4-sci@cern.ch) (Middle East Technical University)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (Princess Sumaya University for Technology)
 

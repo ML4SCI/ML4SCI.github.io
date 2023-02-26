@@ -8,6 +8,8 @@ organization:
   - Alabama
   - Brown
   - BITS Pilani Hyderabad
+  - Paris
+  - RWTH
 ---
 
 ## Description
@@ -18,7 +20,7 @@ This project will focus on further development of the DeepLense pipeline that co
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas
  * Update results for classification, regression, anomaly detection, etc. with simultion data new models of dark matter (e.g. SIDM, WDM)
@@ -30,9 +32,7 @@ Total project length: 175 hours.
 Python, PyTorch and relevant past experience in Machine Learning. 
 
 ## Test
-Test will become live after GSoC Orgs are announced
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.  -->
+Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
@@ -40,6 +40,8 @@ Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMK
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (BITS Pilani Hyderabad)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
+  * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 

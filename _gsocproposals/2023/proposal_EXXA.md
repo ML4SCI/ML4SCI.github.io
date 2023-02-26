@@ -5,7 +5,6 @@ project: EXXA
 year: 2023
 organization:
  - Alabama
- - Brown
  - EPFL
  - Georgia
 ---
@@ -22,7 +21,7 @@ __This is a popular project.__
 
 ## Duration
 
-Total project length: 175 hours.
+Total project length: 175/350 hours.
 
 ## Task ideas and expected results
   * Using publicly available observational data, models will be constructed that predict the presence of a planet. The participant may use data from any type of detection of method, and there is no limit to the number of detection methods that may be used. 
@@ -46,7 +45,7 @@ No evaluation test for this project, however, we encourage you to:
 
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
   * [Jason Terry](mailto:ml4-sci@cern.ch) (University of Georgia)
 
