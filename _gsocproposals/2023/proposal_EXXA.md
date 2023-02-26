@@ -32,7 +32,7 @@ Total project length: 175/350 hours.
   * Basic knowledge of astronomy and observations is useful but not required
 
 ## Test
-Test will become live after GSoC Orgs are announced
+Use [this link](https://docs.google.com/document/d/10jZ7aubVkfkcpURQQnvrvbC7o3XgglsJwjS0UA7SRBE/edit?usp=sharing) for instructions on completing the test.
 <!-- ## Test
 
 No evaluation test for this project, however, we encourage you to:
