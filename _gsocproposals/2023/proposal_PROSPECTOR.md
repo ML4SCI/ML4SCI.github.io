@@ -25,12 +25,9 @@ Total project length: 175/350 hours.
 ## Expected results
   * Identification of a suitable model with a proof-of-concept using Lunar Prospector data.
 
+
 ## Test
-The test will be available by Feb 28 2023.
-
-<!-- ## Test
-
-Please use [this link](https://drive.google.com/file/d/1QoxSdeL0JOqJJKCea75AwIyaujIV8gxB/view?usp=sharing) to access the test for this project. -->
+Please use [this link](https://ml4sci.org/assets/GSOC_2023_Evaluation_Test.pdf) to access the test for this project.
 
 ## Requirements 
 Python and relevant past experience in Machine Learning.

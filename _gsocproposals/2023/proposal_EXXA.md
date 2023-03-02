@@ -33,12 +33,7 @@ Total project length: 175/350 hours.
 
 ## Test
 Use [this link](https://docs.google.com/document/d/10jZ7aubVkfkcpURQQnvrvbC7o3XgglsJwjS0UA7SRBE/edit?usp=sharing) for instructions on completing the test.
-<!-- ## Test
 
-No evaluation test for this project, however, we encourage you to:
-  * submit your proposal by April 19
-  * submit an evaluation test for a different ML4SCI project to show your ML skills
-  * consider submitting an additional proposal for another ML4SCI project to increase your overall chances (this is a very popular project) -->
 
 ## Links
 * [Previous Paper](https://iopscience.iop.org/article/10.3847/1538-4357/aca477)
