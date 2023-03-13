@@ -34,6 +34,7 @@ Python and some previous experience with physics or astronomy.
 
 ## Test
 Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project.
+**The test is due by April 3rd, however please keep in mind that it takes about 1 week to craft a good proposal and proposals need to be submitted via GSoC portal by April 4**
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)

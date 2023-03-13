@@ -28,6 +28,7 @@ Total project length: 175/350 hours.
 
 ## Test
 Please use [this link](https://ml4sci.org/assets/GSOC_2023_Evaluation_Test.pdf) to access the test for this project.
+**The test is due by April 3rd, however please keep in mind that it takes about 1 week to craft a good proposal and proposals need to be submitted via GSoC portal by April 4**
 
 ## Requirements 
 Python and relevant past experience in Machine Learning.

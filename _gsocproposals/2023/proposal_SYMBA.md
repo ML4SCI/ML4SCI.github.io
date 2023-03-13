@@ -25,6 +25,7 @@ Python, C++ and some experience in Machine Learning sequence models.
 
 ## Test
 Please use this [link](https://docs.google.com/document/d/1eMtRPR-nH2NyituMBIDAZdmcCkZF2TyUFQp6zg-z5pA/edit) to access the test for this project.
+**The test is due by April 3rd, however please keep in mind that it takes about 1 week to craft a good proposal and proposals need to be submitted via GSoC portal by April 4**
 
 
 ## Mentors

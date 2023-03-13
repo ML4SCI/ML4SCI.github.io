@@ -35,6 +35,7 @@ C++, Python, PyTorch and some previous experience in Machine Learning.
 
 ## Test
 Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project.
+**The test is due by April 3rd, however please keep in mind that it takes about 1 week to craft a good proposal and proposals need to be submitted via GSoC portal by April 4**
 
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
