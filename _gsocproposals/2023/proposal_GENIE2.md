@@ -28,7 +28,6 @@ Total project length: 175/350 hours.
 
 ## Test 
 Please use [this link](https://docs.google.com/document/d/10C8mNjE-WE6OuESjcnuJ_N430D-Hdtz-4_lLxGMnKbI/edit?usp=sharing) to access the test for this project.
-**The test is due by April 3rd, however please keep in mind that it takes about 1 week to craft a good proposal and proposals need to be submitted via GSoC portal by April 4**
    
 ## Requirements 
   * Skills: Python, PyTorch or Keras and some previous experience in Machine Learning. 

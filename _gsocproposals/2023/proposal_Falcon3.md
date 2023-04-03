@@ -23,7 +23,6 @@ Total project length: 175/350 hours.
 
 ## Test
 Please use this [link](https://docs.google.com/document/d/1bwRaHc0IYIcFOokMcW-mYJv2i24iP1mm08ALTSyQ4EI/edit?usp=sharing) to access the test for this project.
-**The test is due by April 3rd, however please keep in mind that it takes about 1 week to craft a good proposal and proposals need to be submitted via GSoC portal by April 4**
  
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.
