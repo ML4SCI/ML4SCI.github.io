@@ -7,7 +7,7 @@ organization:
  - Alabama
  - EPFL
  - Princess Sumaya University for Technology
- - BITS Pilani Hyderabad
+ - BITS Pilani Goa
 ---
 
 ## Description
