@@ -19,7 +19,7 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   </tr>
   
   <tr>
-    <td><a href="[https://www.tommago.com/posts/gsoc23/](https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df)" target="_blank">"Reconstruction and Classification of Particle Collisions with Masked Transformer Autoencoders" by Eric Reinhardt</a></td>
+    <td><a href="https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df" target="_blank">"Reconstruction and Classification of Particle Collisions with Masked Transformer Autoencoders" by Eric Reinhardt</a></td>
   </tr>
 
 </table>
