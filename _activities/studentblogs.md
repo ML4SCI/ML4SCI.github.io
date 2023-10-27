@@ -17,6 +17,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   <tr>
     <td><a href="https://www.tommago.com/posts/gsoc23/" target="_blank">"Quantum Generative Adversarial Networks for HEP event generation the LHC" by Tom Magorsch</a></td>
   </tr>
+  
+  <tr>
+    <td><a href="https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df" target="_blank">"Reconstruction and Classification of Particle Collisions with Masked Transformer Autoencoders" by Eric Reinhardt</a></td>
+  </tr>
 
 </table>
 
