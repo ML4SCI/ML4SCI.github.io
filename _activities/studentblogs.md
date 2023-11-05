@@ -13,6 +13,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 ### Google Summer of Code 2023
 
 <table class="table table-hover table-striped">
+
+  <tr>
+    <td><a href="https://salcc.github.io/blog/gsoc23" target="_blank">"Quantum Transformers" by Marçal Comajoan Cara</a></td>
+  </tr>
   
   <tr>
     <td><a href="https://www.tommago.com/posts/gsoc23/" target="_blank">"Quantum Generative Adversarial Networks for HEP event generation the LHC" by Tom Magorsch</a></td>
