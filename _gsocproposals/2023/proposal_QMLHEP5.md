@@ -29,8 +29,8 @@ Total project length: 175/350 hours.
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
   
 
-## Test
-Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project.
+<!-- ## Test
+Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project. -->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning

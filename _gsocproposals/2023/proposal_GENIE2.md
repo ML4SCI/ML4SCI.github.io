@@ -26,8 +26,8 @@ Total project length: 175/350 hours.
   * Functional INR model
   * Benchmark results  on selected datasets
 
-## Test 
-Please use [this link](https://docs.google.com/document/d/10C8mNjE-WE6OuESjcnuJ_N430D-Hdtz-4_lLxGMnKbI/edit?usp=sharing) to access the test for this project.
+<!-- ## Test 
+Please use [this link](https://docs.google.com/document/d/10C8mNjE-WE6OuESjcnuJ_N430D-Hdtz-4_lLxGMnKbI/edit?usp=sharing) to access the test for this project. -->
    
 ## Requirements 
   * Skills: Python, PyTorch or Keras and some previous experience in Machine Learning. 

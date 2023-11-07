@@ -28,8 +28,8 @@ Total project length: 175/350 hours.
   * Trained equivariant quantum neural networks with e.g. Pennylane framework.
   * Benchmark of the performance against a non-equivariant model
 
-## Test
-Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project.
+<!-- ## Test
+Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project. -->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning

@@ -29,8 +29,8 @@ Total project length: 175/350 hours.
   * Python, previous experience in machine learning
   * Basic knowledge of astronomy and observations is useful but not required
 
-## Test
-Use [this link](https://docs.google.com/document/d/10jZ7aubVkfkcpURQQnvrvbC7o3XgglsJwjS0UA7SRBE/edit?usp=sharing) for instructions on completing the test.
+<!-- ## Test
+Use [this link](https://docs.google.com/document/d/10jZ7aubVkfkcpURQQnvrvbC7o3XgglsJwjS0UA7SRBE/edit?usp=sharing) for instructions on completing the test. -->
 
 
 ## Links

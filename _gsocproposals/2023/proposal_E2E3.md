@@ -31,8 +31,8 @@ Total project length: 175/350 hours.
 ## Requirements
  * Skills: C++, Python, PyTorch and some previous experience in Machine Learning.
 
-## Test
-Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project.
+<!-- ## Test
+Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project. -->
 
 ## Mentors
 
