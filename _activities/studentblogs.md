@@ -31,7 +31,7 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   </tr>
 
   <tr>
-    <td><a href="https://medium.com/@saranga.boo/updating-the-deeplense-pipeline-part-2-gsoc-2023-with-ml4sci-299a48d0dd23" target=_blank">"Updating the DeepLense Pipeline" by Saranga Mahanta</a></td>
+    <td><a href="https://medium.com/@saranga.boo/updating-the-deeplense-pipeline-part-2-gsoc-2023-with-ml4sci-299a48d0dd23" target="_blank">"Updating the DeepLense Pipeline" by Saranga Mahanta</a></td>
   </tr>
 
   <tr>
