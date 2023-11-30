@@ -31,6 +31,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   </td>
   </tr>
 
+  <tr>
+    <td><a href="https://medium.com/@zhontiandong/equivariant-quantum-neural-networks-be4ba231c457" target="_blank">"Equivariant Quantum Neural Networks" by Zhongtian Dong</a></td>
+  </tr>
+
 </table>
 
 
