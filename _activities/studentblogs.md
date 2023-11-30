@@ -15,6 +15,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 <table class="table table-hover table-striped">
 
   <tr>
+    <td><a href="https://medium.com/@yaashwardhan/self-supervised-learning-for-strong-gravitational-lensing-part1-5a049e976b51" target="_blank">"Self-Supervised Learning for Strong Gravitational Lensing" by Yashwardhan Deshmukh</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://salcc.github.io/blog/gsoc23" target="_blank">"Quantum Transformers" by Marçal Comajoan Cara</a></td>
   </tr>
   
@@ -26,9 +30,8 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df" target="_blank">"Reconstruction and Classification of Particle Collisions with Masked Transformer Autoencoders" by Eric Reinhardt</a></td>
   </tr>
 
-  <td>
-    <a href="https://medium.com/@saranga.boo/updating-the-deeplense-pipeline-part-2-gsoc-2023-with-ml4sci-299a48d0dd23" target=_blank">"Updating the DeepLense Pipeline" by Saranga Mahanta</a>
-  </td>
+  <tr>
+    <td><a href="https://medium.com/@saranga.boo/updating-the-deeplense-pipeline-part-2-gsoc-2023-with-ml4sci-299a48d0dd23" target=_blank">"Updating the DeepLense Pipeline" by Saranga Mahanta</a></td>
   </tr>
 
 </table>
