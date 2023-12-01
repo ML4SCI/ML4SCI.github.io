@@ -17,7 +17,9 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   <tr>
     <td><a href="https://medium.com/@yaashwardhan/self-supervised-learning-for-strong-gravitational-lensing-part1-5a049e976b51" target="_blank">"Self-Supervised Learning for Strong Gravitational Lensing" by Yashwardhan Deshmukh</a></td>
   </tr>
-
+  <tr>
+    <td><a href="https://kingjuno.github.io/gsoc/" target="_blank">"Equivariant Neural Network for Signatures of Dark Matter Morphology in Strong Lensing Data" by Geo Jolly</a></td>
+  </tr>
   <tr>
     <td><a href="https://salcc.github.io/blog/gsoc23" target="_blank">"Quantum Transformers" by Marçal Comajoan Cara</a></td>
   </tr>
