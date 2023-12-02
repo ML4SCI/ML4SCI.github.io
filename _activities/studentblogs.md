@@ -15,6 +15,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 <table class="table table-hover table-striped">
 
   <tr>
+    <td><a href="https://medium.com/@neerajanandfirst/my-journey-to-google-summer-of-code-2023-with-ml4sci-8822ce64464a" target="_blank">"Symbolic empirical representation of squared amplitudes in high-energy physics" by Neeraj Anand</a></td>
+  </tr>
+
+  <tr>
     <td><a href="https://medium.com/@yaashwardhan/self-supervised-learning-for-strong-gravitational-lensing-part1-5a049e976b51" target="_blank">"Self-Supervised Learning for Strong Gravitational Lensing" by Yashwardhan Deshmukh</a></td>
   </tr>
   <tr>
