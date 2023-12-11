@@ -4,7 +4,10 @@ author: "Andrei Gheata"
 layout: default
 ---
 
-# ![ML4SCI](/images/CERN-HSF-GSoC-logo.png){:height="100px"} Google Summer of Code blog posts
+
+# ![ML4SCI](/images/CERN-HSF-GSoC-logo.png)
+
+# Google Summer of Code blog posts
 
 ## Introduction
 
@@ -42,6 +45,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 
   <tr>
     <td><a href="https://medium.com/@zhontiandong/equivariant-quantum-neural-networks-be4ba231c457" target="_blank">"Equivariant Quantum Neural Networks" by Zhongtian Dong</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://medium.com/@akshit.chodhary/wrap-up-gsoc-2023-ml4sci-2f98adaa21ae" target="_blank">"Diffusion Models for Fast Detector Simulation" by Akshit Choudhari</a></td>
   </tr>
 
 </table>
