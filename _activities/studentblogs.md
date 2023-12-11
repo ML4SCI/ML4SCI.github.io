@@ -44,6 +44,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@zhontiandong/equivariant-quantum-neural-networks-be4ba231c457" target="_blank">"Equivariant Quantum Neural Networks" by Zhongtian Dong</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://medium.com/@dsandeepan995/gsoc23-with-ml4sci-deriving-planetary-surface-composition-from-orbiting-observations-from-46f81885c9be" target="_blank">"Deriving planetary surface composition from orbiting observations from spacecraft" by Sandeepan Dhoundiyal</a></td>
+  </tr>
+
 </table>
 
 
