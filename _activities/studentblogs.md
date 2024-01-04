@@ -54,6 +54,9 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   <tr>
     <td><a href="https://medium.com/@akshit.chodhary/wrap-up-gsoc-2023-ml4sci-2f98adaa21ae" target="_blank">"Diffusion Models for Fast Detector Simulation" by Akshit Choudhari</a></td>
   </tr>
+  <tr>
+    <td><a href="https://royforestano.github.io/blog/2023/2023-gsoc-ml4sci-qmlhep/" target="_blank">"Invariant and Equivariant Classical and Quantum Graph Neural Networks" by Roy T. Forestano</a></td>
+  </tr>
 
 </table>
 
