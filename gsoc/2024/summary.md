@@ -1,7 +1,7 @@
 ---
-title: Summary of GSoC 2023 Projects and Supervisors
+title: Summary of GSoC 2024 Projects and Supervisors
 layout: plain
-year: 2023
+year: 2024
 ---
 
 ## Full List of Proposals
