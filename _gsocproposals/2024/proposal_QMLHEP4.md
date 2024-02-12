@@ -38,17 +38,23 @@ Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOC
   * Ability to work independently and proactive on a research project
   * Basic mathematics of group theory 
 
+## Difficulty Level
+  * Intermediate/Advanced
+
 ## Mentors
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
+  * [KC Kong](mailto:ml4-sci@cern.ch) (University of Kansas)
+
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)
   * [Pennylane](https://pennylane.ai)
   * [Paper 1](https://arxiv.org/abs/2210.08566)
+  * [Paper 2](https://arxiv.org/abs/2311.18672)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.

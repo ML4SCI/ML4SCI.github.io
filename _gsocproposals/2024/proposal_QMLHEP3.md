@@ -38,12 +38,16 @@ Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOC
   * Strong python skills
   * Ability to work independently and proactive on a research project 
 
+## Difficulty Level
+  * Intermediate/Advanced
+
 ## Mentors
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
+  * [Amey Bhatuse](mailto:ml4-sci@cern.ch) (VIT)
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)

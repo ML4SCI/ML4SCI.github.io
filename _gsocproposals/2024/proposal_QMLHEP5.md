@@ -21,7 +21,7 @@ With this project we seek to implement Quantum Machine Learning methods for LHC 
 Total project length: 175/350 hours.
 
 ## Task ideas
-  * Implement a quantum transformer architecture.
+  * Implement a quantum transformer architecture (QVIT, QTF).
   * Benchmark the trained model on selected tasks by e.g. employing a hybrid vision transformer.
  
 ## Expected results
@@ -38,12 +38,16 @@ Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOC
   * Strong python skills
   * Ability to work independently and proactive on a research project
 
+## Difficulty Level
+  * Intermediate/Advanced
+
 ## Mentors
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
+  * [Marçal Comajoan Cara](mailto:ml4-sci@cern.ch) (Polytecnic University of Catalonia)
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)
