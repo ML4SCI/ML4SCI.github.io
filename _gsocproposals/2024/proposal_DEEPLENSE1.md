@@ -1,9 +1,9 @@
 ---
-title: Gravitational Lens Finding for Dark Matter Substructure Pipeline
+title: Superresolution for Strong Gravitational Lensing
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr/350hr
-year: 2023
+year: 2024
 organization:
   - Alabama
   - Brown
@@ -13,19 +13,20 @@ organization:
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate [WIMP](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particles) particle dark matter from other well motivated models, including vortex substructure of dark matter condensates and superfluids.
+Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter etc. 
+Gravitational lensing data is often collected at low resolution due to the limitations of the instruments or observing conditions. Image super-resolution techniques can be used to enhance the resolution of these images with machine learning, allowing for more precise measurements of the lensing effects and a better understanding of the distribution of matter in the lensing system. This can improve our understanding of the mass distribution of the lensing galaxy and its environment, as well as the properties of the background source being lensed. 
 
-This project will focus on further development of the DeepLense pipeline that combines state-of-the art of deep learning models with strong lensing simulations based on [lenstronomy](https://lenstronomy.readthedocs.io/en/latest/). The focus of this project is detecting strong lenses from data sets of mock surveys. These new found lenses can then be passed on to the rest of the DeepLense pipeline for detection, classification, and interpretation of dark matter substructure.
+This project will focus on the development of deep learning-based image super-resolution techniques such as conditional diffusion models to enhance the resolution of gravitational lensing data. Furthermore, we will also investigate leveraging the super-resolution models for other strong lensing tasks such as regression and lens finding.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Construct an algorithm to identify strong lensing images in data sets (both real and simulated). 
+ * Expand the DeepLense functionality with superresolution algorithms suitable for computer vision tasks applicable to strong gravitational lensing data.
 
 ## Expected results
- *  New results on most recent DeepLense data sets for multi-class classification, regression, anomaly detection, etc. 
+ *  Develop a superresolution model for DeepLense training and inference.
 
 ## Requirements
 Python, PyTorch and relevant past experience in Machine Learning. 
@@ -34,9 +35,10 @@ Python, PyTorch and relevant past experience in Machine Learning.
 Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project. -->
 
 ## Mentors
+  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
+  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
   * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Jeremy Quijano](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)
   * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
   * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 
