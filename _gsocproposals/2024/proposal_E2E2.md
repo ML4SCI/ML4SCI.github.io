@@ -1,53 +1,56 @@
 ---
-title: Graph Neural Networks for End-to-End Particle Identification with the CMS Experiment
+title: Masked Auto-Encoders for Efficient End-to-End Particle Reconstruction and Compression for the CMS Experiment
 layout: gsoc_proposal
 project: E2E
-year: 2023
+year: 2024
 organization:
   - Alabama
-  - CMU
+  - NISER
   - New York University
+
 ---
 
 ## Description
 
-One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.   
+One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.
 
-This project will focus on the development of end-to-end graph neural networks for particle (tau) identification and [CMSSW](https://github.com/cms-sw/cmssw) inference engine for use in reconstruction algorithms in offline and high-level trigger systems of the [CMS](https://home.cern/science/experiments/cms) experiment.
+The data involved in these tasks are often sparse low-level detector information, which is computationally expensive to store and process. Recent works have shown masked auto-encoders to be a viable alternative to generic autoencoder-based architecture for data compression and downstream transfer learning-based tasks. The aim of this project will be to develop state-of-the-art Vision-Tranformer-based hybrid masked autoencoders to achieve competitive reconstruction and transfer learning scores when compared to pre-existing methods.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Development of end-to-end graph neural networks for low-momentum tau identification
- * Test and benchmarking of inference on GPUs
+ * Develop MAE (Masked Auto Encoders) with Vision-Transformer based encoders to compress the sparse images to feature vectors.
+ * Test Reconstruction Error and Downstream Task (classification and regression) score and compare it to existing baselines.
+ * Extend the idea of MAE to hybrid (Conv + ViT) architectures and compare score for downstream tasks.
+
+
 
 ## Expected results
- * Trained end-to-end graph neural network model for tau identification 
- * Benchmark of end-to-end GNN inference on gpu
+ * Development of state-of-the-art encoder based on hybrid ViT architectures trained using Masked Auto-Encoder Loss to compress E2E data to feature vectors.
+
+
+## Difficulty level
+Advanced
 
 ## Requirements
- * Skills: C++, Python, PyTorch and some previous experience in Machine Learning.
+C++, Python, PyTorch, Tensorflow and some previous experience in Deep Learning.
 
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project. -->
 
 ## Mentors
-
-  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
+  * [Diptarko Choudhury](mailto:ml4-sci@cern.ch) (NISER)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Andrews](mailto:ml4-sci@cern.ch) (Carnegie Mellon University)
-  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
+  * [Bhim Bam](mailto:ml4-sci@cern.ch) (University of Alabama)
+
 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
-
-
 ## Links
-  * [Paper 1](https://arxiv.org/abs/1807.11916)
-  * [Paper 2](https://arxiv.org/abs/1902.08276)
+  * [Paper 1](https://arxiv.org/abs/2111.06377)

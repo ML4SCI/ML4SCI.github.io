@@ -1,49 +1,52 @@
 ---
-title: Exploring the underlying symmetries in particle physics with equivariant neural networks
+title: End-to-End Deep Learning Inference for mass regression for CMS Experiment
 layout: gsoc_proposal
 project: CMS
-year: 2023
+year: 2024
 organization:
   - Alabama
   - New York University
-
+  - Vishwakarma Institute of Technology
 ---
 
 ## Description
 
 One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.   
 
+ One of the main objectives of the CMS experiments research and development towards high-luminosity LHC is to incorporate cutting-edge machine learning algorithms for particle reconstruction and identification into the CMS software framework (CMSSW) data processing pipeline. This project will focus on the integration of E2E framework with the [CMSSW](https://github.com/cms-sw/cmssw) inference engine for use in reconstruction algorithms in offline and high-level trigger systems of the [CMS](https://home.cern/science/experiments/cms) experiment.
+
 ## Duration
 
 Total project length: 175/350 hours.
 
+## Difficulty level
+Intermediate
+
 ## Task ideas
- * Develop suitable equivariant neural network models and use them to analyze the collision data
- * Benchmark the equivariant neural network with vision transformers and convolution-based models
- * Extend the idea of Equivariant Neural Networks to exploit symmetries to finding and understanding symmetries and asymmetries in the data
+ * Development of end-to-end deep learning regression for particle property measurements
+ * Test and integration into CMSSW
+
 
 ## Expected results
- * Achieve competitive results using equivariant neural networks
- * Benchmark the models with other previous works in terms of speed, performance and data efficiency.
+ * Extension of currently integrated E2E CMSSW prototype to include the regression model inference
 
 
 ## Requirements
-C++, Python, PyTorch, Tensorflow and some previous experience in Machine Learning.
+C++, Python, PyTorch and some previous experience in Machine Learning.
 
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project. -->
 
 ## Mentors
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (BITS Pilani Goa)
+  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
-
+  * [Purva Chaudhari](mailto:ml4-sci@cern.ch) (Vishwakarma Institute of Technology)
+  
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
+
+
 ## Links
-  * [Paper 1](https://arxiv.org/abs/1807.11916)
-  * [Paper 2](https://arxiv.org/abs/1902.08276)
+  * [Paper 1](https://arxiv.org/abs/2309.14254)

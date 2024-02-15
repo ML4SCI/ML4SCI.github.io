@@ -1,56 +1,53 @@
 ---
-title: End-to-End Deep Learning Reconstruction for CMS Experiment
+title: Discovering and exploiting abstract symmetry elements obtained from low-level data within the CMS experiment
 layout: gsoc_proposal
-project: CMS
-year: 2023
+project: E2E
+year: 2024
 organization:
   - Alabama
-  - New York University
-  - Vishwakarma Institute of Technology
+  - NISER
 
 ---
 
 ## Description
 
-One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.   
+One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.
 
-This project will focus on the integration of E2E code with the [CMSSW](https://github.com/cms-sw/cmssw) inference engine for use in reconstruction algorithms in offline and high-level trigger systems of the [CMS](https://home.cern/science/experiments/cms) experiment.
+This project explores the development of Physics-Aware Neural Networks (PANN) which require sophisticated data-efficient neural networks that can learn hidden underlying symmetries and generalise from a small dataset.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Include Sonic support to the inference. Bring the cpu execution part to GPUs in the inference ([Reference](https://github.com/andyburton/Sonic-CMS))
- * Add support for Vision transformers
- * Add pytorch support to the inference ([Reference](https://cms-ml.github.io/documentation/inference/pytorch.html))
+ * Develop a deep learning model capable of uncovering the hidden symmetries present in the dataset.
+ * Utilise this hidden symmetry to build a physics aware neural network.
+
 
 ## Expected results
- * Integrated code within CMSSW classes
- * Benchmark of end-to-end deep learning inference on cpu and gpu
+ * Discover hidden symmetries present in the CMS dataset 
+ * Benchmark the models with other previous works in terms of and data efficiency and invariance with respect to symmetry operations.
 
+## Difficulty level
+Advanced
 
 ## Requirements
-C++, Python, PyTorch and some previous experience in Machine Learning.
+C++, Python, PyTorch, Tensorflow and some previous experience in Deep Learning.
 
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project. -->
 
 ## Mentors
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Shravan Chaudhari](mailto:ml4-sci@cern.ch) (New York University)
+  * [Diptarko Choudhury](mailto:ml4-sci@cern.ch) (NISER)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Purva Chaudhari](mailto:ml4-sci@cern.ch) (Vishwakarma Institute of Technology)
+  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
-
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
-
-
 ## Links
-  * [Paper 1](https://arxiv.org/abs/1807.11916)
-  * [Paper 2](https://arxiv.org/abs/1902.08276)
+  * [Paper 1](https://arxiv.org/abs/2302.00236)
+  * [Paper 2](https://arxiv.org/abs/2104.09459)
