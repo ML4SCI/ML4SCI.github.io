@@ -1,5 +1,5 @@
 ---
-title: Transformers for Dark Matter Morphology with Strong Gravitational Lensing 
+title: Learning Representation Through Self-Supervised Learning on Real Gravitational Lensing Images 
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr
@@ -14,20 +14,26 @@ organization:
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate [WIMP](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particles) particle dark matter from other well motivated models, including vortex substructure of dark matter condensates and superfluids.
+Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter etc.
 
-This project will focus on further development of the DeepLense pipeline that combines state-of-the art of deep learning models with strong lensing simulations based on [lenstronomy](https://lenstronomy.readthedocs.io/en/latest/). The focus of this project is using transformers (e.g. vision transformers) to augment the performence of DeepLense algorithms (e.g. classification and regression). 
+Supervised classification can be difficult when the number of known objects of a particular class is very small. This is usually the case for strong gravitational lensing images, where the number of samples from one or more classes are relatively lower than others. Self-supervised learning (SSL) has proven to outperform standard supervised machine learning models, particularly when the number of data labels available for supervision is low. Moreover, SSL can take advantage of very large unlabelled datasets that would be difficult or impossible to label manually and build meaningful representations. To date, only convolutional neural networks (CNNs) have been used with the SSL technique for strong gravitational lensing data. Transformers or hybrid models (Transformers + CNN) promise more robustness for representation learning but have not been addressed by the community. This project will focus on the development of self-supervised learning techniques with Transformers for strong gravitational lensing data on real dataset 
 
 ## Duration
 
 Total project length: 175/350 hours.
 
+## Difficulty level
+Advanced
+
 ## Task ideas
- * Expand the DeepLense functionality to include vision transformers suitable for computer vision tasks applicable to DeepLense data
+ * Explore the use of Transformers/Hybrid architectures with self-supervised learning for representation learning on real dataset. The trained model can then be fine-tuned for specific tasks such as regression or classification.
+ * Explore the use of Equivariant Transformers with self-supervised learning for representation learning on real dataset. The trained model could then be fine-tuned for specific tasks such as regression or classification.
+ * Expand the DeepLense functionality with self-supervised learning algorithms suitable for computer vision tasks applicable to strong gravitational lensing data.
+
 
 ## Expected results
- *  Develop a deep vision transformer learning model for DeepLense training and inference
-
+ *  Develop a self-supervised learning transformer model for DeepLense training and inference.
+   
 ## Requirements
 Python, PyTorch and relevant past experience in Machine Learning. 
 
@@ -35,11 +41,11 @@ Python, PyTorch and relevant past experience in Machine Learning.
 Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project. -->
 
 ## Mentors
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (BITS Pilani Hyderabad)
-  * [Stephon Alexander](mailto:ml4-sci@cern.ch)(Brown University)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch)(University of Alabama)
   * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
   * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 

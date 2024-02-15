@@ -1,5 +1,5 @@
 ---
-title: Equivariant Neural Networks for Dark Matter Morphology with Strong Gravitational Lensing 
+title: Search for Strong Gravitational Lenses 
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr
@@ -14,19 +14,26 @@ organization:
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate [WIMP](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particles) particle dark matter from other well motivated models, including vortex substructure of dark matter condensates and superfluids.
+Strong gravitational lensing is a powerful tool in exploring various astrophysical questions, including probing the substructure in dark matter haloes of the lensing galaxies. However one of the main limitations of such analysis is the relatively small number of known lens candidates and confirmed lens systems. 
 
-This project will focus on further development of the DeepLense pipeline that combines state-of-the art of deep learning models with strong lensing simulations based on [lenstronomy](https://lenstronomy.readthedocs.io/en/latest/). The focus of this project is using equivariant neural networks for classification and regression of dark matter particle candidates (e.g. CDM, WDM, axions, SIDM).
+Recent works have shown the potential of CNNs in the task of lens finding — classification of images obtained from the telescopes into lensed and non-lensed systems. Since the number of real lenses is insufficient for training a machine learning algorithm, training datasets heavily rely on simulations. However it has been noticed that CNNs perform worse on lens images obtained with the instrument from the one that simulations were tailored to reproduce (for example, different surveys use different color filters and have different resolution).
+
+The goal of this project is to investigate the prospects of using domain adaptation techniques to bridge the gap between simulated data used for training and real images from different surveys (such as [HSC-SSP](https://hsc.mtk.nao.ac.jp/ssp/), [HST](https://science.nasa.gov/mission/hubble/), [DES](https://www.darkenergysurvey.org), [JWST](https://webb.nasa.gov), and future missions) and explore which type of lenses has a higher risk of being lost during the automated searches.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
-## Task ideas
- * Expand the DeepLense functionality with equivariant networks suitable for computer vision tasks applicable to DeepLense data
+## Difficulty level
 
+Intermediate
+
+## Task ideas
+ * Compare the performance of supervised neural networks with various architectures (convolutional, residual, equivariant) on the simulated dataset.
+ * For the best model explore the use of domain adaptation techniques in application to real data
+   
 ## Expected results
- *  Develop an equivariant deep learning model for DeepLense training and inference
+ *  Develop a model for lens finding and apply it to real observational data.
 
 ## Requirements
 Python, PyTorch and relevant past experience in Machine Learning. 
@@ -35,9 +42,9 @@ Python, PyTorch and relevant past experience in Machine Learning.
 Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project. -->
 
 ## Mentors
+  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (BITS Pilani Hyderabad)
   * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
   * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)

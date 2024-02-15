@@ -1,5 +1,5 @@
 ---
-title: Updating the DeepLense Pipeline
+title: Diffusion Models for Gravitational Lensing Simulation
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr
@@ -14,35 +14,37 @@ organization:
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate [WIMP](https://en.wikipedia.org/wiki/Weakly_interacting_massive_particles) particle dark matter from other well motivated models, including vortex substructure of dark matter condensates and superfluids.
+Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter, etc.
 
-This project will focus on further development of the DeepLense pipeline that combines state-of-the art of deep learning models with strong lensing simulations based on [lenstronomy](https://lenstronomy.readthedocs.io/en/latest/). The focus of this project will be updating the previous results of DeepLense with our new dark matter simulations (e.g. WDM and SIDM).
+Traditional simulations of gravitational lensing are time-consuming and require extensive computational resources. This project proposes the use of diffusion models, a class of generative models known for their ability to produce high-quality, detailed images from a distribution of noise, to simulate strong gravitational lensing images. We aim to generate realistic simulations of gravitational lensing events that can be used to augment datasets for machine learning models and facilitate the development of better domain adaptation and self-supervised models aimed at bridging the gap between simulated and real images of gravitational lensing. Furthermore, we will also investigate leveraging conditional diffusion models to generate gravitational lensing simulations by conditioning the model on specific parameters related to the lensing events, such as the mass distribution of the lensing galaxy, orientation, and the redshift of both the source and the lens.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
+## Difficulty level
+
+Advanced
+
 ## Task ideas
- * Update results for classification, regression, anomaly detection, etc. with simultion data new models of dark matter (e.g. SIDM, WDM)
+ * Explore diffusion models for the generation of strong gravitational lensing images.
+ * Create a diverse dataset of simulated gravitational lensing images under various astrophysical conditions.
 
 ## Expected results
- *  New results on most recent DeepLense data sets for multi-class classification, regression, anomaly detection, etc. 
+ *  A diffusion model capable of generating realistic simulations of strong gravitational lensing phenomena.
 
 ## Requirements
-Python, PyTorch and relevant past experience in Machine Learning. 
+ * Python, PyTorch and relevant past experience in Machine Learning.
+ * Familiarity with astrophysics and gravitational lensing is preferred but not required.
 
 <!-- ## Test
 Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMKlbq3ID3spiW0npe1s1fXwg/edit?usp=sharing) to access the test for this project. -->
 
 ## Mentors
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
+  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Michael Toomey](mailto:ml4-sci@cern.ch) (Brown University)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (BITS Pilani Hyderabad)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
-  * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
-
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
 
