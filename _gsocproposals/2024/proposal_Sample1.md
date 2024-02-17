@@ -1,42 +1,41 @@
 ---
-title:  Characterization of Transiting Exoplanets from Transmission Spectroscopy
+title:  TBC
 layout: gsoc_proposal
-project: EXXA
+project: TBC
 year: 2024
 organization:
-  - University of Florida
+  - YourInstitute
 
 ---
 
 ## Description
 
-Transmission spectroscopy provides a powerful tool to decode the chemical composition of the atmospheres of transiting exoplanets. This project will bring in modern machine learning (ML) methods to advance the theoretical framework for exoplanet parameter retrievals and test it using synthetic spectroscopic data. A tangible output of this work will be a publicly available code that takes a spectrum of a transiting planet and returns a reliable determination, with corresponding uncertainties, of its atmospheric chemical composition.
+Proposal TBC
 
 ## Duration
 
 Total project length: 175 hours
 
 ## Task ideas
- * Training a regression ML model using publicly available spectroscopic database
- * Uncertainty quantification on the retrieved parameters
+ * Add task idea
 
 ## Expected results
- * publicly available code to be used for spectral analysis of exoplanet observations from the JWST and Ariel missions
- * Benchmarking the results against existing Bayesian retrieval models (TauREx, Transit)
+ * Add expected result 1
+ * Add expected result 2 etc
 
 ## Requirements
-  * Python, previous experience in machine learning
-  * Basic knowledge of astronomy and observations is useful but not required
+Add requirements here
+
+## Project difficulty level
+Easy/Medium/Hard
 
 ## Mentors
-  * [Katia Matcheva]((mailto:human-ai@cern.ch)) (University of Florida)
-  * [Konstantin Matchev]((mailto:human-ai@cern.ch)) (University of Florida)
-
-## Links
-  * <a href="https://arxiv.org/abs/2206.14633">Paper 1</a>
-  * <a href="https://proceedings.mlr.press/v220/yip23a.html">Paper 2</a>
+  * [Mentor Name](mailto:ml4-sci@cern.ch) (Mentor institute)
+  * [Mentor Name 2](mailto:ml4-sci@cern.ch) (Mentor institute 2)
 
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [human-ai@cern.ch](mailto:human-ai@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+
+
+Please **DO NOT** contact mentors directly by email. Instead, please email [human-ai@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
 
