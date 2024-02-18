@@ -2,7 +2,7 @@
 title: Learning the Latent Structure with Diffusion Models
 layout: gsoc_proposal
 project: GENIE
-year: 2023
+year: 2024
 organization:
  - Alabama
  - EPFL
@@ -16,6 +16,9 @@ In the search for new physics at the [Large Hadron Collider (LHC)](https://home.
 ## Duration
 
 Total project length: 175/350 hours.
+
+## Difficulty Level
+  * Intermediate/Advanced
 
 ## Task ideas
   * Develop diffusion models for learning the latent space structure

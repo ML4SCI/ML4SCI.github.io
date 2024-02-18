@@ -2,7 +2,7 @@
 title: Learning Parametrization with Implicit Neural Representations
 layout: gsoc_proposal
 project: GENIE
-year: 2023
+year: 2024
 organization:
  - Alabama
  - EPFL
@@ -17,6 +17,9 @@ In the search for new physics at the [Large Hadron Collider (LHC)](https://home.
 ## Duration
 
 Total project length: 175/350 hours.
+
+## Difficulty Level
+  * Intermediate/Advanced
 
 ## Task ideas
   * Develop implicit neural representation model for particle physics data
