@@ -2,13 +2,11 @@
 title: Deep Graph anomaly detection with contrastive learning for new physics searches
 layout: gsoc_proposal
 project: GENIE
-year: 2023
+year: 2024
 organization:
  - Alabama
  - EPFL
  - TUM
- - Princess Sumaya University for Technology
- - BITS Pilani Goa
 ---
 
 ## Description
@@ -19,6 +17,9 @@ The intended model is supposed to perform anomaly detection on a graph-level, co
 ## Duration
 
 Total project length: 175/350 hours.
+
+## Difficulty Level
+  * Intermediate/Advanced
 
 ## Task ideas
   * Development of a model for graph based anomaly detection 

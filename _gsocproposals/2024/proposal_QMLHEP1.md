@@ -2,7 +2,7 @@
 title: Implementation of Quantum Generative Adversarial Networks to Perform High Energy Physics Analysis at the LHC
 layout: gsoc_proposal
 project: QMLHEP
-year: 2023
+year: 2024
 organization:
  - Alabama
  - Wisconsin

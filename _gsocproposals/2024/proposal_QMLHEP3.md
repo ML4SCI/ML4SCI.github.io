@@ -2,7 +2,7 @@
 title: Learning quantum representations of classical high energy physics data with contrastive learning
 layout: gsoc_proposal
 project: QMLHEP
-year: 2023
+year: 2024
 organization:
  - Alabama
  - Wisconsin
