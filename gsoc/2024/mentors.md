@@ -1,5 +1,5 @@
 ---
-title: Summary of Mentors GSoC 2023
+title: Summary of Mentors GSoC 2024
 layout: plain
 ---
 
@@ -27,7 +27,7 @@ layout: plain
   * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
   * [Michelle Kuchera](mailto:ml4-sci@cern.ch) (Davidson College)
   * [Sitong An](mailto:ml4-sci@cern.ch) (Carnegie Mellon University and CERN)
-  * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (University of Kentucky)
+  * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (Qassim University)
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Shaojun Sun](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Chen Zhou](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
@@ -63,6 +63,7 @@ layout: plain
   * [Katia Matcheva](mailto:ml4-sci@cern.ch) (Florida)
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
   * [Diptarko Choudhary](mailto:ml4-sci@cern.ch) (NISER)
+  * [Marco Knipfer](mailto:ml4-sci@cern.ch) (University of Erlangen-Nuremberg)
 
 
 
