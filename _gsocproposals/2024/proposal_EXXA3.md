@@ -1,16 +1,10 @@
 ---
-
-**Title:** Regression on Planetary Mass in Protoplanetary Disks
-
-**Layout:** gsoc_proposal
-
-**Project:** EXXA
-
-**Year:** [2024]
-
-**Organization:**
-  - [University of Alabama]
-
+title: Regression on Planetary Mass in Protoplanetary Disks
+layout: gsoc_proposal
+project: EXXA
+year: 2024
+organization:
+ - University of Alabama
 ---
 
 #### Description
