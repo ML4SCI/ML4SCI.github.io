@@ -1,4 +1,4 @@
-[---
+---
 title: Evolutionary and Transformer Models for Symbolic Regression
 layout: gsoc_proposal
 project: SYMBA
