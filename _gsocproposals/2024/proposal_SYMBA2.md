@@ -22,7 +22,6 @@ Total project length: 175/350 hours.
   * Develop and deploy state-space models (SSM) for symbolic solutions of squared amplitude calculations
   * Benchmark the SSM models with other transformer-based solutions
   * Integrated with the SymbaHEP pipeline
-
    
 ## Requirements 
 Significant experience with machine learning models in Python (preferably using pytorch).
@@ -30,8 +29,8 @@ Significant experience with machine learning models in Python (preferably using 
 ## Difficulty Level 
 Advanced
 
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1eMtRPR-nH2NyituMBIDAZdmcCkZF2TyUFQp6zg-z5pA) to access the test for this project. -->
+## Test
+Please use this [link](https://docs.google.com/document/d/19ybdCLbxJs2mFsxni4yN9FP4ADlK4mxltF9OVSmbRXE/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
