@@ -42,7 +42,6 @@ Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMK
 
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (BITS Pilani Hyderabad)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch)(University of Alabama)
