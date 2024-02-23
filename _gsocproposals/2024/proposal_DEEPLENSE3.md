@@ -3,7 +3,7 @@ title: Search for Strong Gravitational Lenses
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr
-year: 2023
+year: 2024
 organization:
   - Alabama
   - Brown
