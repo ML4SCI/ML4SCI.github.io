@@ -1,5 +1,5 @@
 ---
-title: End-to-End Deep Learning Inference for mass regression for CMS Experiment
+title: Deep Learning Inference for mass regression 
 layout: gsoc_proposal
 project: CMS
 year: 2024
