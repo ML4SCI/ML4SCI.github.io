@@ -8,6 +8,7 @@ organization:
  - FSU
  - FAU
  - QU
+
 ---
 
 ## Description
@@ -29,8 +30,8 @@ Significant experience with Transformer machine learning models in Python (prefe
 ## Difficulty Level 
 Advanced
 
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1eMtRPR-nH2NyituMBIDAZdmcCkZF2TyUFQp6zg-z5pA) to access the test for this project. -->
+## Test
+Please use this [link](https://docs.google.com/document/d/19ybdCLbxJs2mFsxni4yN9FP4ADlK4mxltF9OVSmbRXE/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
