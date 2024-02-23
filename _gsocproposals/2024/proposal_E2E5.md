@@ -38,8 +38,8 @@ Intermediate
 ## Requirements
 Python, PyTorch and some previous experience in Machine Learning.
 
-<!-- ## Test
-Please use [this link](https://docs.google.com/document/d/1lWTSASnVICm_4Zof7wr6_LkS24P_Z8TR1px_tctemQI/edit) to access the test for this project. -->
+## Test
+Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
