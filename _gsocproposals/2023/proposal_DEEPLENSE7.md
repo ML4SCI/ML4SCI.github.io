@@ -44,7 +44,7 @@ Please use this [link](https://docs.google.com/document/d/1y9-F1Z8iz_GvVRL9lQmMK
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
-  * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
+  * [Kartik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 

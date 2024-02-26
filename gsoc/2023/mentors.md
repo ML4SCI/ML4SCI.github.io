@@ -57,7 +57,7 @@ layout: plain
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
-  * [Karthik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
+  * [Kartik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 
 
 
