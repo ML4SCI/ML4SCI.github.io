@@ -1,7 +1,7 @@
 ---
-title:  TBC
+title:  Template to add a Proposal
 layout: gsoc_proposal
-project: TBC
+project: Template to add a Project
 year: 2024
 organization:
   - YourInstitute
