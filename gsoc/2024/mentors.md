@@ -64,6 +64,7 @@ layout: plain
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
   * [Diptarko Choudhary](mailto:ml4-sci@cern.ch) (NISER)
   * [Marco Knipfer](mailto:ml4-sci@cern.ch) (University of Erlangen-Nuremberg)
+  * [Neeraj Anand](mailto:ml4-sci@cern.ch) (IIT Dhanbad)
 
 
 
