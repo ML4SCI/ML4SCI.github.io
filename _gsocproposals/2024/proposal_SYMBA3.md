@@ -8,7 +8,8 @@ organization:
  - FSU
  - FAU
  - QU
----
+ - IITDhanbad
+ ---
 
 ## Description
 
@@ -37,6 +38,7 @@ Please use this [link](https://docs.google.com/document/d/19ybdCLbxJs2mFsxni4yN9
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (Qassim University)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Neeraj Anand](mailto:ml4-sci@cern.ch) (Indian Institute of Technology Dhanbad)
   * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
   * [Nobuchika Okada](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Marco Knipfer](mailto:ml4-sci@cern.ch) (University of Erlangen-Nürnberg)
