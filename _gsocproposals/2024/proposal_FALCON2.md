@@ -23,8 +23,8 @@ organization:
 
 Total project length: 175/350 hours.
 
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1bwRaHc0IYIcFOokMcW-mYJv2i24iP1mm08ALTSyQ4EI/edit?usp=sharing) to access the test for this project. -->
+## Test
+Please use this [link](https://docs.google.com/document/d/1bwRaHc0IYIcFOokMcW-mYJv2i24iP1mm08ALTSyQ4EI/edit?usp=sharing) to access the test for this project.
 
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.
