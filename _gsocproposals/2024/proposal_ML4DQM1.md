@@ -1,5 +1,5 @@
 ---
-title:  Continuous learning for data quality monitoring at particle colliders
+title:  Continuous learning for high-energy physics data quality monitoring
 layout: gsoc_proposal
 project: ML4DQM
 year: 2024
@@ -11,27 +11,25 @@ organization:
 ## Description
 
 
-One key challenge in models currently used in Machine Learning do Data Quality Monitoring is that such models are often limited in their transferability to other systems, meaning each system or sub-detector within large HEP detectors need to have individual models developed, tested, and deployed, which can take significant time and effort. Furthermore, as detectors age, the data they produce can exhibit expected variations, potentially leading to misclassification as ‘bad data’ when ML models performing DQM have been trained on pristine detector data.
-This proposal seeks to address these challenges by pioneering continuous learning ML models that leverage ensemble learning techniques that are collectively able to adapt to both changing detector conditions, as well as changing detector systems.
-
+A key challenge in data quality monitoring in high-energy physics is the need for online monitoring and control of the experiment with the data that is sensitive to underlying conditions and the constantly evolving state of the detector components. Machine learning models can be useful in identifying anomalies in the data and monitoring the quality of the data. At the same time, continuous learning techniques may be necessary to avoid machine learning model sensitivity to changing data inputs, avoiding the need to frequently re-train models. This proposal seeks to address this challenge by exploring continuous learning models capable of adapting to changing detector conditions and systems over time. 
 
 ## Duration
 
 Total project length: 175 hours.
 
 ## Task ideas
- * Develop ensemble learning ML models using CMS data for the electromagnetic calorimeter (ECAL) sub-system.
- * Build and train the overall models and to demonstrate their performance on one single sub-system.
+ * Develop continuous learning models for a single detector subsystem
+ * Evaluate and Benchmark model performance and robustness to changing detector conditions. 
 
 ## Expected results
- * Build an ensemble learning ML model and demonstrate performance comparable or superior to human operator monitoring.
- * Validate the development of these models by using data instead acquired using the Tracker sub-system. The purpose of this task is to demonstrate the ability to take the overall architecture of the model but to train it with data from a different sub-system and evaluate its performance.
+ * Build a continuous machine learning model pipeline
+ * Evaluate and Benchmark the models with realistic datasets
 
 ## Requirements
-C++, Python, PyTorch, Tensorflow and some previous experience in Deep Learning.
+C++, Python, PyTorch, Tensorflow, previous experience in Deep Learning.
 
 ## Project difficulty level
-Challenging
+Medium
 
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
