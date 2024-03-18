@@ -5,9 +5,7 @@ logo: ml4dqm.jpg
 description: |
    
 
-   Data Quality Monitoring (DQM) is a task which often requires identifying anomalies in order to ensure that data being recorded meets certain quality criteria standards. Although some aspects of DQM have successfully been automated, it is still by and large an endeavor that requires a human operator to actively monitor input data and discern whether such data is ‘good’ or ‘bad’.
-   The Machine learning for Data Quality Monitoring (ML4DQM) project aims at exploiting the capabilities of recent advancements in ML to automate tasks currently performed by error-prone human operators.
-   The project focuses on DQM of particle collision data collected with the CMS Experiment at CERN Large Hadron Collider.
+   Data Quality Monitoring (DQM) is an important aspect of every high-energy physics experiment needed to avoid taking low-quality data. The goal of DQM is to track important information about the detector and the data and catch problems in realtime. This monitoring happens both online and offline to ensure optimal operation of the experiment. The goal of the ML4DQML project is to use machine learning to aid human shifters with identification of anomalies to help make better decisions about the quality of the data. 
 ---
 
 {% include gsoc_project.ext %}
