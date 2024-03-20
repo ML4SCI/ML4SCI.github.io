@@ -5,6 +5,7 @@ project: ML4DQM
 year: 2024
 organization:
   - Alabama
+  - CER
 
 ---
 
@@ -34,6 +35,8 @@ Medium
 ## Mentors
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Dale Julson](mailto:ml4-sci@cern.ch) (Cerium Labs)
+  * [Will Flanagan](mailto:ml4-sci@cern.ch) (Cerium Labs)
 
 
 ## Test
