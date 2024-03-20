@@ -5,7 +5,7 @@ project: ML4DQM
 year: 2024
 organization:
   - Alabama
-  - CER
+  - Cerium
 
 ---
 
