@@ -1,6 +1,6 @@
 ---
 title: "Blogs"
-author: "Andrei Gheata"
+author: "Emanuele Usai"
 layout: default
 ---
 
@@ -12,6 +12,133 @@ layout: default
 ## Introduction
 
 This is a collection of blog posts from GSoC students who worked with ML4SCI.
+
+### Google Summer of Code 2024
+
+<table class="table table-hover table-striped">
+
+  
+<tr>
+    <td><a href="https://medium.com/@tesi.alessandro88/gsoc-24-quantum-transformer-for-high-energy-physics-analysis-at-ml4sci-ab8a86acdab0" target="_blank">"Quantum transformer for High Energy Physics Analysis at the LHC" by Alessandro Tesi</a></td>
+  </tr>
+
+    
+<tr>
+    <td><a href="https://medium.com/@riccardotripodi/self-supervised-learning-for-end-to-end-particle-reconstruction-for-the-cms-experiment-2-2-9997aa51ca7d" target="_blank">"Self-Supervised Learning for End-to-End Particle Reconstruction for the CMS Experiment" by Riccardo Tripodi</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@murariu.alexandra2002/gsoc-ml4sci-exxa-equivariant-vision-networks-for-predicting-planetary-systems-architectures-b6f7c5846bda" target="_blank">"Equivariant Vision Networks for Predicting Planetary Systems’ Architectures" by Murariu Alexandra</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@214lievano/equivariant-quantum-neural-networks-for-high-energy-physics-analysis-at-the-lhc-59b55ed3d43e" target="_blank">"Equivariant quantum neural networks for High Energy Physics Analysis at the LHC" by Lázaro Raúl Díaz Lievano</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@ojhaaashutosh1005/gsoc24-with-ml4sci-physics-guided-machine-learning-final-evaluation-0814ed47bbd2" target="_blank">"Physics-Guided Machine Learning" by Ashutosh Ojha</a></td>
+  </tr>
+
+    
+<tr>
+    <td><a href="https://medium.com/@haemanth10/quantum-graph-neural-networks-9cde9613a8d5" target="_blank">"Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC" by Haemanth Velmurugan</a></td>
+  </tr>
+
+    
+<tr>
+    <td><a href="https://jogisuda.github.io/posts/2024/07/lie-eqgnn/" target="_blank">"QMLHEP - Lie-Equivariant Quantum Graph Neural Networks for High Energy Physics Analysis at the LHC" by Jogi Suda Neto</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@shuklashashankshekhar863/masked-autoencoders-for-efficient-end-to-end-particle-reconstruction-and-compression-for-the-cms-fdd7b941a2bb" target="_blank">"Masked Autoencoders for Efficient End-to-End Particle Reconstruction and Compression for the CMS Experiment" by Shashank Shekhar Shukla</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@vishak.bhat5/gsoc24-with-ml4sci-graph-neural-networks-for-particle-momentum-estimation-in-the-cms-trigger-e67e3f43a292" target="_blank">"Graph Neural Networks for Particle Momentum Estimation in the CMS Trigger System" by Vishak K Bhat</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@guptaatal/single-image-super-resolution-using-denoising-auto-encoder-f05facda6485" target="_blank">"Super-Resolution of Gravitational Lensing using Denoising Auto Encoders" by Atal Gupta</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://sanyananda.github.io/ML4Sci_QuantumContrastiveLearning/" target="_blank">"Learning quantum representations of classical high-energy physics data with contrastive learning" by Sanya Nanda</a></td>
+  </tr>
+
+
+   
+<tr>
+    <td><a href="https://iyersreehari.github.io/gsoc24-blog-deeplense-ssl/" target="_blank">"Learning Representation Through Self-Supervised Learning on Real Gravitational Lensing Images" by Sreehari Dinesh Iyer</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@samyakjha71/symbolic-regression-gsoc-24-final-evaluations-40aea5aad6dd" target="_blank">"EVOLUTIONARY AND TRANSFORMER MODELS FOR SYMBOLIC REGRESSION" by Samyak Jha</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@shuklag554/exoplanet-atmosphere-characterization-gsoc24-ml4sci-part-2-96392e3ba190" target="_blank">"Exoplanet Atmosphere Characterization" by Gaurav Shukla</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://duydl.github.io/blogs/end-term-report-gsoc24.html" target="_blank">"Contrastive Representation Learning for High Energy Physics" by DO LE DUY</a></td>
+  </tr>
+
+    
+<tr>
+    <td><a href="https://medium.com/@ameybhatuse315/quantum-graph-contrastive-learning-for-high-energy-physics-aa6e49eaa34f" target="_blank">"Learning quantum representations of classical high energy physics data with contrastive learning" by Amey Bhatuse</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@swheatdreamz/whos-at-loss-0b921b3e1bb4" target="_blank">"Implementation of Quantum Generative Adversarial Networks to Perform HEP Analysis at LHC" by Adithya Penagonda</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@pankajbakshi88/non-local-gnns-for-jet-classification-going-beyond-graphs-5b62286e5c58" target="_blank">"Genie : Non-local GNNs for Jet Classification" by Tanmay Bakshi</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@rishirswamy/gsoc-24-with-ml4sci-part-2-diffusion-models-for-gravitational-lensing-simulations-7c667be4bf45" target="_blank">"Diffusion models for Gravitational Lensing Simulations" by J Rishi</a></td>
+  </tr>
+
+   
+<tr>
+    <td><a href="https://medium.com/@lokeshbadisa657/gsoc-2024-with-ml4sci-masked-auto-encoders-for-efficient-end-to-end-particle-reconstruction-and-60ea4dde539e" target="_blank">"Masked Auto-Encoders for Efficient End-to-End Particle Reconstruction and Compression for the CMS Experiment" by Lokesh Badisa</a></td>
+  </tr>
+
+ 
+<tr>
+    <td><a href="https://www.linkedin.com/posts/ritesh-bhalerao_gsoc-activity-7256869917877026816-2TCY?utm_source=share&utm_medium=member_desktop" target="_blank">"Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP" by Ritesh Bhalerao</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@aryamaanthakur/transformers-meet-evolution-a-hybrid-approach-to-symbolic-regression-final-progress-gsoc-0de041ac013d" target="_blank">"Evolutionary and Transformer Models for Symbolic Regression" by Aryamaan Thakur</a></td>
+  </tr>
+
+  
+<tr>
+    <td><a href="https://medium.com/@mashapotatoes/gsoc-quantum-diffusion-model-for-high-energy-physics-part-ii-6e693d625931" target="_blank">"Quantum Diffusion Model for HEP" by Masha Baidachna</a></td>
+  </tr>
+
+   
+  <tr>
+    <td><a href="https://medium.com/@anirudhshankar99/physics-informed-unsupervised-super-resolution-of-lensing-images-gsoc-2024-x-ml4sci-51cedc1cfb00" target="_blank">"Physics-Informed Unsupervised Super-Resolution of Lensing Images" by Anirudh Shankar</a></td>
+  </tr>
+
+</table>
 
 ### Google Summer of Code 2023
 
