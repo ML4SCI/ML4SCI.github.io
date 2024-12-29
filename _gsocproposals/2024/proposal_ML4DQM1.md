@@ -39,8 +39,8 @@ Medium
   * [Will Flanagan](mailto:ml4-sci@cern.ch) (Cerium Labs)
 
 
-## Test
-Solve the evaluation task(s) for any of the other projects in the ML4SCI umbrella organization.  Please send us your CV and a link to all your completed work (github repo, Jupyter notebook + pdf of Jupyter notebook with output) to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Evaluation Test: ML4DQM in the title. In the email specify which evaluation test(s) you solved. 
+<!-- ## Test
+Solve the evaluation task(s) for any of the other projects in the ML4SCI umbrella organization.  Please send us your CV and a link to all your completed work (github repo, Jupyter notebook + pdf of Jupyter notebook with output) to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Evaluation Test: ML4DQM in the title. In the email specify which evaluation test(s) you solved.  -->
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 

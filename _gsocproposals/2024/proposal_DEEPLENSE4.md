@@ -37,8 +37,8 @@ Advanced
 ## Requirements
 Python, PyTorch and relevant past experience in Machine Learning. 
 
-## Test
-Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn5kwEmoIAYlDd39iVWRkkq8/edit?usp=sharing) to access the test for this project.
+<!-- ## Test
+Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn5kwEmoIAYlDd39iVWRkkq8/edit?usp=sharing) to access the test for this project. -->
 
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)

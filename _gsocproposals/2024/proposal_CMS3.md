@@ -21,8 +21,8 @@ Total project length: 175/350 hours.
  * Improve existing code pipeline with features like multi-GPU parallelism and flexible preprocessing and analysis options
  * Deploy the developed models and pipeline on simulated physics data and analyze performance gains and changes in model understanding from the techniques used
 
-## Test
-Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project.
+<!-- ## Test
+Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project. -->
 
 ## Requirements
 Significant experience in Python and Machine Learning in Pytorch. Preferably some experience with Transformers and multi-GPU parallelization or with the ROOT library developed by CERN. 

@@ -32,8 +32,8 @@ Total project length: 175/350 hours.
 * Python, PyTorch, C/Fortran
 * Background in astronomy is a bonus but not a requirement
 
-## Test
-Use [this link](https://docs.google.com/document/d/1cPEFea88Y9mvyNGhXVRphjLTzmFlkM7ODpBWhdmUVvI/edit?usp=sharing) for instructions on completing the test.
+<!-- ## Test
+Use [this link](https://docs.google.com/document/d/1cPEFea88Y9mvyNGhXVRphjLTzmFlkM7ODpBWhdmUVvI/edit?usp=sharing) for instructions on completing the test. -->
 
 ## Mentors
 
