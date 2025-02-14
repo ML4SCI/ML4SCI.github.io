@@ -1,41 +1,39 @@
 ---
-title: Learning Representation Through Self-Supervised Learning on Real Gravitational Lensing Images 
+title: Gravitational Lens Finding 
 layout: gsoc_proposal
 project: DEEPLENSE
-project size: 175hr
-year: 2023
+project size: 175hr/350hr
+year: 2025
 organization:
   - Alabama
-  - Brown
-  - BITS Pilani Hyderabad
-  - Paris
-  - RWTH
+  - MIT
+  - PSL
 ---
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter etc.
+This project focuses on the task of lens finding in the currently available wide-field surveys (e.g., HSC-SSP). The expected number of strong lenses in the large surveys is significantly overpowered by the number of non-lensed objects, which leads to the high number of false positives in typical lens searches. 
 
-Supervised classification can be difficult when the number of known objects of a particular class is very small. This is usually the case for strong gravitational lensing images, where the number of samples from one or more classes are relatively lower than others. Self-supervised learning (SSL) has proven to outperform standard supervised machine learning models, particularly when the number of data labels available for supervision is low. Moreover, SSL can take advantage of very large unlabelled datasets that would be difficult or impossible to label manually and build meaningful representations. To date, only convolutional neural networks (CNNs) have been used with the SSL technique for strong gravitational lensing data. Transformers or hybrid models (Transformers + CNN) promise more robustness for representation learning but have not been addressed by the community. This project will focus on the development of self-supervised learning techniques with Transformers for strong gravitational lensing data on real dataset 
+The goal of the project is to develop lens finding algorithms, apply them to the observational data, and  assess the limitations of the algorithms (for example, analyse the properties of the identified lens population and examine the typical contaminants).
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Difficulty level
-Advanced
+Intermediate/Advanced
 
 ## Task ideas
- * Explore the use of Transformers/Hybrid architectures with self-supervised learning for representation learning on real dataset. The trained model can then be fine-tuned for specific tasks such as regression or classification.
- * Explore the use of Equivariant Transformers with self-supervised learning for representation learning on real dataset. The trained model could then be fine-tuned for specific tasks such as regression or classification.
- * Expand the DeepLense functionality with self-supervised learning algorithms suitable for computer vision tasks applicable to strong gravitational lensing data.
-
+ * Start with architectures previously explored within the DeepLense project and optimise them for the lens finding task.
+ * Perform the lens search in the real observational data and analyse the properties of the detected lens candidates.
+ * Evaluate model performance on different surveys.
 
 ## Expected results
- *  Develop a self-supervised learning transformer model for DeepLense training and inference.
+ *  Increase the number of known strong lenses.
+ *  Insight into properties of the identified lens candidates.
    
 ## Requirements
-Python, PyTorch and relevant past experience in Machine Learning. 
+Python, PyTorch, experience with machine learning, familiarity with astrophysics datasets.
 
 <!-- ## Test
 Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn5kwEmoIAYlDd39iVWRkkq8/edit?usp=sharing) to access the test for this project. -->
@@ -43,16 +41,12 @@ Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
-  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (BITS Pilani Hyderabad)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch)(University of Alabama)
-  * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
-  * [Kartik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
+  * [Anna Parul](mailto:ml4-sci@cern.ch) (Observatoire de Paris)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
 
 
 ## Links
-  * [Paper 1](https://arxiv.org/abs/2008.12731)
-  * [Paper 2](https://arxiv.org/abs/1909.07346)
-  * [Paper 3](https://arxiv.org/abs/2112.12121)
+  * [Paper 1](https://arxiv.org/abs/1909.07346)
+  * [Paper 2](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_107.pdf)
