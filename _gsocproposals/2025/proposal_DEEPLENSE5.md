@@ -22,7 +22,8 @@ Total project length: 175/350 hours.
 
 ## Difficulty level
 
-Advanced
+intermediate
+Intermediate/Advanced
 
 ## Task ideas
  * Explore diffusion models for the generation of strong gravitational lensing images.
