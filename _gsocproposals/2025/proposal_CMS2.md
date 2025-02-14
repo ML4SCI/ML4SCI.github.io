@@ -45,3 +45,4 @@ Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-
 
 ## Links
   * [Paper ](https://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042042)
+  * [Blog Post](https://medium.com/@vishak.bhat5/gsoc24-with-ml4sci-graph-neural-networks-for-particle-momentum-estimation-in-the-cms-trigger-e67e3f43a292)
