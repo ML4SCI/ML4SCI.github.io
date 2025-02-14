@@ -8,6 +8,7 @@ organization:
   - Alabama
   - Brown
   - MIT
+  - PSL
 ---
 
 ## Description
@@ -38,7 +39,7 @@ Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Anna Parul](mailto:ml4-sci@cern.ch) (Observatoire de Paris)
   * [Lucca Paris](mailto:ml4-sci@cern.ch) (Brown University)
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
@@ -48,4 +49,3 @@ Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@
   * [LSST Pipeline Docs](https://pipelines.lsst.io)
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
-  * [Paper 3](https://arxiv.org/abs/2112.12121)
