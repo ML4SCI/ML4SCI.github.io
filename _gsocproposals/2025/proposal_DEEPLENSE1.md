@@ -1,39 +1,41 @@
 ---
-title: Superresolution for Strong Gravitational Lensing
+title: Foundation Model for Gravitational Lensing
 layout: gsoc_proposal
 project: DEEPLENSE
-project size: 175hr/350hr
+project size: 350hr
 year: 2025
 organization:
   - Alabama
-  - Brown
-  - Paris
-  - RWTH
+  - MIT
+  - UF
 ---
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure, and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter etc. 
-Gravitational lensing data is often collected at low resolution due to the limitations of the instruments or observing conditions. Image super-resolution techniques can be used to enhance the resolution of these images with machine learning, allowing for more precise measurements of the lensing effects and a better understanding of the distribution of matter in the lensing system. This can improve our understanding of the mass distribution of the lensing galaxy and its environment, as well as the properties of the background source being lensed. 
+Strong gravitational lensing is a powerful tool for studying dark matter and the large-scale structure of the universe. This project focuses on developing a vision foundation model specifically designed for lensing data, which can be fine-tuned for a variety of downstream tasks, including classification, super-resolution, regression, and lens finding. 
 
-This project will focus on the development of deep learning-based image super-resolution techniques such as conditional diffusion models to enhance the resolution of gravitational lensing data. Furthermore, we will also investigate leveraging the super-resolution models for other strong lensing tasks such as regression and lens finding.
+This project will explore different training strategies such as self-supervised learning, contrastive learning, or transformer-based models to learn meaningful representations of lensing images. By leveraging diverse datasets and training methodologies, the model will serve as a general-purpose backbone that can adapt to different astrophysical tasks while improving generalization across various observational conditions.
 
 ## Duration
 
-Total project length: 175/350 hours.
+Total project length: 350 hours.
 
 ## Difficulty level
 
-Intermediate/Advanced
+Advanced
 
 ## Task ideas
- * Expand the DeepLense functionality with superresolution algorithms suitable for computer vision tasks applicable to strong gravitational lensing data.
+ * Develop a pre-training strategy for learning robust representations of gravitational lensing data.
+ * Fine-tune the foundation model for multiple tasks such as classification, super-resolution, and regression.
+ * Evaluate the model's performance on different astrophysical datasets and benchmark against traditional methods.
 
 ## Expected results
- *  Develop a superresolution model for DeepLense training and inference.
+ *  A vision foundation model for gravitational lensing capable of being fine-tuned for various astrophysical tasks.
+ *  Improved generalization and adaptability across different lensing datasets and observational setups.
 
 ## Requirements
-Python, PyTorch and relevant past experience in Machine Learning. 
+ * Python, PyTorch, experience with machine learning, and familiarity with computer vision techniques.
+ * Understanding of self-supervised learning, representation learning, and deep learning architectures.
 
 <!-- ## Test
 Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn5kwEmoIAYlDd39iVWRkkq8/edit?usp=sharing) to access the test for this project. -->
@@ -43,8 +45,6 @@ Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
   * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
-  * [Kartik Sachdev](mailto:ml4-sci@cern.ch) (RWTH Aachen)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
