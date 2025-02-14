@@ -1,5 +1,5 @@
 ---
-title: Discovering and exploiting abstract symmetry elements obtained from low-level data within the CMS experiment
+title: Discovery of symmetries and conservation laws
 layout: gsoc_proposal
 project: E2E
 year: 2025
@@ -11,28 +11,32 @@ organization:
 
 ## Description
 
-One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.
+One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single particles, jets, and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development of these reconstruction and identification tasks with innovative deep learning approaches.
+This project explores the development of Physics-Aware Neural Networks (PANN), which require sophisticated data-efficient neural networks that can generalize from a small dataset and simultaneously learn the symmetry transformations and the associated conserved charges.
 
-This project explores the development of Physics-Aware Neural Networks (PANN) which require sophisticated data-efficient neural networks that can learn hidden underlying symmetries and generalise from a small dataset.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Develop a deep learning model capable of uncovering the hidden symmetries present in the dataset.
- * Utilise this hidden symmetry to build a physics aware neural network.
+* Develop a deep learning model capable of uncovering the symmetries present in the dataset and the associated conserved quantities (paper).
+* Utilize this symmetry to build a physics-aware neural network.
+
 
 
 ## Expected results
- * Discover hidden symmetries present in the CMS dataset 
- * Benchmark the models with other previous works in terms of and data efficiency and invariance with respect to symmetry operations.
+* Discover symmetries and conserved quantities present in the CMS dataset.
+* Benchmark the models with other previous works in terms of data efficiency and invariance with respect to symmetry operations.
+
 
 ## Difficulty level
 Advanced
 
 ## Requirements
-C++, Python, PyTorch, Tensorflow and some previous experience in Deep Learning.
+* Proficiency in C++, Python
+* Experience with PyTorch and TensorFlow
+* Previous experience in Deep Learning
 
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project. -->

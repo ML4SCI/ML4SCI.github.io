@@ -1,5 +1,5 @@
 ---
-title: Discovering and exploiting abstract symmetry elements obtained from low-level data within the CMS experiment
+title: End-to-End event classification with sparse autoencoders
 layout: gsoc_proposal
 project: E2E
 year: 2025
@@ -11,28 +11,28 @@ organization:
 
 ## Description
 
-One of the important aspects of searches for new physics at the [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development  of these reconstruction and identification tasks with innovative deep learning approaches.
+One of the key tasks in particle physics analyses is proper classification of particle collision events based on the parent particles and the process that produced them. To handle this task, we’re developing a flexible machine learning pipeline which can be applied to a broad range of classification tasks. This project will primarily explore the development of sparse autoencoders which can effectively handle particle collision information represented as minimally processed images where the majority of the pixels in the image have very low or zero value. Different techniques have been developed to handle sparse representations such as sparse convolutions and point-cloud structures.
 
-This project explores the development of Physics-Aware Neural Networks (PANN) which require sophisticated data-efficient neural networks that can learn hidden underlying symmetries and generalise from a small dataset.
+
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Develop a deep learning model capable of uncovering the hidden symmetries present in the dataset.
- * Utilise this hidden symmetry to build a physics aware neural network.
-
+* Develop a scalable sparse autoencoder model pipeline for event classification and reconstruction.
 
 ## Expected results
- * Discover hidden symmetries present in the CMS dataset 
- * Benchmark the models with other previous works in terms of and data efficiency and invariance with respect to symmetry operations.
+* Improve existing code pipeline with features like multi-GPU parallelism and flexible preprocessing and analysis options.
+* Deploy the developed models and pipeline on simulated physics data and analyze performance gains and changes in model understanding from the techniques used.
+
 
 ## Difficulty level
 Advanced
 
 ## Requirements
-C++, Python, PyTorch, Tensorflow and some previous experience in Deep Learning.
+* Significant experience in Python and Machine Learning in Pytorch. 
+* Preferably some experience with Transformers and multi-GPU parallelization or with the ROOT library developed by CERN.
 
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project. -->
@@ -42,12 +42,12 @@ Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969a
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
 ## Links
-  * [Paper 1](https://arxiv.org/abs/2302.00236)
-  * [Paper 2](https://arxiv.org/abs/2104.09459)
+  * [Paper 1](https://arxiv.org/pdf/1706.01307)
+  * [Paper 2](https://arxiv.org/abs/1712.07262)
+  * [Paper 3](https://arxiv.org/pdf/1902.08276)
