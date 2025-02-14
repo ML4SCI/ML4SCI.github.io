@@ -8,6 +8,7 @@ organization:
   - Alabama
   - MIT
   - UF
+  - PSL
 ---
 
 ## Description
@@ -44,7 +45,7 @@ Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
-  * [Anna Parul](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Anna Parul](mailto:ml4-sci@cern.ch) (Observatoire de Paris)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
