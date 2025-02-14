@@ -2,7 +2,7 @@
 title: Diffusion Models for Gravitational Lensing Simulation
 layout: gsoc_proposal
 project: DEEPLENSE
-project size: 175hr
+project size: 175hr/350hr
 year: 2025
 organization:
   - Alabama
