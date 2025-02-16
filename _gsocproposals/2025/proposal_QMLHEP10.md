@@ -1,12 +1,11 @@
 ---
-title: Quantum transformer for High Energy Physics Analysis at the LHC
+title: Quantum Kolmogorov-Arnold Networks for High Energy Physics Analysis at the LHC
 layout: gsoc_proposal
 project: QMLHEP
 year: 2025
 organization:
  - Alabama
- - Wisconsin
- - PUC
+ - Kansas
 ---
 
 ## Description
@@ -20,19 +19,22 @@ Discovery of new physics requires the identification of rare signals against imm
 Total project length: 175 hours.
 
 ## Task ideas
-  * Implement a quantum transformer architecture (QVIT, QTF).
-  * Benchmark the trained model on selected tasks by e.g. employing a hybrid transformer (vision and sequence)
+  * Implement a quantum Kolmogorov-Arnold Network architecture.
+  * Benchmark the trained model on selected tasks
+
  
 ## Expected results
-  * Trained quantum transformer model.
+  * Trained quantum diffusion model
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
+
   
+
 <!-- ## Test
-Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0P7wiRlggj5WPRktA7dsUh8/edit?usp=sharing) to access the test for this project. -->
+Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOCfI5Dy2pgh2E21JcHeD0fng/edit?usp=sharing) to access the test for this project. -->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
-  * Knowledge of quantum mechanics desired
+  * Knowledge of quantum mechanics and linear algebra
   * Strong python skills
   * Ability to work independently and proactive on a research project
 
@@ -40,18 +42,17 @@ Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0
   * Intermediate/Advanced
 
 ## Mentors
-  * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
-  * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin Madison)
-  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Konstantin Matchev](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Marçal Comajoan Cara](mailto:ml4-sci@cern.ch) (Polytecnic University of Catalonia)
+  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Dinesh Ramakrishnan](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [KC Kong](mailto:ml4-sci@cern.ch) (University of Kansas)
+
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)
-  * [Pennylane](https://pennylane.ai/)
-  * [Paper 1](https://arxiv.org/abs/2110.06510)
-  * [Paper 2](https://arxiv.org/abs/2209.08167)
+  * [Pennylane](https://pennylane.ai)
+  * [Paper 1](https://arxiv.org/pdf/2404.19756)
+  * [Paper 2](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1462952/fullx)
+  * [Paper 3](https://arxiv.org/pdf/2410.04435)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.

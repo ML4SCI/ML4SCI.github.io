@@ -6,15 +6,12 @@ year: 2025
 organization:
  - Alabama
  - Wisconsin
- - TUM
+ - Kansas
+ - Florida
 ---
 
 ## Description
-The ambitious [HL-LHC](https://hilumilhc.web.cern.ch) program will require enormous computing resources in the next two decades. New technologies are being sought after to replace the present computing infrastructure. A burning question is whether quantum computer can solve the ever growing demand of computing resources in High Energy Physics (HEP) in general and physics at [LHC](https://home.cern/science/accelerators/large-hadron-collider) in particular. Our goal here is to explore and to demonstrate that Quantum Computing can be the new paradigm (Proof of Principle).
-
-Discovery of new physics requires the identification of rare signals against immense backgrounds. Development of machine learning methods will greatly enhance our ability to achieve this objective. However, with this ever-growing volume of data in the near future, current machine learning algorithms will require large computing resources and excessive computing time to achieve good performance. Quantum Computing in Qubit platform, where qubits are used instead of bits in classical computer, has the potential to improve the time complexity of classical algorithms.
-
-With this project we seek to implement Quantum Machine Learning methods for LHC HEP analysis based on e.g. the Pennylane framework. This will enhance the ability of the HEP community to use Quantum Machine Learning methods.
+The ambitious HL-LHC program will require enormous computing resources in the next two decades. New technologies are being sought to replace the present computing infrastructure. A burning question is whether quantum computers can solve the ever-growing demand for computing resources in High-Energy Physics (HEP) in general and physics at LHC in particular. Discovery of new physics requires the identification of rare signals against immense backgrounds. The development of machine learning methods will greatly enhance our ability to achieve this objective. With this project we seek to implement Quantum Machine Learning methods for LHC HEP analysis based on the Pennylane framework. This will enhance the ability of the HEP community to use Quantum Machine Learning methods.
 
 ## Duration
 
@@ -44,9 +41,8 @@ Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0
   * [Rui Zhang](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin-Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Tom Magorsch](mailto:ml4-sci@cern.ch) (TUM)
   * [KC Kong](mailto:ml4-sci@cern.ch) (University of Kansas)
+  * [Roy Forestano](mailto:ml4-sci@cern.ch) (University of Florida)
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)

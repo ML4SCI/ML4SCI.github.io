@@ -1,5 +1,5 @@
 ---
-title: Discovery of symmetries and conservation laws
+title: Discovery of symmetries and conservation laws in high energy physics
 layout: gsoc_proposal
 project: E2E
 year: 2025
@@ -11,8 +11,9 @@ organization:
 
 ## Description
 
-One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single particles, jets, and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development of these reconstruction and identification tasks with innovative deep learning approaches.
-This project explores the development of Physics-Aware Neural Networks (PANN), which require sophisticated data-efficient neural networks that can generalize from a small dataset and simultaneously learn the symmetry transformations and the associated conserved charges.
+One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development of these reconstruction and identification tasks with innovative deep learning approaches.
+
+One of the main objectives of the CMS experiments research and development towards high-luminosity LHC is to incorporate cutting-edge machine learning algorithms for particle reconstruction and identification into the CMS software framework (CMSSW) data processing pipeline. This project will focus on the integration of E2E framework with the CMSSW inference engine for use in reconstruction algorithms in offline and high-level trigger systems of the CMS experiment.
 
 
 ## Duration

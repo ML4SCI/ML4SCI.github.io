@@ -19,7 +19,7 @@ A key challenge in data quality monitoring in high-energy physics is the need fo
 Total project length: 175 hours.
 
 ## Task ideas
- * Develop continuous learning models for a single detector subsystem
+ * Develop continuous machine learning models.
  * Evaluate and Benchmark model performance and robustness to changing detector conditions. 
 
 ## Expected results
@@ -37,6 +37,7 @@ Medium
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Dale Julson](mailto:ml4-sci@cern.ch) (Cerium Labs)
   * [Will Flanagan](mailto:ml4-sci@cern.ch) (Cerium Labs)
+  * [Resham Sohal](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 
 <!-- ## Test

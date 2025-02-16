@@ -1,30 +1,29 @@
 ---
-title: Graph Neural Networks for Particle Momentum Estimation in the CMS Trigger System
+title: Super resolution at the CMS detector
 layout: gsoc_proposal
 project: CMS
 year: 2025
 organization:
   - Alabama
-  - AUB
-  - Florida
 
 ---
 
 ## Description
 
-CMS experiment currently uses machine learning algorithms at the Level-1 (hardware) trigger to estimate the momentum of traversing particles such as Muons. The first algorithm implemented in the trigger system was a discretized boosted decision tree. Currently, CMS is studying the use of deep learning algorithms at the trigger level that requires microsecond level latency and therefore requires highly optimized inference. 
+One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. In order to correctly reconstruct particles of interest, high resolution is required.
 
-This project will focus on implementation and benchmarking of deep learning algorithms for the trigger inference task. 
+This project will focus on developing machine learning models to map processed, lower resolution data from particle from simulated particle collisions back to a higher resolution representation.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Development and Benchmarking of graph networks (GNN) for momentum regression in the trigger system
+ * Develop a machine-learning super-resolution model to upsample particle collision data
+ * Analyze performance on ground-truth simulated higher resolution data
  
 ## Expected results
- *  Benchmarks of deep network model inference for muon momentum assignment for prompt and displaced particles
+ *  Trained models and benchmarks on simulated data
 
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project. -->
@@ -33,16 +32,11 @@ Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969a
 Python, C++, and some previous experience in Machine Learning. 
 
 ## Mentors
-  * [Suzanne Rozenzweig](mailto:ml4-sci@cern.ch) (University of Florida)
-  * [Efe Yigibasi](mailto:ml4-sci@cern.ch) (University of Florida)
-  * [Darin Acosta](mailto:ml4-sci@cern.ch) (University of Florida)
-  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Ali Hariri](mailto:ml4-sci@cern.ch) (American University Beirut)
 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
 
 ## Links
-  * [Paper ](https://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042042)
-  * [Blog Post](https://medium.com/@vishak.bhat5/gsoc24-with-ml4sci-graph-neural-networks-for-particle-momentum-estimation-in-the-cms-trigger-e67e3f43a292)
+  * [Paper 1](https://arxiv.org/pdf/2409.16052)
+  * [Paper 2](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_89.pdf)

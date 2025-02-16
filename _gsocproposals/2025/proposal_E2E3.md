@@ -13,8 +13,7 @@ organization:
 
 One of the important aspects of searches for new physics at the Large Hadron Collider (LHC) involves the identification and reconstruction of single particles, jets and event topologies of interest in collision events. The End-to-End Deep Learning (E2E) project in the CMS experiment focuses on the development of these reconstruction and identification tasks with innovative deep learning approaches.
 
-Diffusion based generative models are strong candidates for Fast Simulation models. The idea of this project is to build a diffusion-based ML model to model the underlying structure of the data which can be inturn be used for generating novel samples from the given distribution. Moreover this project also aims to explore conditional diffusion models that can generate specific types of data given a certain input to the model.
-. 
+Diffusion based generative models are strong candidates for Fast Simulation models. The idea of this project is to build a diffusion-based ML model to model the underlying structure of the data which can be used for generating novel samples from the given distribution. Moreover this project also aims to explore conditional diffusion models that can generate specific types of data given a certain input to the model.
 
 
 ## Duration

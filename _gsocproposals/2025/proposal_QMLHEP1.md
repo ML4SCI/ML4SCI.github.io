@@ -7,14 +7,16 @@ organization:
  - Alabama
  - Wisconsin
  - TUM
+ - BitsPilani
+ - BUAP
 ---
 
 ## Description
-The ambitious [HL-LHC](https://hilumilhc.web.cern.ch) program will require enormous computing resources in the next two decades. New technologies are being sought after to replace the present computing infrastructure. A burning question is whether quantum computer can solve the ever growing demand of computing resources in High Energy Physics (HEP) in general and physics at [LHC](https://home.cern/science/accelerators/large-hadron-collider) in particular. Our goal here is to explore and to demonstrate that Quantum Computing can be the new paradigm (Proof of Principle).
+The ambitious HL-LHC program will require enormous computing resources in the next two decades. New technologies are being sought to replace the present computing infrastructure. A burning question is whether quantum computers can solve the ever-growing demand for computing resources in High-Energy Physics (HEP) in general and physics at LHC in particular. 
 
-Discovery of new physics requires the identification of rare signals against immense backgrounds. Development of machine learning methods will greatly enhance our ability to achieve this objective. However, with this ever-growing volume of data in the near future, current machine learning algorithms will require large computing resources and excessive computing time to achieve good performance. Quantum Computing in Qubit platform, where qubits are used instead of bits in classical computer, has the potential to improve the time complexity of classical algorithms.
+Discovery of new physics requires the identification of rare signals in immense backgrounds. The development of machine learning methods will greatly enhance our ability to achieve this objective. 
 
-With this project we seek to implement Quantum Machine Learning methods for LHC HEP analysis based on e.g. the Pennylane framework. This will enhance the ability of the HEP community to use Quantum Machine Learning methods.
+With this project we seek to implement Quantum Machine Learning methods for LHC HEP analysis based on the Pennylane framework. This will enhance the ability of the HEP community to use Quantum Machine Learning methods.
 
 ## Duration
 
@@ -24,10 +26,16 @@ Total project length: 175/350 hours.
   * Implement a Quantum Generative Adversarial Network (QGAN) based on a suitable framework, e.g. Pennylane. See e.g. papers for possible models under ‘Links’
   * Verify that it works and no mode collapse happens using the MNIST dataset.
   * Apply the quantum machine learning method to one LHC flagship physics channel (e.g. double-Higgs production). Compare the quantum machine learning performance to the classical machine learning performance.
+  * Train a classical GAN and a QGAN on exactly the same tasks and datasets, serving as a direct benchmark. Measure differences in training speed, and the fidelity or quality of generated samples.
+  * Develop and implement a QGAN that successfully captures the underlying, or “implicit,” probability distribution of the training data and compare the generated and real distributions using distribution-similarity measures.
+
  
 ## Expected results
   * Trained Quantum Generative Adversarial Network method based on e.g. Pennylane framework.
   * Successfully apply the Quantum Machine Learning method to LHC physics analyses and obtain performance benchmarks to compare to classical machine learning methods.
+  * A comprehensive comparison of the training time, mode collapse frequency, sample quality scores between QGAN and classical GAN.
+  * Demonstrate that the QGAN can produce samples whose statistical properties match those of the real dataset.
+
  
 <!-- ## Test
 Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0P7wiRlggj5WPRktA7dsUh8/edit?usp=sharing) to access the test for this project. -->
@@ -47,6 +55,7 @@ Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
   * [Abhay Kamble](mailto:ml4-sci@cern.ch) (BitsPilani) 
+  * [Isabel Pedraza](mailto:ml4-sci@cern.ch) (Benemérita Universidad Autónoma de Puebla)
 
 ## Links
   * [HL-LHC](https://hilumilhc.web.cern.ch)

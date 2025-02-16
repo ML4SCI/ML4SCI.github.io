@@ -1,5 +1,5 @@
 ---
-title: Next-Gen Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP
+title: Next-Generation Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP
 layout: gsoc_proposal
 project: SYMBA
 year: 2025
@@ -37,10 +37,6 @@ Please use this [link](https://docs.google.com/document/d/19ybdCLbxJs2mFsxni4yN9
   * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (Qassim University)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
-  * [Nobuchika Okada](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Marco Knipfer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Victor Baules](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Dinesh Ramakrishnan](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
