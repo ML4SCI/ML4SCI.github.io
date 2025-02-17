@@ -1,12 +1,15 @@
 ---
 title: Quantum Machine Learning for Exoplanet Characterization
 layout: gsoc_proposal
-project: EXXA
+project: QMLHEP
 year: 2025
 organization:
  - University of Alabama
  - Georgia
 ---
+
+#### Note
+This project is a collaboration with EXXA and QMLHEP.
 
 #### Description
 

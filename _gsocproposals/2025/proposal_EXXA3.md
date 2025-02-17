@@ -5,6 +5,7 @@ project: EXXA
 year: 2025
 organization:
  - University of Alabama
+ - Oxford University
 ---
 
 #### Description
@@ -47,6 +48,6 @@ Use [this link](https://docs.google.com/document/d/10jZ7aubVkfkcpURQQnvrvbC7o3Xg
 ## Mentors
 
 * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-* [Jason Terry](mailto:jpterry@uga.edu) (University of Georgia)
+* [Jason Terry](mailto:jpterry@uga.edu) (Oxford University)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV**. The mentors will then get in touch with you.
