@@ -52,7 +52,5 @@ Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOC
   * [HL-LHC](https://hilumilhc.web.cern.ch)
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)
   * [Pennylane](https://pennylane.ai)
-  * [Paper 1](https://arxiv.org/pdf/2401.07049)
-  * [Paper 2](https://arxiv.org/pdf/2401.07039)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
