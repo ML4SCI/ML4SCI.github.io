@@ -43,6 +43,7 @@ Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0
   * [Alkaid Cheng](mailto:ml4-sci@cern.ch) (University of Wisconsin Madison)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [KC Kong](mailto:ml4-sci@cern.ch) (University of Kansas)
+  * [Alex Roman](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 
 ## Links

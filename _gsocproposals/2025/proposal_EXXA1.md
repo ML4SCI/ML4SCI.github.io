@@ -39,6 +39,8 @@ Use [this link](https://docs.google.com/document/d/1cPEFea88Y9mvyNGhXVRphjLTzmFl
 
 * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
 * [Jason Terry](mailto:jpterry@uga.edu) (University of Georgia)
+* [Emily Panek](mailto:ml4-sci@cern.ch) (University of Alabama)
+* [Alex Roman](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV**. The mentors will then get in touch with you.
 
