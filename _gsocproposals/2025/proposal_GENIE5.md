@@ -23,7 +23,7 @@ Total project length: 175/350 hours.
   * Intermediate/Advanced
 
 ## Task ideas
-* Map a 3D zero mean, unit variance, diagonal normal to a 3D non-Gaussian density using a PINN. The inputs to the PINN are t, x, y, z — that is, the reverse time t ∈ [1, 0] and a point sampled from the 3D normal. The output of the PINN is the vector solution u⃗(t, x, y, z). Since the PINN is conditioned on x, y, z, during training the points can be sampled from any convenient distribution, including quasi-random sampling such as Sobol sampling. (Of course, when used we must sample from a 3D normal.)
+* Map a 3D zero mean, unit variance, diagonal normal to a 3D non-Gaussian density using a PINN. The inputs to the PINN are t, x, y, z — that is, the reverse time t ∈ [1, 0] and a point sampled from the 3D normal. The output of the PINN is the vector solution **u**(t, x, y, z). Since the PINN is conditioned on x, y, z, during training the points can be sampled from any convenient distribution, including quasi-random sampling such as Sobol sampling. (Of course, when used we must sample from a 3D normal.)
 * Repeat with increasingly complex 3D non-Gaussian densities.
 * Optional: Apply what has been learned from 1 and 2 to build a fast calorimeter simulator. Use Dataset 1 from the Fast Calorimeter Simulation Challenge 2022 [4].
 * Publish the results in an ML paper.
