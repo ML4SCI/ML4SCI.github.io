@@ -23,17 +23,21 @@ Total project length: 175/350 hours.
   * Intermediate/Advanced
 
 ## Task ideas
-  * Map a 3D zero mean, unit variance, diagonal normal to a 3D non-Gaussian density using a PINN. The inputs to the PINN are t, x, y, z, that is, the reverse time $t \in [1,0]$, and a point sampled from the 3D normal. The output of the PINN is the vector solution $\vec{u}(t,x,y,z)$. Since the PINN is conditioned on x, y, z, during training the points can be sampled from any convenient distribution, including quasi-random sampling such as Sobol sampling. (Of course, when used we must sample from a 3D normal.) 
-  * Repeat with increasingly complex 3D non-Gaussian densities.
-  * Optional: Apply what has been learned from 1 and 2 to build a fast calorimeter simulator. Use Dataset 1 from the Fast Calorimeter Simulation Challenge 2022 [4]. 
-  * Publish the results in an ML paper. 
- 
+* Map a 3D zero mean, unit variance, diagonal normal to a 3D non-Gaussian density using a PINN. The inputs to the PINN are t, x, y, z — that is, the reverse time t ∈ [1, 0] and a point sampled from the 3D normal. The output of the PINN is the vector solution u⃗(t, x, y, z). Since the PINN is conditioned on x, y, z, during training the points can be sampled from any convenient distribution, including quasi-random sampling such as Sobol sampling. (Of course, when used we must sample from a 3D normal.)
+* Repeat with increasingly complex 3D non-Gaussian densities.
+* Optional: Apply what has been learned from 1 and 2 to build a fast calorimeter simulator. Use Dataset 1 from the Fast Calorimeter Simulation Challenge 2022 [4].
+* Publish the results in an ML paper.
+
 ## Expected results
-  * Trained graph-based jet classifier
-  * Benchmarks on selected datasets
+* Trained graph-based jet classifier
+* Benchmarks on selected datasets
 
 ## Test
-  * Using PyTorch, solve the damped harmonic oscillator [5] using a PINN. Choose fixed initial conditions $x(0)=x_0, \frac{dx}{dz}(0)=v_0$, with $x_0=0.7, v_0=1.2$. Condition the PINN on damping ratios in the range $\xi$ = 0.1 to 0.4. Solve the domain $z \in [0,20]$. $\frac{d^2x}{dz^2}+2\xi\frac{dx}{dz}+x=0$
+* Using PyTorch, solve the damped harmonic oscillator [5] using a PINN. Choose fixed initial conditions:  
+  x(0) = x₀, dx/dz(0) = v₀, with x₀ = 0.7 and v₀ = 1.2.  
+  Condition the PINN on damping ratios in the range ξ = 0.1 to 0.4.  
+  Solve on the domain z ∈ [0, 20]:  
+  d²x/dz² + 2ξ·dx/dz + x = 0
 
 <!-- ## Test 
 Please use [this link](https://docs.google.com/document/d/142YpKV7fJ49zaBZkSBekbBzw43KD71No2K_Jd-n5Neo/edit?usp=sharing) to access the test for this project. -->
