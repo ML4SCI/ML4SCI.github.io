@@ -1,5 +1,5 @@
 ---
-title: Semi-supervised Symmetry Discovery
+title: Discovery of hidden symmetries and conservation laws
 layout: gsoc_proposal
 project: E2E
 year: 2025
@@ -16,19 +16,21 @@ Although most of the symmetries that we work with for SM physics are well define
 
 Learning these symmetries not only makes us more prepared to deal with the physics constraints in these abstract spaces and coordinates but also makes us able to build neural networks that are invariant to these symmetries. Such neural networks as seen from the existing literature are more robust, stable, interpretable and data efficient.
 
-This project will focus on ways to learn the symmetries using semi-supervised approaches for the raw CMS calorimetric data stream.
+This project will focus on ways to learn hidden symmetries combining the works of
+* https://arxiv.org/abs/2109.09721
+* https://arxiv.org/pdf/2301.05638v1 
+* https://arxiv.org/abs/2302.00236
 
 ## Duration
 Total project length: 175/350 hours.
 
 ## Task ideas
-  * Build an understanding of the symmetries present and their nature of representation on the CMS detector space(paper).
-  * Develop a supervised model to learn some of the symmetries given the conserved quantity and nature of augmentations.
-  * Extend the supervised approach to a semi-supervised setup to discover symmetries without using the augmentation space (paper).
-  * [Advanced Step] Using the symmetries discovered to build physics to build a physics-aware neural network.
+  * Develop a deep learning model capable of uncovering the symmetries present in the toy datasets and then extending it to more abstract use cases.
+  * Using the symmetries discovered to probe the phase space of the CMS datasets.
+  * Building physics aware models using the symmetries.
 
 ## Expected results
-  * Discover hidden symmetries present in the CMS dataset.
+  * Discover symmetries and conserved quantities present in the CMS dataset.
   * Benchmark the models with other previous works in terms of data efficiency and invariance with respect to symmetry operations.
 
 ## Difficulty level
@@ -53,5 +55,6 @@ Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969a
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
 ## Links
-  * [Paper 1](https://arxiv.org/abs/2302.00236)
-  * [Paper 2](https://arxiv.org/abs/2104.09459)
+  * [Paper 1](https://arxiv.org/abs/2109.09721)
+  * [Paper 2](https://arxiv.org/pdf/2301.05638v1)
+  * [Paper 3](https://arxiv.org/abs/2302.00236)
