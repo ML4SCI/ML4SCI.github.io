@@ -52,7 +52,7 @@ Please use [this link](https://docs.google.com/document/d/1dqBGbH44Eu3W432oRxpOC
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)
   * [Pennylane](https://pennylane.ai)
   * [Paper 1](https://arxiv.org/pdf/2404.19756)
-  * [Paper 2](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1462952/fullx)
+  * [Paper 2](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1462952/full)
   * [Paper 3](https://arxiv.org/pdf/2410.04435)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
