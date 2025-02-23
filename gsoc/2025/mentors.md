@@ -48,7 +48,6 @@ layout: plain
   * [Jeremy Quijano](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Sanaz Kiyadeh](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Yurii Halychanskyi](mailto:ml4-sci@cern.ch) (University of Washington)
-  * [Sinan Gençoğlu](mailto:ml4-sci@cern.ch) (Middle East Technical University)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (Princess Sumaya University for Technology)
   * [Giorgos Pipilis](mailto:ml4-sci@cern.ch) (NTUA)
   * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
