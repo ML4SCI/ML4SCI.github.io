@@ -1,5 +1,5 @@
 ---
-title: Diffusion models for Fast and accurate simulations of the low level CMS experiment data.
+title: Diffusion models for fast and accurate simulations of low level CMS experiment data.
 layout: gsoc_proposal
 project: E2E
 year: 2025
