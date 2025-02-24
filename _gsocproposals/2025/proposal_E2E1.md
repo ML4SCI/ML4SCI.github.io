@@ -22,9 +22,9 @@ This project will focus on ways to learn the symmetries using semi-supervised ap
 Total project length: 175/350 hours.
 
 ## Task ideas
-  * Build an understanding of the symmetries present and their nature of representation on the CMS detector space(paper).
+  * Build an understanding of the symmetries present and their nature of representation on the CMS detector space [link](https://arxiv.org/abs/2104.09459).
   * Develop a supervised model to learn some of the symmetries given the conserved quantity and nature of augmentations.
-  * Extend the supervised approach to a semi-supervised setup to discover symmetries without using the augmentation space (paper).
+  * Extend the supervised approach to a semi-supervised setup to discover symmetries without using the augmentation space [link](https://arxiv.org/abs/2302.00236).
   * [Advanced Step] Using the symmetries discovered to build physics to build a physics-aware neural network.
 
 ## Expected results
