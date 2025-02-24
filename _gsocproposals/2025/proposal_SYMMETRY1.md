@@ -1,7 +1,7 @@
 ---
 title: Semi-supervised Symmetry Discovery
 layout: gsoc_proposal
-project: E2E
+project: SYMMETRY
 year: 2025
 organization:
   - Alabama
