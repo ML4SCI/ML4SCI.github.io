@@ -1,5 +1,5 @@
 ---
-title: AI for Quantum Computing and High Energy Physics Analysis at the LHC
+title: Q-MAML - Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms for High Energy Physics Analysis at the LHC
 layout: gsoc_proposal
 project: QMLHEP
 year: 2025
