@@ -1,9 +1,10 @@
 ---
 project: SYMMETRY
 layout: default
-logo: CMS-logo.png
+logo: SYMMETRY.png
 description: |
-   [CMS](http://cms.cern/) is a high-energy physics experiment at the [Large Hadron Collider](http://home.web.cern.ch/topics/large-hadron-collider) (LHC) at [CERN](http://home.cern/).  It is a general-purpose detector that is designed to observe any new physics phenomena that the LHC might reveal. CMS acts as a giant, high-speed camera, taking 3D "photographs" of particle collisions from all directions up to 40 million times each second. The CMS collects few tens of Peta-Bytes of data each year and processes them through Worldwide LHC Computing Grid infrastructure around the globe.
+Recent success in the domain of unsupervised and semi-supervised learning has been lately a pivotal factor for development of Physics Aware and Symmetry Aware Machine Learning techniques where a model learns the symmetry of a dataset as a meta task and ends up learning the physics through the same.
+This project will focus on ways to learn the symmetries using semi-supervised approaches using CMS data.
 ---
 
 {% include gsoc_project.ext %}
