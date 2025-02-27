@@ -7,7 +7,7 @@ year: 2025
 organization:
   - Alabama
   - MIT
-  - Florida
+  - UF
 ---
 
 ## Description
