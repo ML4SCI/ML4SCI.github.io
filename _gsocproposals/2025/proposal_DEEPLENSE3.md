@@ -32,8 +32,8 @@ Intermediate/Advanced
 ## Requirements
 Python, PyTorch, experience with machine learning, knowledge of computer vision techniques, familiarity with autoencoders.
 
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1P8SC5bh7twrWta4MD8jpn5kwEmoIAYlDd39iVWRkkq8/edit?usp=sharing) to access the test for this project. -->
+## Test
+Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWzKYTFMvDeYiJvoE0U2I4x0w/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
