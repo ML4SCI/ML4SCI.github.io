@@ -45,8 +45,8 @@ Intermediate
 C++, Python, PyTorch and some previous experience in Machine Learning.
 
 
-<!-- ## Test
-Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project. -->
+## Test
+Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpzIM55XcV4Z_7ykS7N9tyISA/edit?usp=sharing) to access the test for this project.
 
 
 ## Mentors
