@@ -2,7 +2,7 @@
 title: Graph Transformers for Fast Detector Simulation
 layout: gsoc_proposal
 project: DeepFALCON
-year: 2023
+year: 2025
 organization: 
  - Alabama
  - EPFL

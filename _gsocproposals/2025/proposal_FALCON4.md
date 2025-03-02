@@ -2,7 +2,7 @@
 title: Optimal Transport in High Energy Physics
 layout: gsoc_proposal
 project: DeepFALCON
-year: 2023
+year: 2025
 organization: 
  - Alabama
  - EPFL
@@ -22,8 +22,8 @@ Total project length: 175/350 hours.
 ## Task ideas and expected results
 Application of optimal transport techniques using deep learning for classification, anomaly detection and graph generative models in high energy physics.
 
-<!-- ## Test
-Please use this [link](https://docs.google.com/document/d/1bwRaHc0IYIcFOokMcW-mYJv2i24iP1mm08ALTSyQ4EI/edit?usp=sharing) to access the test for this project. -->
+## Test
+Please use this [link](https://docs.google.com/document/d/15XrY0vLMWQgVEvNSBcy4knGpoaw6X7s6hSo_SpX-nw8/edit?usp=sharing) to access the test for this project.
 
 ## Requirements
 Strong machine learning skills, good knowledge of C++ and Python. Interest in Machine Learning algorithms and applications.
