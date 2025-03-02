@@ -27,8 +27,8 @@ Total project length: 175 hours.
   * Trained quantum transformer model.
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
   
-<!-- ## Test
-Please use [this link](https://docs.google.com/document/d/1sWHt7miyhFXnFeWmZ_El0P7wiRlggj5WPRktA7dsUh8/edit?usp=sharing) to access the test for this project. -->
+## Test
+Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
