@@ -52,7 +52,3 @@ Intermediate/Advanced
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
-
-## Links
-  * [Blog Post 1](https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df)
-  * [Paper 1](https://arxiv.org/abs/2401.00452)
