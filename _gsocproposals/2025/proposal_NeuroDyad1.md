@@ -26,8 +26,8 @@ Total project length: 175/350 hours.
  * Train the model on neurotypical and clinical dyads, analyzing how latent embeddings encode neural interactions.
  * Identify differentiating features (e.g., variance in manifold structure, neural synchrony, connectivity patterns) that may characterize clinical interactions.
 
-<!-- ## Test
-Please use [this link](https://docs.google.com/document/d/1QuG0Ho3pWsJGMx0fG969aBNfgPg-cDxU9w33ZuDEBng/edit?usp=sharing) to access the test for this project. -->
+## Test
+Please use [this link](https://docs.google.com/document/d/e/2PACX-1vQtRi66DVeoI2tRxT7I6XNi0d_t1JJxDML0dIeUCDMcUqWaG6juTEg25mkQMAKtLyPGQCaq8OM0pz1J/pub) to access the test for this project.
 
 ## Requirements
 MATLAB, Python; solid understanding of linear algebra, topology, signal processing. Interest in clinical neuroscience and computational methods.
