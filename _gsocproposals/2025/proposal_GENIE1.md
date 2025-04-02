@@ -41,7 +41,6 @@ Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAin
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (PSUT)
   * [Tom Magorsch](mailto:ml4-sci@cern.ch) (TUM)
-  * [Ameya Thete](mailto:ml4-sci@cern.ch) (BITS Pilani)
 
 ## Links
   * [LHC](https://home.cern/science/accelerators/large-hadron-collider)

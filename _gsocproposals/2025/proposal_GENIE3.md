@@ -39,7 +39,6 @@ Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAin
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (PSUT)
-  * [Ameya Thete](mailto:ml4-sci@cern.ch) (BITS Pilani)
  
 
 ## Links
