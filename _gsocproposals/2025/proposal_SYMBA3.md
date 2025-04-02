@@ -19,7 +19,6 @@ Total project length: 175/350 hours.
 
 ## Task ideas and expected results
   * Develop  symbolic regression models based on next-gen transformer architectures
-  * Develop a hybrid method based on elements of both approaches
   * Benchmark these models on synthetic and  high-energy physics datasets
    
 ## Requirements 

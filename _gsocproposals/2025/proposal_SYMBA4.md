@@ -16,8 +16,9 @@ One of the most important physical quantities in particle physics is the cross s
 Total project length: 175/350 hours.
 
 ## Task ideas and expected results
-  * Develop  symbolic regression models based on the novel Titans model architectures 
-  * Benchmark these models on synthetic and high-energy physics datasets
+  * Develop Titans architecture for use at scale for squared amplitude calculation
+  * Analyze performance of titans architure relative to baselines
+  * Integrate Titans architecture into existing SYMBAHEP code pipelines
 
    
 ## Requirements 
