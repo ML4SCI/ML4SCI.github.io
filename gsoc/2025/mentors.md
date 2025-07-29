@@ -53,7 +53,6 @@ layout: plain
   * [Giorgos Pipilis](mailto:ml4-sci@cern.ch) (NTUA)
   * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Tom Magorsh](mailto:ml4-sci@cern.ch) (TUM)
-  * [Ameya Thete](mailto:ml4-sci@cern.ch) (BITS Pilani)
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Samuel Campbell](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Saranga Mahanta](mailto:ml4-sci@cern.ch) (Institut Polytechnique de Paris)
