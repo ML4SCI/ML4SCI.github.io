@@ -13,6 +13,24 @@ layout: default
 
 This is a collection of blog posts from GSoC students who worked with ML4SCI.
 
+### Google Summer of Code 2025
+
+<table class="table table-hover table-striped">
+
+<tr>
+    <td><a href="https://medium.com/@sijiljose.999/gsoc-2025-with-ml4sci-part-i-physics-informed-neural-network-for-diffusion-equation-pinnde-491d46a5b84d" target="_blank">"Physics Informed Neural Network for Diffusion Equation (PINNDE)" by Sijil Jose</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@krishmalikus/learning-symbolic-expressions-from-data-clouds-d186f054" target="_blank">"Learning Symbolic Expressions from Data Clouds" by Krish Malik</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@ayush89718/exploring-squared-amplitudes-in-high-energy-physics-with-ml4sci-my-gsoc-journey-453a2349f9d5" target="_blank">"Exploring Squared Amplitudes in High Energy Physics" by Ayush Mishra</a></td>
+  </tr>
+
+</table>
+
 ### Google Summer of Code 2024
 
 <table class="table table-hover table-striped">
