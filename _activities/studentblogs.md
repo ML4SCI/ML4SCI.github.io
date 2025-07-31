@@ -49,6 +49,14 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@murariu.alexandra2002/disentangling-symmetries-gsoc25-ml4sci-e2e-41b17276d184" target="_blank">"Disentangling symmetries" by Alexandra Murariu</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@avishiktaa.bhattacharrjee/hidden-symmetry-and-generators-2dcdb18fbee4" target="_blank">"Hidden Symmetry and Generators" by Avishikta Bhattacharjee</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@greenkedia10/the-geometry-beneath-revealing-hidden-symmetries-8cadf0c8118b" target="_blank">"The Geometry Beneath: Revealing Hidden Symmetries" by Green Kedia</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
