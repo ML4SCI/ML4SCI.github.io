@@ -41,6 +41,14 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@michemarall/foundational-model-for-symbolic-regression-in-high-energy-physics-8571d6ea8ed2" target="_blank">"Foundational Model for Symbolic Regression in High Energy Physics" by Miche Maral</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@singhaltanmay55/foundation-models-for-exoplanet-characterization-9ab7ef402f08" target="_blank">"Foundation Models for Exoplanet Characterization" by Tanmay Singhal</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@murariu.alexandra2002/disentangling-symmetries-gsoc25-ml4sci-e2e-41b17276d184" target="_blank">"Disentangling symmetries" by Alexandra Murariu</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
