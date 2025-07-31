@@ -22,11 +22,23 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   </tr>
 
 <tr>
-    <td><a href="https://medium.com/@krishmalikus/learning-symbolic-expressions-from-data-clouds-d186f054" target="_blank">"Learning Symbolic Expressions from Data Clouds" by Krish Malik</a></td>
+    <td><a href="https://medium.com/@krishmalikus/learning-symbolic-expressions-from-data-clouds-d186f05435bd" target="_blank">"Learning Symbolic Expressions from Data Clouds" by Krish Malik</a></td>
   </tr>
 
 <tr>
     <td><a href="https://medium.com/@ayush89718/exploring-squared-amplitudes-in-high-energy-physics-with-ml4sci-my-gsoc-journey-453a2349f9d5" target="_blank">"Exploring Squared Amplitudes in High Energy Physics" by Ayush Mishra</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@prasanthnaidu31k/state-space-models-for-squared-amplitude-calculations-618b9ea4a4fd" target="_blank">"State Space Models for Squared Amplitude Calculations" by 	Karaka Prasanth Naidu</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@daksh3982/exploring-machine-learning-for-hcal-data-quality-monitoring-06fee3c59bd0" target="_blank">"Exploring Machine Learning for HCAL Data Quality Monitoring" by Daksh Mor</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@michemarall/foundational-model-for-symbolic-regression-in-high-energy-physics-8571d6ea8ed2" target="_blank">"Foundational Model for Symbolic Regression in High Energy Physics" by Miche Maral</a></td>
   </tr>
 
 </table>
