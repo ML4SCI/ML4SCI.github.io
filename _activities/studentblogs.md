@@ -57,6 +57,18 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@greenkedia10/the-geometry-beneath-revealing-hidden-symmetries-8cadf0c8118b" target="_blank">"The Geometry Beneath: Revealing Hidden Symmetries" by Green Kedia</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@rushilsingha18/gsoc-25-graph-representation-learning-for-fast-detector-simulation-at-ml4sci-97d49b85adf4" target="_blank">"Graph Representation Learning for Fast Detector Simulation" by Rushil Singha</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://gsoc2025.blogspot.com/" target="_blank">"DeepLense_Data_Processing_Pipeline_for_the_LSST" by Kartik Mandar</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@daksh3982/exploring-machine-learning-for-hcal-data-quality-monitoring-06fee3c59bd0" target="_blank">"Exploring Machine Learning for HCAL Data Quality Monitoring" by Daksh Mor</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
