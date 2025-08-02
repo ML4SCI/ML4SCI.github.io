@@ -73,6 +73,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@arnavsinghal06/gsoc-25-q-maml-for-variational-quantum-algorithms-for-high-energy-physics-analysis-at-lhc-7b85a54a8924" target="_blank">"Q-MAML for Variational Quantum Algorithms for High Energy Physics analysis at LHC" by Arnav Singhal</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@al.duplinskiy/diffusion-model-for-superresolution-imaging-c0d6ec8b8597" target="_blank">"Diffusion model for superresolution imaging" by Aleksandr Duplinskii</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
