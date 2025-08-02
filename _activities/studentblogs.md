@@ -69,6 +69,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@daksh3982/exploring-machine-learning-for-hcal-data-quality-monitoring-06fee3c59bd0" target="_blank">"Exploring Machine Learning for HCAL Data Quality Monitoring" by Daksh Mor</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@arnavsinghal06/gsoc-25-q-maml-for-variational-quantum-algorithms-for-high-energy-physics-analysis-at-lhc-7b85a54a8924" target="_blank">"Q-MAML for Variational Quantum Algorithms for High Energy Physics analysis at LHC" by Arnav Singhal</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
