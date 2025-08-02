@@ -77,6 +77,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@al.duplinskiy/diffusion-model-for-superresolution-imaging-c0d6ec8b8597" target="_blank">"Diffusion model for superresolution imaging" by Aleksandr Duplinskii</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@hameessayed71/simulating-gravitational-lensing-with-flow-matching-gsoc-midterm-update-7d4692375ae8" target="_blank">"Simulating Gravitational Lensing with Flow Matching" by Hamees Sayed</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
