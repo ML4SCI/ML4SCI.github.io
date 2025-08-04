@@ -81,6 +81,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@hameessayed71/simulating-gravitational-lensing-with-flow-matching-gsoc-midterm-update-7d4692375ae8" target="_blank">"Simulating Gravitational Lensing with Flow Matching" by Hamees Sayed</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@riakhatoniar1234/gsoc-2025-quantum-kolmogorov-arnold-networks-for-high-energy-physics-analysis-at-the-lhc-a98207bf6d4c" target="_blank">"Quantum Kolmogorov-Arnold Networks for High Energy Physics Analysis at the LHC" by Ria Khatoniar</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2024
