@@ -88,6 +88,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 <tr>
     <td><a href="https://medium.com/@aadityaporwal234/foundation-models-for-end-to-end-event-reconstruction-for-the-cms-experiment-08f2e1a45487" target="_blank">"Foundation models for End-to-End event reconstruction for the CMS Experiment" by Aaditya Porwal</a></td>
   </tr>
+
+<tr>
+    <td><a href="https://medium.com/@thanhnguyen14401/gsoc-2025-with-ml4sci-event-classification-with-masked-transformer-autoencoders-6da369d42140" target="_blank">"Event Classification with Masked Transformer Autoencoders" by Thanh Nguyen</a></td>
+  </tr>
   
 
 </table>
