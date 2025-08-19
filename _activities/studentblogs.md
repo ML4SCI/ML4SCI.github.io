@@ -85,6 +85,11 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@riakhatoniar1234/gsoc-2025-quantum-kolmogorov-arnold-networks-for-high-energy-physics-analysis-at-the-lhc-a98207bf6d4c" target="_blank">"Quantum Kolmogorov-Arnold Networks for High Energy Physics Analysis at the LHC" by Ria Khatoniar</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@aadityaporwal234/foundation-models-for-end-to-end-event-reconstruction-for-the-cms-experiment-08f2e1a45487" target="_blank">"Foundation models for End-to-End event reconstruction for the CMS Experiment" by Aaditya Porwal</a></td>
+  </tr>
+  
+
 </table>
 
 ### Google Summer of Code 2024
