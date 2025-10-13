@@ -26,7 +26,7 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   </tr>
 
 <tr>
-    <td><a href="https://medium.com/@ayush89718/exploring-squared-amplitudes-in-high-energy-physics-with-ml4sci-my-gsoc-journey-453a2349f9d5" target="_blank">"Exploring Squared Amplitudes in High Energy Physics" by Ayush Mishra</a></td>
+    <td><a href="https://medium.com/@ayush89718/exploring-squared-amplitudes-in-high-energy-physics-with-ml4sci-my-gsoc-journey-part-2-2c1ff217f10e" target="_blank">"Exploring Squared Amplitudes in High Energy Physics" by Ayush Mishra</a></td>
   </tr>
 
 <tr>
@@ -38,7 +38,7 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   </tr>
 
 <tr>
-    <td><a href="https://medium.com/@michemarall/foundational-model-for-symbolic-regression-in-high-energy-physics-8571d6ea8ed2" target="_blank">"Foundational Model for Symbolic Regression in High Energy Physics" by Miche Maral</a></td>
+    <td><a href="https://medium.com/@michemarall/google-school-of-code-foundational-model-in-high-energy-physics-symbolic-regression-3d0311b01dad" target="_blank">"Foundational Model for Symbolic Regression in High Energy Physics" by Miche Maral</a></td>
   </tr>
 
 <tr>
