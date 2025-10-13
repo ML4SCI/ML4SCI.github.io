@@ -221,6 +221,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@anirudhshankar99/physics-informed-unsupervised-super-resolution-of-lensing-images-gsoc-2024-x-ml4sci-51cedc1cfb00" target="_blank">"Physics-Informed Unsupervised Super-Resolution of Lensing Images" by Anirudh Shankar</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://medium.com/@sourishphate/quantum-machine-learning-for-exoplanet-characterization-gsoc-25-ml4sci-c6c6cb4590b9" target="_blank">"Quantum Machine Learning For Exoplanet Characterization" by Sourish Phate</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2023
