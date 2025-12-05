@@ -20,7 +20,7 @@ If you are a student interested in our projects, or an organization wanting to p
 
 Official GSoC Website: https://summerofcode.withgoogle.com/
 
-Our Projects: https://ml4sci.org/activities/gsoc.html
+Our Projects: https://ml4sci.org/activities/gsoc2025.html
 
 Ideas Page: https://ml4sci.org/gsoc/2025/summary.html
 
