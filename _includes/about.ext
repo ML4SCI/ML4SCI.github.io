@@ -1,11 +1,11 @@
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
   <div class="sidebar-module sidebar-module-inset">
-    <h4>About the newsletter</h4>
+    <h4>About ML4SCI</h4>
     <p>
-Informing the community of news across the HSF activity areas. <br>
+Machine Learning for Science (ML4Sci) brings together modern machine learning techniques and applies them to cutting edge problems in STEM. <br>
 <a href="/organization/about.html">Learn more here</a>.
 </p><p>
-For more information on the HEP Software Foundation see the <a href="http://hepsoftwarefoundation.org">HSF website</a> or
-contact the <a href="mailto:hsf-coordination@googlegroups.com">startup team</a>.
+For more information on Machine Learning for Science see the <a href="https://ml4sci.org">ML4SCI website</a> or
+contact the <a href="mailto:ml4-sci@cern.ch">team</a>.
     </p>
   </div>

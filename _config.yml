@@ -1,6 +1,6 @@
-name: HEP Software Foundation Newsletter
-description: News from the HEP Software Foundation
-url: http://www.hepsoftwarefoundation.org
+name: Machine Learning for Science
+description: Machine Learning for Science (ML4Sci) - Applying modern ML techniques to cutting edge problems in STEM
+url: https://ml4sci.org
 excerpt_separator: <!--more-->
 timezone: Europe/Paris
 highlighter: rouge

@@ -1,9 +1,9 @@
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
   <div class="sidebar-module sidebar-module-inset">
-    <h4>About the HSF</h4>
+    <h4>About ML4SCI</h4>
     <p>
-For more information on the HEP Software Foundation see the <a href="/organization/goals.html">goals</a> page or
-contact the <a href="mailto:hsf-coordination@googlegroups.com">startup team</a>.
+For more information on Machine Learning for Science see the <a href="/organization/goals.html">goals</a> page or
+contact the <a href="mailto:ml4-sci@cern.ch">team</a>.
     </p>
   </div>
   <div class="sidebar-module sidebar-module-inset">
@@ -20,7 +20,7 @@ contact the <a href="mailto:hsf-coordination@googlegroups.com">startup team</a>.
   </div>
 
   <div class="sidebar-module sidebar-module-inset">
-    <h4>HSF Meetings</h4>
+    <h4>ML4SCI Meetings</h4>
     <ol class="list-unstyled">
     {% assign pagedate = site.time | date: "%Y-%m-%d"   %}
     {% for post in site.categories.organization limit: 3 %}
@@ -33,9 +33,8 @@ contact the <a href="mailto:hsf-coordination@googlegroups.com">startup team</a>.
    <div class="sidebar-module sidebar-module-inset">
     <h4>Links</h4>
     <ol class="list-unstyled">
-      <li><a href="http://feeds.feedburner.com/HepSoftwareFoundationNewsletter">RSS feed</a></li>
-      <li><a href="http://it.wikitolearn.org/Main_HSF_Page">HSF on WikiToLearn</a></li>
-      <li><a href="https://github.com/HSF">HSF on GitHub</a></li>
+      <li><a href="https://github.com/ML4SCI">ML4SCI on GitHub</a></li>
+      <li><a href="https://ml4sci.org">ML4SCI Website</a></li>
 
     </ol>
   </div>
