@@ -1,5 +1,6 @@
 ---
-title: Future HSF and Community Events
+title: Future ML4SCI and Community Events
+description: Upcoming events, workshops, and meetings organized by Machine Learning for Science and the community
 layout: plain
 ---
 
