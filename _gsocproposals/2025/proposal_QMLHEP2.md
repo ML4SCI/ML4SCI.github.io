@@ -25,8 +25,10 @@ Total project length: 175/350 hours.
   * Trained Quantum Graph Neural Network with e.g. Pennylane framework.
   * Apply the Quantum Machine Learning method to LHC physics analysis and compare to classical machine learning methods.
   
+<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
+--->
 
 ## Requirements 
   * Solid knowledge of machine learning and deep learning

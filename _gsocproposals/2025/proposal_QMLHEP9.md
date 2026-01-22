@@ -35,8 +35,10 @@ Total project length: 175 hours.
 
   
 
+<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
+--->
   
 ## Requirements
   * Strong background in Machine Learning & Deep Learning.
