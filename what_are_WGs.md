@@ -7,14 +7,14 @@ layout: default
 # Working Groups
 
 ML4SCI Working Groups are community led groups that organise activities
-in particular domains with the aims of increading communication
+in particular domains with the aims of increasing communication
 between developers, providing a platform for discussion of interesting
 problems and novel solutions developments, and fostering the adoption
 of common software between different communities.
 
 Working groups have three convenors, to help share the workload, and
 are appointed by ML4SCI (via an open nomination process and a search
-committtee) to serve for one year, with renewal possible by mutual
+committee) to serve for one year, with renewal possible by mutual
 agreement. (Interest groups and activity areas are less formal.)
 
 If you want to form a working group, or want to put some community-wide

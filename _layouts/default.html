@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
-    <title>{{ page.title }}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
     <link rel="icon" type="image/x-icon" href="{{ "/images/ml4sci_logo_angled.png" | prepend: site.baseurl }}">
 
     <!-- bootstrap framework -->
