@@ -4,15 +4,15 @@ author: "Benedikt Hegner"
 layout: default
 ---
 
-# HSF Projects
+# ML4SCI Projects
 
-HSF seeks to serve new and emerging common projects through a project incubator activity. Templates to guide and aid new projects are being established. If you'd like your project to be involved just let us know. Talk to any member of the coordination team or email hsf-coordination@googlegroups.com.
+ML4SCI seeks to serve new and emerging common projects through a project incubator activity. Templates to guide and aid new projects are being established. If you'd like your project to be involved just let us know. Talk to any member of the coordination team or email ml4-sci@cern.ch.
 
 The incubator idea is close to the one of the Apache Software Foundation. Brian Van Klaveren who gave the exceptional ASF talk at the SLAC workshop provides [this link](http://www.apache.org/foundation/how-it-works.html#incubator) describing how ASF Incubator projects work.
 
 We have been compiling a set of [project guidelines](project_guidelines.html) that all HSF projects should try to fulfill.
 
-## Initial set of Projects under the umbrella of HSF
+## Initial set of Projects under the umbrella of ML4SCI
 
 {:.table .table-hover .table-condensed .table-striped}
 | Name  | Description | License | Contact |
