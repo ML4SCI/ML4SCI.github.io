@@ -33,8 +33,10 @@ Intermediate/Advanced
 ## Requirements
 Python, familiarity with astronomical data processing, and understanding of data access APIs and pipelines.
 
+<!---
 ## Test
 Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWzKYTFMvDeYiJvoE0U2I4x0w/edit?usp=sharing) to access the test for this project.
+--->
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)

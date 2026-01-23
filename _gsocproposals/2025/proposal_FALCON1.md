@@ -22,8 +22,10 @@ organization:
 
 Total project length: 175/350 hours.
 
+<!---
 ## Test
 Please use this [link](https://docs.google.com/document/d/15XrY0vLMWQgVEvNSBcy4knGpoaw6X7s6hSo_SpX-nw8/edit?usp=sharing) to access the test for this project.
+--->
 
 
 ## Requirements

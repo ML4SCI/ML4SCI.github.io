@@ -41,8 +41,10 @@ Advanced
 * Experience with PyTorch and TensorFlow
 * Previous experience in Deep Learning
 
+<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpzIM55XcV4Z_7ykS7N9tyISA/edit?usp=sharing) to access the test for this project.
+--->
 
 ## Mentors
   * [Diptarko Choudhury](mailto:ml4-sci@cern.ch) (NISER)

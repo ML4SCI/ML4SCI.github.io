@@ -25,8 +25,10 @@ Total project length: 175/350 hours.
   * Trained equivariant quantum neural networks with a QML framework (PennyLane, Cirq, Bloqade, etc.).
   * Benchmark of the performance against a non-equivariant model
 
+<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
+--->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning

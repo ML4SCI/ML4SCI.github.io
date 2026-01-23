@@ -27,8 +27,10 @@ Significant experience with Transformer machine learning models in Python (prefe
 ## Difficulty Level 
 Intermediate
 
+<!---
 ## Test
 Please use this [link](https://docs.google.com/document/d/1zrBlte6vXNGTEFLFUGdXJm_B5mpSeWktif7mGtC4a-4/edit?usp=sharing) to access the test for this project.
+--->
 
 
 ## Mentors
