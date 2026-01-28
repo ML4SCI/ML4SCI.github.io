@@ -14,3 +14,8 @@ The ML4Sci open source organization is participating in the [2022 Google Summer 
 ![GSOC](https://ml4sci.org/images/GSoC/GSoC-icon-192.png)
 
 Please take a look at our [GSoC Page](https://ml4sci.org/activities/gsoc.html) for more details.
+
+## GSoC 2026
+This repository contains information and project ideas for Google Summer of Code 2026.
+Students are encouraged to explore project descriptions and contact mentors early.
+
