@@ -1,5 +1,5 @@
 ---
-title: Foundation models for symbolic regression tasks
+title: LM-JEPA for Symbolic Regression
 layout: gsoc_proposal
 project: SYMBA
 year: 2026
@@ -11,34 +11,26 @@ organization:
 
 
 ## Description
-Symbolic regression can be used to rapidly provide solutions to problems in science which may have large computational complexity or may even be intractable. It can be used to discover a symbolic expression describing data such as a physical law. Many approaches have been explored but this project will focus on building a foundation model which incorporates knowledge about the task of symbolic regression and common data representations for physical systems.
-
+Symbolic regression can be used to rapidly provide solutions to problems in science which may have large computational complexity or may even be intractable. It can be used to discover a symbolic expression describing data such as a physical law. Previous work has explored combinations of Transformer models and genetic algorithms or reinforcement learning. This project will explore language model joint embedding predictive architectures for symbolic regression.
 
 ## Duration
-
-
 Total project length: 175/350 hours.
 
-
 ## Task ideas and expected results
-  * Explore physics-informed ideas for improving data representations, physics-aware models, and physics simulations for squared amplitude calculation
-  * Apply symbolic machine learning techniques to predict the squared amplitudes and cross section for high-energy physics 
+  * Develop  symbolic regression models based on reduced size versions of LLM-JEPA model architectures.
+  * Benchmark these models on synthetic symbolic regression datasets.
+  * Document results formally or informally to support ongoing research.
    
 ## Requirements 
-  * Python, C++ and some experience in Machine Learning sequence models.
-  * Some knowledge of physics and extensive knowledge of mathematics preferred.
-
+Significant experience with developing models in Python (preferably using pytorch). Experience with Joint Embedding Predictive Architectures and/or LLM development is preferred.
 
 <!---
 ## Test
 Please use this [link](https://docs.google.com/document/d/1zrBlte6vXNGTEFLFUGdXJm_B5mpSeWktif7mGtC4a-4/edit?usp=sharing) to access the test for this project.
 --->
 
-
-
 ## Difficulty Level 
 Advanced
-
 
 ## Mentors
   * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (Qassim University)

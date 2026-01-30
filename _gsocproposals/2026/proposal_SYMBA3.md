@@ -1,5 +1,5 @@
 ---
-title: Transformer Models for Symbolic Regression
+title: Foundation Models for Squared Amplitude Calculation
 layout: gsoc_proposal
 project: SYMBA
 year: 2026
@@ -10,28 +10,26 @@ organization:
 ---
 
 ## Description
-
-Symbolic regression can be used to rapidly provide solutions to problems in science which may have large computational complexity or may even be intractable. It can be used to discover a symbolic expression describing data such as a physical law. Previous work has explored combinations of Transformer models combined with genetic algorithms or reinforcement learning. Future work on this project might extend those approaches but could also include explorations of alternative approaches such as incorporation of Kolmogorov-Arnold Layers or novel LLM-based approaches. As a concrete testbed for these new algorithms, the project will focus on predicting physical quantities, such as cross sections in high-energy physics, e.g a probability that a particular process takes place in the interaction of elementary particles. Its measure provides a testable link between theory and experiment. It is obtained theoretically mainly by calculating the squared amplitude.
+One of the most important physical quantities in particle physics is the cross section, or a probability that a particular process takes place in the interaction of elementary particles. Its measure provides a testable link between theory and experiment. It is obtained theoretically mainly by calculating the squared amplitude. This project aims to build a foundation model for squared amplitude calculation. This project is closely related to the projects “Physics-Informed Encoding and Decoding for Squared Amplitude Calculation” and “Physics-Informed Models for Squared Amplitude Calculation”. Complete foundation model solutions should build on the ideas from those proposals incorporating physics-informed representations and architectures.
 
 ## Duration
-
 Total project length: 175/350 hours.
 
 ## Task ideas and expected results
-  * Develop  symbolic regression models based on next-gen transformer architectures
-  * Benchmark these models on synthetic and  high-energy physics datasets
-   
+  * Develop physics-informed foundation models for computing squared amplitudes.
+  * Carry out ablation studies to quantify improvement from introducing physics-informed techniques.
+  * Document results formally or informally to support ongoing research.
+
 ## Requirements 
-Significant experience with Transformer machine learning models in Python (preferably using pytorch).
+Significant experience with machine learning models in Python (preferably using pytorch). Previous work in physics informed machine learning and/or graph models is preferred.
 
 ## Difficulty Level 
-Intermediate
+Advanced
 
 <!---
 ## Test
 Please use this [link](https://docs.google.com/document/d/1zrBlte6vXNGTEFLFUGdXJm_B5mpSeWktif7mGtC4a-4/edit?usp=sharing) to access the test for this project.
 --->
-
 
 ## Mentors
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
@@ -45,6 +43,5 @@ Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-
 ## Links
   * [Paper 1](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_183.pdf)
   * [Paper 2](https://iopscience.iop.org/article/10.1088/2632-2153/acb2b2)
-  * [Paper 3](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_115.pdf)
-  * [Paper 4](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_118.pdf)
-  * [Blog Post 1](https://medium.com/@aryamaanthakur/transformers-meet-evolution-a-hybrid-approach-to-symbolic-regression-final-progress-gsoc-0de041ac013d)
+  * [Poster 1](https://nips.cc/media/PosterPDFs/NeurIPS%202023/76219.png)
+  * [Blog post 1](https://medium.com/@neerajanandfirst/my-journey-to-google-summer-of-code-2023-with-ml4sci-8822ce64464a)

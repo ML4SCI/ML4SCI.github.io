@@ -1,5 +1,5 @@
 ---
-title: Next-Generation Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP
+title: Physics-Informed Encoding and Decoding for Squared Amplitude Calculation
 layout: gsoc_proposal
 project: SYMBA
 year: 2026
@@ -11,20 +11,18 @@ organization:
 ---
 
 ## Description
-
-One of the most important physical quantities in particle physics is the cross section, or a probability that a particular process takes place in the interaction of elementary particles. Its measure provides a testable link between theory and experiment. It is obtained theoretically mainly by calculating the squared amplitude. The approach we use in this project is to treat the amplitude and squared amplitude as mathematical symbolic expressions and use language-translation models to map from the amplitude to squared-amplitude. This project will explore uses of more advanced techniques which could include but are not limited to Kolmogorov-Arnold Network layers in transformers, genetic algorithms and other evolutionary techniques, reinforcement learning.
+One of the most important physical quantities in particle physics is the cross section, or a probability that a particular process takes place in the interaction of elementary particles. Its measure provides a testable link between theory and experiment. It is obtained theoretically mainly by calculating the squared amplitude. Previous work has explored the use of language translation techniques to predict text-based squared amplitudes from text-based representations of Feynman diagrams or their amplitudes. This project aims to improve numerical accuracy or reduce computational cost by moving from purely language-translation-based solutions to solutions based on physically-motivated representations and techniques. These techniques could include techniques such as graph-based encoding of Feynman diagrams and partially or fully rules-based encoding/decoding of amplitudes/squared amplitudes. This project is closely related to the project “Physics-Informed Models for Squared Amplitude Calculation”.
 
 ## Duration
-
 Total project length: 175/350 hours.
 
 ## Task ideas and expected results
-  * Develop  various transformer-based models on sequence-to-sequence tasks
-  * Benchmark different models on simulated physics datasets of various complexity and sequence lengths to find the best model
-  * Integrate with the SymbaHEP pipeline
+  * Develop physics-informed encoding and decoding representations for Feynman diagrams, amplitudes, and/or squared * amplitudes.
+  * Carry out ablation studies to quantify improvement from introducing physics-informed techniques.
+  * Document results formally or informally to support ongoing research.
    
 ## Requirements 
-Significant experience with Transformer machine learning models in Python (preferably using pytorch).
+Significant experience with machine learning models in Python (preferably using pytorch). Previous work in physics informed machine learning and/or graph models is preferred.
 
 ## Difficulty Level 
 Advanced
