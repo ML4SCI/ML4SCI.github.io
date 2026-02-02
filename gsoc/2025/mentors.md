@@ -64,6 +64,8 @@ layout: plain
   * [Diptarko Choudhary](mailto:ml4-sci@cern.ch) (NISER)
   * [Marco Knipfer](mailto:ml4-sci@cern.ch) (University of Erlangen-Nuremberg)
   * [Neeraj Anand](mailto:ml4-sci@cern.ch) (IIT Dhanbad)
+  * [Evie Malaia](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Brendan Ames](mailto:ml4-sci@cern.ch) (University of Southampton, UK)
 
 
 
