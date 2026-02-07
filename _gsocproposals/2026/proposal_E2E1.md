@@ -1,7 +1,7 @@
 ---
 title: Super resolution at the CMS detector
 layout: gsoc_proposal
-project: CMS
+project: E2E
 year: 2026
 organization:
   - Alabama

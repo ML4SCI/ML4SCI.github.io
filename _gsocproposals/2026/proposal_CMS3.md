@@ -1,7 +1,7 @@
 ---
 title:  Continuous learning for high-energy physics data quality monitoring
 layout: gsoc_proposal
-project: ML4DQM
+project: CMS
 year: 2026
 organization:
   - Alabama
@@ -22,7 +22,6 @@ Total project length: 175 hours.
 ## Expected results
  * Build a continuous machine learning model pipeline
  * Evaluate and Benchmark the models with realistic datasets
- * Document results formally or informally to support ongoing research.
 
 ## Requirements
 C++, Python, PyTorch, Tensorflow, previous experience in Deep Learning.

@@ -10,16 +10,18 @@ organization:
 
 ## Description
 
-One of the key tasks in particle physics analyses is proper classification of particle collision events based on the parent particles and the process that produced them. To handle this task, we’re developing a flexible machine learning pipeline which can be applied to a broad range of classification tasks. We’ll leverage a mix of older and newer techniques for transformer models like masking, pretraining using autoencoder architectures, and cross attention of task-specific attention heads.
+One of the key tasks in particle physics analyses is proper classification of particle collision events based on the parent particles and the process that produced them. To handle this task, we're developing a flexible machine learning pipeline which can be applied to a broad range of classification tasks. Proposals should build on last year's work which combined the L-GATr and ParT models and implemented a track-level masked autoencoder pretraining.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Task ideas
- * Develop a scalable transformer encoder model with task-specific attention heads combined using a cross attention mechanism
- * Improve existing code pipeline with features like multi-GPU parallelism and flexible preprocessing and analysis options
- * Deploy the developed models and pipeline on simulated physics data and analyze performance gains and changes in model understanding from the techniques used
+ * Improve existing code pipeline with techniques such as attention gating, JEPA, or other well-motivated ideas
+ * Implement optimization strategies and/or custom GPU kernels to accelerate L-GATr layers
+ * Carry out extensive ablation studies to quantify performance gains from autoencoder pretraining and model hybridization
+ * Extend work to also include particle mass regression
+ * Document results formally or informally to support ongoing research.
 
 <!---
 ## Test
@@ -44,5 +46,7 @@ Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-
 
 
 ## Links
-  * [Blog Post 1](https://medium.com/@eric0reinhardt/gsoc-2023-with-ml4sci-reconstruction-and-classification-of-particle-collisions-with-masked-bab8b38958df)
-  * [Paper 1](https://arxiv.org/abs/2401.00452)
+  * [Blog Post 1](https://medium.com/@thanhnguyen14401/gsoc-2025-with-ml4sci-event-classification-with-masked-transformer-autoencoders-6da369d42140)
+  * [Paper 1](https://arxiv.org/abs/2405.14806)
+  * [Paper 2](https://arxiv.org/abs/2202.03772)
+  * [Code](https://github.com/ML4SCI/CMS/tree/main/MAEs/Hybrid_Transformer_Thanh_Nguyen)

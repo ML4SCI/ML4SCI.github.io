@@ -23,7 +23,7 @@ Total project length: 175/350 hours.
 ## Task ideas
  * Experiment with different Diffusion based models to find the best one suited for the E2E case.
  * Implementation of conditional diffusion models to generate samples based on specific given properties of the jets.
-
+ * Document results formally or informally to support ongoing research.
 
 
 ## Expected results
