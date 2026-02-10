@@ -37,8 +37,8 @@ Total project length: 175/350 hours.
   * Anatomical plausibility checks: >95% of synthetic calcium within expected coronary territories 
   
  
-## Test 
-Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAinz_2tZRgPJF6weVkR8TGPxI/edit?usp=sharing) to access the test for this project.
+<!-- ## Test 
+Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAinz_2tZRgPJF6weVkR8TGPxI/edit?usp=sharing) to access the test for this project. -->
   
 ## Requirements 
   *	Proficiency in Python

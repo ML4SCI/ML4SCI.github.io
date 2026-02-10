@@ -25,7 +25,7 @@ Intermediate
 ## Task ideas
  * Development of end-to-end deep learning regression for particle property measurements
  * Test and integration into CMSSW
-
+ * Document results formally or informally to support ongoing research.
 
 ## Expected results
  * Extension of currently integrated E2E CMSSW prototype to include the regression model inference

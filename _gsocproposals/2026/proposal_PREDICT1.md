@@ -30,8 +30,8 @@ Total project length: 175/350 hours.
   * Quantitative comparison of Agatston scores computed from model vs. annotated segmentations.
   * Demonstration of CAC anatomical attribution
  
-## Test 
-Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAinz_2tZRgPJF6weVkR8TGPxI/edit?usp=sharing) to access the test for this project.
+<!-- ## Test 
+Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAinz_2tZRgPJF6weVkR8TGPxI/edit?usp=sharing) to access the test for this project. -->
   
 ## Requirements 
   * Experience in Python and PyTorch (or equivalent deep learning framework).

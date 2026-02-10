@@ -35,8 +35,8 @@ Advanced
   * [Resham Sohal](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 
-## Test
-<!-- Solve the evaluation tasks at [this link](https://docs.google.com/document/d/e/2PACX-1vT4zwyd9cIC1mibfDgavyM6mhm3f2g4c2J47KANd7N5DaGuzWGFAoT4zp7TMH3QtUdq8u1M-c1bQmMg/pub). Please send us your CV and a link to all your completed work (github repo, Jupyter notebook + pdf of Jupyter notebook with output) to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Evaluation Test: ML4DQM in the title. -->
+<!-- ## Test
+Solve the evaluation tasks at [this link](https://docs.google.com/document/d/e/2PACX-1vT4zwyd9cIC1mibfDgavyM6mhm3f2g4c2J47KANd7N5DaGuzWGFAoT4zp7TMH3QtUdq8u1M-c1bQmMg/pub). Please send us your CV and a link to all your completed work (github repo, Jupyter notebook + pdf of Jupyter notebook with output) to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Evaluation Test: ML4DQM in the title. -->
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 

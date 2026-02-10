@@ -21,7 +21,8 @@ Total project length: 175/350 hours.
 ## Task ideas
  * Develop a machine-learning super-resolution model to upsample particle collision data
  * Analyze performance on ground-truth simulated higher resolution data
- 
+ * Document results formally or informally to support ongoing research.
+
 ## Expected results
  *  Trained models and benchmarks on simulated data
 
@@ -34,7 +35,11 @@ Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpz
 Python, C++, and some previous experience in Machine Learning. 
 
 ## Mentors
-
+  * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Diptarko Choudhury](mailto:ml4-sci@cern.ch) (NISER)
+  * [Ruchi Chudasama](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Emanuele Usai](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Sergei Gleyzer ](mailto:ml4-sci@cern.ch) (University of Alabama)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
