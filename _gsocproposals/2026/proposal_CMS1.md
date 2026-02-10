@@ -10,7 +10,7 @@ organization:
 
 ## Description
 
-One of the key tasks in particle physics analyses is proper classification of particle collision events based on the parent particles and the process that produced them. To handle this task, we're developing a flexible machine learning pipeline which can be applied to a broad range of classification tasks. Proposals should build on last year's work which combined the L-GATr and ParT models and implemented a track-level masked autoencoder pretraining.
+One of the key tasks in particle physics analyses is proper classification of particle collision events based on the parent particles and the process that produced them. To handle this task, we're developing a flexible machine learning pipeline which can be applied to a broad range of classification tasks. Proposals should build on last year's work which combined the L-GATr and ParT models and implemented a track-level masked autoencoder pretraining. This project is related to the project Event Classification With Masked Transformer Autoencoders but should focus primarily on improving the existing hybrid model architectures either in speed or numerical accuracy and quantifying results.
 
 ## Duration
 
