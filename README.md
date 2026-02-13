@@ -126,7 +126,6 @@ ML4SCI is proudly supported by researchers from institutions across the globe:
 - Davidson College
 - University of Florida / Florida State University
 - University of Georgia
-- IIT Dhanbad
 - Johns Hopkins University Applied Physics Laboratory (JHUAPL)
 - University of Kansas
 - University of Kentucky
@@ -152,20 +151,21 @@ ML4SCI is proudly supported by researchers from institutions across the globe:
 - Middle East Technical University (Turkey)
 - NTUA – National Technical University of Athens (Greece)
 - Institut Polytechnique de Paris (France)
+- Polytechnic University of Catalonia (Spain)
 - Princess Sumaya University for Technology (Jordan)
 - Qassim University (Saudi Arabia)
 - RWTH Aachen University (Germany)
 - Technical University of Munich (Germany)
+- American University of Beirut (Lebanon)
 
 </details>
 
 <details>
 <summary><b>🌏 Asia & Rest of World</b> (click to expand)</summary>
 
-- American University of Beirut (Lebanon)
+- IIT Dhanbad
 - BITS Pilani – Goa & Hyderabad Campuses (India)
 - NISER (India)
-- Polytechnic University of Catalonia (Spain)
 - VIT – Vishwakarma Institute of Technology (India)
 
 </details>
@@ -224,7 +224,7 @@ Interested in mentoring a GSoC student under the ML4SCI umbrella?
 ### How to Join
 
 1. Contact the admins at [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) before the organization application deadline
-2. Prepare your project description following the [proposal template](https://ml4sci.org/gsoc/2026/summary.html)
+2. Prepare your project description following the [proposal example](https://ml4sci.org/gsoc/2026/summary.html)
 3. Create an organization file in `_gsocorgs/2026/` following the [README instructions](_gsocorgs/2026/README.md)
 4. Add your proposal to `_gsocproposals/2026/`
 
@@ -239,7 +239,7 @@ Interested in mentoring a GSoC student under the ML4SCI umbrella?
 | Date | Event |
 |------|-------|
 | **Feb 19, 2026** | GSoC organization list announced |
-| **Feb 19 – Apr 2026** | Students interact with mentors, complete evaluation tests |
+| **Feb 19 – Early Apr 2026** | Students interact with mentors, complete evaluation tests |
 | **Early April 2026** | Student proposal submission deadline |
 | **Late April 2026** | Slot requests submitted by org admins |
 | **Mid May 2026** | Accepted student projects announced |
@@ -443,9 +443,9 @@ ML4SCI has grown significantly since its first GSoC participation:
 
 ### Highlights
 
-- 🏅 **50+ peer-reviewed publications** from GSoC student work
+- 🏅 **Multiple peer-reviewed publications** from GSoC student work
 - 🌍 **30+ participating institutions** across 4 continents
-- 🎓 **150+ students** trained in ML for science since 2021
+- 🎓 **~150 students** trained in ML for science since 2021
 - ⚛️ **Active collaborations** with CERN, NASA, and national laboratories
 
 ---
