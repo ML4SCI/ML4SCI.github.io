@@ -1,5 +1,5 @@
 ---
-title: Semi-supervised Symmetry Discovery
+title: Physics-informed neural network shape optimization
 layout: gsoc_proposal
 project: SPINN
 year: 2026
@@ -10,7 +10,7 @@ organization:
 ---
 
 ## Description
-In many engineering and physics domains, the shape or geometry of an object directly influences its performance with regard to some metric. Simple examples include the shape of an airplane wing affecting its lift-to-drag ratio, or the geometry/structure of a bridge influencing the maximum load weight which can safely traverse it. “Shape optimization” refers to the task of identifying the ideal shape/geometry of such an object which can maximize or minimize a metric of interest with respect to that object. This project looks to leverage Physics Influenced Neural Networks (PINN) and Coordinate Projection Networks (also called shape networks in the literature) to develop machine learning architectures which can quickly and efficiently perform this task.
+In many engineering and physics domains, the shape or geometry of an object directly influences its performance with regard to some metric. Simple examples include the shape of an airplane wing affecting its lift-to-drag ratio, or the geometry/structure of a bridge influencing the maximum load weight which can safely traverse it. “Shape optimization” refers to the task of identifying the ideal shape/geometry of such an object which can maximize or minimize a metric of interest with respect to that object. This project looks to leverage Physics Informed Neural Networks (PINN) and Coordinate Projection Networks (also called shape networks in the literature) to develop machine learning architectures which can quickly and efficiently perform this task.
 
 ## Duration
 Total project length: 175 hours.
