@@ -35,8 +35,8 @@ Total project length: 175/350 hours.
   * Validate features and phenotypes via Agatston stratification, cluster quality, reproducibility post image perturbation, and clinical alignment with known calcium patterns
   * Identify which features are the main phenotype distinguishers via random forest, SHAP, etc.
  
-<!-- ## Test 
-Please use [this link](https://docs.google.com/document/d/1lRJocBJ0MgrTTth07xAinz_2tZRgPJF6weVkR8TGPxI/edit?usp=sharing) to access the test for this project. -->
+## Test 
+Please use [this link](https://bama365-my.sharepoint.com/:w:/g/personal/kebutler2_crimson_ua_edu/IQDKCgBG6yGTR6c6sdaWWjdoAcp1SPRuuSdtVg3UEKB-vWE?e=4rPSFu) to access the test for this project.
   
 ## Requirements 
   * Proficiency in Python, ML (clustering, PCA, validation metrics), and data visualization skills

@@ -25,10 +25,10 @@ Total project length: 350 hours (12 weeks, full-time).
   * Generate learning curves to determine sample size for stable neural dayd decoding.
   * Map embedding features to brain activity, identifying which localization/frequency bands contribute most to neurotype classification.
  
-<!---
+
 ## Test
-Please use [this link](https://docs.google.com/document/d/e/2PACX-1vQtRi66DVeoI2tRxT7I6XNi0d_t1JJxDML0dIeUCDMcUqWaG6juTEg25mkQMAKtLyPGQCaq8OM0pz1J/pub) to access the test for this project.
---->
+Please use [this link](https://docs.google.com/document/d/1eW2O4zgUFMa_OM0MspsssCqMIbONZg1pPRmfsMm6H2Y/edit?usp=sharing) to access the test for this project.
+
 
 ## Requirements
 **Essential**: Python (NumPy, SciPy), basic signal processing (filtering, FFT)

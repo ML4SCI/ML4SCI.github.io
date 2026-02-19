@@ -25,10 +25,8 @@ Significant experience with machine learning models in Python (preferably using 
 ## Difficulty Level 
 Advanced
 
-<!---
 ## Test
-Please use this [link](https://docs.google.com/document/d/1zrBlte6vXNGTEFLFUGdXJm_B5mpSeWktif7mGtC4a-4/edit?usp=sharing) to access the test for this project.
---->
+Please use this [link](https://docs.google.com/document/d/1rQlU-iwm3-t7Bs75n1Dl-AvifUL36K60JVjM6Wi2W8E/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
