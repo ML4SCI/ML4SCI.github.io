@@ -1,5 +1,5 @@
 ---
-title: ML-Based Simulation Bias Analysis: Pythia vs Herwig vs Data
+title: ML-Based Simulation Bias Analysis - Pythia vs Herwig vs Data
 layout: gsoc_proposal
 project: HEPSIM
 year: 2026
