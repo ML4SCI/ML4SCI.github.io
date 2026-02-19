@@ -6,6 +6,7 @@ year: 2026
 organization:
   - Alabama
   - Fermilab
+  - Rutgers
   - Kansas
 
 ---
