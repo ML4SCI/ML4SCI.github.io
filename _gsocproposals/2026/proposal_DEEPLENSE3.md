@@ -40,6 +40,7 @@ Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWz
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Ashutosh Ojha](mailto:ml4-sci@cern.ch) (Indian Institute of Technology (Indian School of Mines), Dhanbad)
 
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
@@ -49,3 +50,4 @@ Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
   * [Paper 3](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_78.pdf)
+  * [Paper 4](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_252.pdf)

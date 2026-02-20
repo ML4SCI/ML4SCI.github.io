@@ -24,9 +24,9 @@ Total project length: 175/350 hours.
 Intermediate/Advanced
 
 ## Task ideas
- * Start with architectures previously explored within the DeepLense project and optimise them for the lens finding task.
- * Perform the lens search in the real observational data and analyse the properties of the detected lens candidates.
- * Evaluate model performance on different surveys.
+ * Start with architectures previously explored within the DeepLense project and optimise them for the lens finding task
+ * Perform the lens search in the real observational data and analyse the properties of the detected lens candidates
+ * Evaluate model performance on different surveys
 
 ## Expected results
  *  Increase the number of known strong lenses.

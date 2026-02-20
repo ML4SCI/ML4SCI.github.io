@@ -1,44 +1,46 @@
 ---
-title: Unsupervised Super-Resolution and Analysis of Real Lensing Images
+title: Hybrid Quantum-Classical Representation Learning for Dark Matter Substructure Classification
 layout: gsoc_proposal
 project: DEEPLENSE
-project size: 175hr/350hr
+project size: 350hr
 year: 2026
 organization:
   - Alabama
   - MIT
   - Florida
+  - PSL
 ---
 
 ## Description
-This project’s aims are twofold: developing an unsupervised super-resolution architecture to upscale the quality of lensing images constructed using real galaxy sources, and to obtain insight about the lenses themselves. An unsupervised super-resolution technique could be very valuable for lensing studies as access to high resolution lensing images for training and study can be limited, especially given potential lensing data from upcoming surveys such as Euclid and LSST. The overall goal of this project is to develop an architecture that can better study the characteristics of the gravitational lenses and their substructure.
+
+Strong gravitational lensing is a powerful tool for studying dark matter and the large-scale structure of the universe. Strong gravitational lensing images encode subtle signatures of dark matter substructure that can distinguish between competing theoretical models (Cold Dark Matter, Axion or Fuzzy Dark Matter, no substructure). While classical deep learning has shown promise in this classification task, the high dimensional feature spaces and complex correlations in lensing images may benefit from quantum computational approaches.
+This project proposes the development of Quantum Machine Learning (QML) models for dark matter substructure classification. Quantum neural networks leverage quantum phenomena such as superposition and entanglement to explore exponentially large Hilbert spaces, potentially capturing correlations that classical networks miss. Hybrid quantum classical architectures, where quantum circuits serve as trainable feature extractors within classical pipelines, offer a practical near term approach compatible with current NISQ (Noisy Intermediate Scale Quantum) devices.
 
 ## Duration
+
 Total project length: 175/350 hours.
 
 ## Difficulty level
-Intermediate/Advanced
+
+Advanced
 
 ## Task ideas
- * Start with unsupervised SR of simulated images and think of ways to bridge the gap to real images.
- * Try then integrating into the pipeline modules that study characteristics of the lenses.
 
 ## Expected results
- * A more capable architecture that can operate on a wider variety of lensing images, including lensing images created with real galaxy datasets.
- * Insight into the lensing systems, and their sub-structures.
 
 ## Requirements
-Python, PyTorch, experience with machine learning, knowledge of computer vision techniques, familiarity with autoencoders.
+ * Strong background in Machine Learning & Deep Learning.
+ * Knowledge of Quantum Computing (VQAs, Quantum Optimization).
+ * Proficiency in Python & Pennylane or Qiskit.
+ * Ability to work independently on research projects.
 
-<!---
-## Test
-Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWzKYTFMvDeYiJvoE0U2I4x0w/edit?usp=sharing) to access the test for this project.
---->
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
+  * [Rajat Shinde](mailto:ml4-sci@cern.ch) (University of Alabama in Huntsville)
+
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
 
@@ -46,5 +48,4 @@ Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@
 ## Links
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
-  * [Paper 3](https://iopscience.iop.org/article/10.1088/2632-2153/ad76f8/meta)
-
+  

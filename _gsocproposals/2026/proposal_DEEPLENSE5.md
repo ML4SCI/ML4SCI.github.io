@@ -1,5 +1,5 @@
 ---
-title: Diffusion Models for Gravitational Lensing Simulation
+title: Physics-Informed Diffusion Models for Gravitational Lensing Simulation
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr/350hr
@@ -12,25 +12,25 @@ organization:
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter, etc.
-
-Traditional simulations of gravitational lensing are time-consuming and require extensive computational resources. This project proposes the use of diffusion models, a class of generative models known for their ability to produce high-quality, detailed images from a distribution of noise, to simulate strong gravitational lensing images. We aim to generate realistic simulations of gravitational lensing events that can be used to augment datasets for machine learning models and facilitate the development of better domain adaptation and self-supervised models aimed at bridging the gap between simulated and real images of gravitational lensing. Furthermore, we will also investigate leveraging conditional diffusion models to generate gravitational lensing simulations by conditioning the model on specific parameters related to the lensing events, such as the mass distribution of the lensing galaxy, orientation, and the redshift of both the source and the lens.
+Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter, etc. 
+This project proposes the development of physics-informed diffusion and flow matching models for simulating strong gravitational lensing images. Gravitational lensing is governed by well-defined physical laws and symmetries. We aim to explore strategies for encoding these physical structures directly into generative models so that outputs are not merely statistically realistic but physically consistent. Possible directions include incorporating symmetry-aware architectures, parameterizing the generation process through physically meaningful intermediate representations (e.g., convergence and shear maps), enforcing governing equations as soft or hard constraints, or other approaches the contributor may propose.
+The resulting model is intended to produce high-fidelity, physics-compliant lensing simulations to augment training data for substructure detection and dark matter classification, while offering stronger generalization and a narrower sim-to-real gap compared to purely data-driven generative approaches.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Difficulty level
-
-intermediate
 Intermediate/Advanced
 
 ## Task ideas
  * Explore diffusion models for the generation of strong gravitational lensing images.
+ * Benchmark generated images against traditional simulations for physical consistency and downstream task utility.
  * Create a diverse dataset of simulated gravitational lensing images under various astrophysical conditions.
 
+
 ## Expected results
- *  A diffusion model capable of generating realistic simulations of strong gravitational lensing phenomena.
+ *  A diffusion model capable of generating realistic, physically consistent simulations of strong gravitational lensing phenomena.
 
 ## Requirements
  * Python, PyTorch and relevant past experience in Machine Learning.
@@ -45,6 +45,7 @@ Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWz
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Hamees Sayed](mailto:ml4-sci@cern.ch) (IIT Madras)
 
 Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and include **your CV** and **test results**. The relevant mentors will then get in touch with you. 
 
@@ -53,3 +54,5 @@ Please DO NOT contact mentors directly by email. Instead, please email [ml4-sci@
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
   * [Paper 3](https://arxiv.org/abs/2112.12121)
+  * [Paper 4](https://arxiv.org/abs/2203.17003)
+  * [Paper 5](https://arxiv.org/abs/2211.03812)
