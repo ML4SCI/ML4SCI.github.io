@@ -38,7 +38,7 @@ Total project length: 175/350 hours.
 
 
 ## Test
-Please use [this link](https://alabama.box.com/s/blfka5vq4g9mkxm5l0uuzozv2erslc52) to access the test for this project.
+Use [this link](https://docs.google.com/document/d/1t2cSxEx3vIa6uirfkMkF92rWZM4tTJ_V-lkpYSdukVQ/edit?usp=sharing) for instructions on completing the test.
 
 
 ## Mentors
