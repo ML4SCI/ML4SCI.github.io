@@ -15,10 +15,6 @@ Hundreds of BSM Lagrangians have been proposed in the literature (extended Higgs
 This project builds an **agentic system** within the [HEPTAPOD](https://feynrules.irmp.ucl.ac.be/) framework that automates this workflow. Given a BSM scenario description, the agent searches the literature, identifies the relevant Lagrangian and conventions, generates a syntactically correct FeynRules `.fr` model file, and validates it, checking particle content, symmetry properties, and where possible reproducing known cross sections or decay widths using HEPTAPOD's existing FeynRulesToUFOTool and downstream event generation tools.
 
 
-
-
-
-
 ## Duration
 Total project length: 350 hours.
 
@@ -30,21 +26,13 @@ Total project length: 350 hours.
   * Test against benchmark models already in the FeynRules database (scalar leptoquarks, 2HDM, simplified dark matter)
   * Implement audit trail recording literature sources, extracted terms, and model-building decisions
   
-  
-  
-  
-  
 
 ## Expected results:
   * Working agentic system integrated into HEPTAPOD for Lagrangian extraction and model file generation
   * Validation against at least two models with known FeynRules implementations
   * Audit trail documenting the agent's reasoning from literature to model file
   * Open-source code with examples
-  
-  
-  
-  
-  
+
 
 ## Difficulty level
 Advanced
@@ -55,16 +43,11 @@ Advanced
   * Interest in particle physics theory (Lagrangians, EFT, BSM), coursework or reading a plus
   * Exposure to Mathematica or FeynRules helpful
   * Ability to work independently on an open-ended research project
-  
-  
-  
-  
-  
 
-<!---
+
 ## Test
-Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpzIM55XcV4Z_7ykS7N9tyISA/edit?usp=sharing) to access the test for this project.
---->
+Please use [this link](https://alabama.box.com/s/blfka5vq4g9mkxm5l0uuzozv2erslc52) to access the test for this project.
+
 
 ## Mentors
   * [Steve Mrenna](mailto:ml4-sci@cern.ch) (Fermilab)

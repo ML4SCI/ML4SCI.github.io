@@ -47,10 +47,9 @@ Intermediate
   
   
 
-<!---
 ## Test
-Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpzIM55XcV4Z_7ykS7N9tyISA/edit?usp=sharing) to access the test for this project.
---->
+Please use [this link](https://alabama.box.com/s/blfka5vq4g9mkxm5l0uuzozv2erslc52) to access the test for this project.
+
 
 ## Mentors
   * [Steve Mrenna](mailto:ml4-sci@cern.ch) (Fermilab)

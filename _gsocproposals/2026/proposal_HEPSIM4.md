@@ -15,9 +15,6 @@ Thousands of BSM searches at the [LHC](https://home.cern/science/accelerators/la
 This project builds an **agentic system** within the [HEPTAPOD](https://github.com/tonymenzo/heptapod) framework that automates this process. Given a BSM model specification (particle content, decay channels, production modes), the agent searches the literature and public databases, identifies relevant analyses, extracts applicable bounds, and compiles a structured summary with references and applicability caveats.
 
 
-
-
-
 ## Duration
 Total project length: 350 hours.
 
@@ -30,18 +27,12 @@ Total project length: 350 hours.
   * Implement audit trails recording every search query, database hit, and reasoning step
   * Explore whether the agent can identify coverage gaps, parameter regions where no published search applies
   
-  
-  
-  
 
 ## Expected results:
   * Working agentic system integrated into HEPTAPOD for automated limit compilation
   * Validation against at least two well-characterized BSM scenarios
   * Transparent audit trail and decision log
   * Open-source code with documentation and examples
-  
-  
-  
   
 
 ## Difficulty level
@@ -53,14 +44,10 @@ Advanced
   * Interest in BSM phenomenology and limit-setting concepts
   * Ability to work independently with significant design freedom
   
-  
-  
-  
 
-<!---
 ## Test
-Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpzIM55XcV4Z_7ykS7N9tyISA/edit?usp=sharing) to access the test for this project.
---->
+Please use [this link](https://alabama.box.com/s/blfka5vq4g9mkxm5l0uuzozv2erslc52) to access the test for this project.
+
 
 ## Mentors
   * [Steve Mrenna](mailto:ml4-sci@cern.ch) (Fermilab)
