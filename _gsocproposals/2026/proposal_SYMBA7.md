@@ -5,8 +5,6 @@ project: SYMBA
 year: 2026
 organization:
  - Alabama
- - FSU
- - QU
 ---
 
 
@@ -31,10 +29,11 @@ Please use this [link](https://docs.google.com/document/d/1rQlU-iwm3-t7Bs75n1Dl-
 Advanced
 
 ## Mentors
-  * [Abdulhakim Alnuqaydan](mailto:ml4-sci@cern.ch) (Qassim University)
-  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Harrison Prosper](mailto:ml4-sci@cern.ch) (Florida State University)
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Dinesh Ramakrishnan](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Nobuchika Okada](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Ritesh Bhalerao](mailto:ml4-sci@cern.ch)
 
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.

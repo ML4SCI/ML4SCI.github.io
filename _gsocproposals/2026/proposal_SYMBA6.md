@@ -30,10 +30,10 @@ Please use this [link](https://docs.google.com/document/d/1rQlU-iwm3-t7Bs75n1Dl-
 
 ## Mentors
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Marco Knipfer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Victor Baules](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Dinesh Ramakrishnan](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Nobuchika Okada](mailto:ml4-sci@cern.ch) (University of Alabama)
+  * [Ritesh Bhalerao](mailto:ml4-sci@cern.ch)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
 
