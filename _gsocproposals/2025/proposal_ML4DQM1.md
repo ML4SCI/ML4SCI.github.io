@@ -42,6 +42,6 @@ Medium
 ## Test
 Solve the evaluation tasks at [this link](https://docs.google.com/document/d/e/2PACX-1vT4zwyd9cIC1mibfDgavyM6mhm3f2g4c2J47KANd7N5DaGuzWGFAoT4zp7TMH3QtUdq8u1M-c1bQmMg/pub). Please send us your CV and a link to all your completed work (github repo, Jupyter notebook + pdf of Jupyter notebook with output) to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Evaluation Test: ML4DQM in the title.
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 

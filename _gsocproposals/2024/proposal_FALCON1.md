@@ -36,7 +36,7 @@ Strong machine learning skills, good knowledge of C++ and Python. Interest in Ma
   * [Sinan Gençoğlu](mailto:ml4-sci@cern.ch) (Middle East Technical University)
   * [Amal Saif](mailto:ml4-sci@cern.ch) (Princess Sumaya University for Technology)
   
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 ## Links
   * [Paper 1](https://arxiv.org/abs/2104.01725)

@@ -61,6 +61,6 @@ Please use [this link](https://bama365-my.sharepoint.com/:w:/g/personal/kebutler
   * [Paper 4](https://eurointervention.pcronline.com/article/impact-of-local-flow-haemodynamics-on-atherosclerosis-in-coronary-artery-bifurcations?utm_source=chatgpt.com)
   * [Paper 5](https://www.mdpi.com/2075-4418/10/2/91?utm_source=chatgpt.com)
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 

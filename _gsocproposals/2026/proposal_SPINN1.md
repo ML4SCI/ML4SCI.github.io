@@ -40,7 +40,7 @@ Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpz
   * [Eric Reinhardt](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Dinesh Ramakrishnan](mailto:ml4-sci@cern.ch) (University of Alabama)
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 ## Links
   * [Paper 1](https://www.nature.com/articles/s41598-024-57137-4)

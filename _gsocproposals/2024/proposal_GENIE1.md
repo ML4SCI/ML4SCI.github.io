@@ -48,6 +48,6 @@ Please use [this link](https://docs.google.com/document/d/142YpKV7fJ49zaBZkSBekb
   * [Paper 1](https://doi.org/10.1038/s41598-022-22086-3)
   * [Paper 2](https://arxiv.org/abs/2104.01725) 
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 
