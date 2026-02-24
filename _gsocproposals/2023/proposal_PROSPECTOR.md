@@ -42,7 +42,7 @@ Python and relevant past experience in Machine Learning.
   * [Mauricio Allyon-Unzueta](mailto:ml4-sci@cern.ch) (NASA Goddard)
 
  
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 ## Links
   * [Paper 1](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2005JE002656)

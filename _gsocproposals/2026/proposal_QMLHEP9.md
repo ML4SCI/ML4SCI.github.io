@@ -33,13 +33,9 @@ Total project length: 175 hours.
   * Trained quantum diffusion model
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
 
-  
-
-<!---
 ## Test
-Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
---->
-  
+Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.  
+
 ## Requirements
   * Strong background in Machine Learning & Deep Learning.
   * Knowledge of Quantum Computing (VQAs, Quantum Optimization).
@@ -65,4 +61,4 @@ Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BT
   * [Blog Post](https://medium.com/@mashapotatoes/gsoc-quantum-diffusion-model-for-high-energy-physics-part-ii-6e693d625931)
   * [Paper 3](https://openreview.net/pdf?id=vUQLzDAdqt)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).

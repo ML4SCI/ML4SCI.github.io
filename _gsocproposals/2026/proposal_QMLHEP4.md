@@ -25,10 +25,8 @@ Total project length: 175/350 hours.
   * Trained equivariant quantum neural networks with a QML framework (PennyLane, Cirq, Bloqade, etc.).
   * Benchmark of the performance against a non-equivariant model
 
-<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
---->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
@@ -56,4 +54,4 @@ Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BT
   * [Paper 2](https://arxiv.org/abs/2311.18672)
   * [Paper 3](https://arxiv.org/abs/2212.00264)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).

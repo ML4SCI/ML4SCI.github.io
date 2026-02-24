@@ -29,10 +29,8 @@ Total project length: 175/350 hours.
   * Benchmark of the performance against a standard encoding
   
 
-<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
---->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
@@ -57,4 +55,4 @@ Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BT
   * [Paper 1](https://iopscience.iop.org/article/10.1088/2058-9565/ac6825)
   * [Paper 2](https://arxiv.org/abs/2008.08605)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).

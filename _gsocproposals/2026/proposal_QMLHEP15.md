@@ -40,8 +40,8 @@ Total project length: 175/350 hours.
 ## Difficulty
 Intermediate/Advanced
 
-<!-- ## Test
-Use [this link](https://docs.google.com/document/d/1t2cSxEx3vIa6uirfkMkF92rWZM4tTJ_V-lkpYSdukVQ/edit?usp=sharing) for instructions on completing the test. -->
+## Test
+Use [this link](https://alabama.box.com/s/hhtuposm1m46ra8krmwn95n9l2iaj5l5) for instructions on completing the test.
 
 ## Mentors
 
@@ -55,5 +55,6 @@ Use [this link](https://docs.google.com/document/d/1t2cSxEx3vIa6uirfkMkF92rWZM4t
   * [PennyLane](https://pennylane.ai)
   * [Maximal magic for two qubit states](https://arxiv.org/abs/2502.17550)
   * [Unsupervised Beyond-Standard-Model Event Discovery at the LHC with a Novel Quantum Autoencoder](https://arxiv.org/abs/2407.07961)
+  * [AI Agents for Variational Quantum Circuit Design](https://arxiv.org/abs/2602.19387)
 
 Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV**. The mentors will then get in touch with you.

@@ -27,10 +27,8 @@ Total project length: 175 hours.
   * Trained quantum transformer model.
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
   
-<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
---->
   
 ## Requirements
   * Solid knowledge of machine learning and deep learning
@@ -56,4 +54,4 @@ Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BT
   * [Paper 1](https://arxiv.org/abs/2110.06510)
   * [Paper 2](https://arxiv.org/abs/2209.08167)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).

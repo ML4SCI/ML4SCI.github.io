@@ -37,10 +37,8 @@ Total project length: 175/350 hours.
   * Demonstrate that the QGAN can produce samples whose statistical properties match those of the real dataset.
 
  
-<!---
 ## Test
 Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BThEQWDfdrOsoyfMfyJgyXmU/edit?usp=sharing) to access the test for this project.
---->
   
 ## Requirements 
   * Solid knowledge of machine learning and deep learning
@@ -66,4 +64,4 @@ Please use [this link](https://docs.google.com/document/d/1imoMEyC0r5IESonwgA7BT
   * [Paper 1](https://arxiv.org/abs/2105.00080) 
   * [Paper 2](https://arxiv.org/abs/2210.16857)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).

@@ -52,5 +52,5 @@ Intermediate/Advanced
  * [Paper 1 (Schneider et al., 2023 (CEBRA Paper))](https://arxiv.org/abs/2204.00673)
  * [Paper 2 ](https://arxiv.org/abs/2405.04248)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 

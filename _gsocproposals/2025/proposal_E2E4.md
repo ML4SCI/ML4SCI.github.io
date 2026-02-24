@@ -46,7 +46,7 @@ Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpz
   * [Purva Chaudhari](mailto:ml4-sci@cern.ch) (Vishwakarma Institute of Technology)
   
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV** and **test results**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 
 
