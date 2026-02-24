@@ -44,4 +44,4 @@ No evaluation test for this project, however, we encourage you to:
   * [Emanuele Usai](mailto:ml4-sci@cern.ch) (Brown University)
   * [Ali Hariri](mailto:ml4-sci@cern.ch) (EPFL)
 
-Please **DO NOT** contact mentors directly by email. Instead, please email [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) with Project Title and **include your CV**. The mentors will then get in touch with you.
+Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
