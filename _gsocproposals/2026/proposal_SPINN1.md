@@ -30,10 +30,8 @@ Advanced
   * Preferred: Familiarity with basic physics concepts (classical mechanics, electromagnetics, etc.) at an undergraduate level. 
   * Will help you stand out: Experience performing physics simulations using standard simulation software (COMSOL, ANSYS, etc.) or an equivalent open source framework, and familiarity with associated concepts (numerical methods techniques, how to handle boundary conditions, etc.).
 
-<!---
 ## Test
-Please use [this link](https://docs.google.com/document/d/10tITU-OJDtaZkLmXpoCpzIM55XcV4Z_7ykS7N9tyISA/edit?usp=sharing) to access the test for this project.
---->
+Please use [this link](https://docs.google.com/document/d/1mIyrMIo7NZSeKwQ2FQ1q3h1IVSPUkC0SHkREoklAcy8/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Dale Julson](mailto:ml4-sci@cern.ch) (Cerium Labs)
