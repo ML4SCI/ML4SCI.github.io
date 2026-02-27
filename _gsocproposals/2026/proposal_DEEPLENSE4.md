@@ -54,4 +54,5 @@ Please **DO NOT** contact mentors directly by email. General questions can be di
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
   * [Paper 3](https://arxiv.org/abs/2112.12121)
+  * [Paper 4](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_340.pdf)
   
