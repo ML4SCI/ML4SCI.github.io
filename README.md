@@ -14,3 +14,8 @@ The ML4Sci open source organization is participating in the [2022 Google Summer 
 ![GSOC](https://ml4sci.org/images/GSoC/GSoC-icon-192.png)
 
 Please take a look at our [GSoC Page](https://ml4sci.org/activities/gsoc.html) for more details.
+
+---
+
+### Contributing
+Beginner-friendly contributions are welcome. Feel free to open a pull request or start with small documentation improvements.
