@@ -24,8 +24,12 @@ Total project length: 175/350 hours.
 Advanced
 
 ## Task ideas
+ * Implement hybrid quantum-classical architectures (variational quantum circuits, quantum kernels) for dark matter substructure classification from strong lensing images.
+ * Benchmark quantum models against classical baselines and evaluate noise robustness under realistic NISQ conditions.
 
 ## Expected results
+ * Trained hybrid quantum-classical model for multi-class lensing classification.
+ * Benchmark of quantum vs. classical performance with analysis of near-term hardware feasibility.
 
 ## Requirements
  * Strong background in Machine Learning & Deep Learning.
