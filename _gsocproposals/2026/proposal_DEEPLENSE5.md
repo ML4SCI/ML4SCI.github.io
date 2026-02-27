@@ -1,5 +1,5 @@
 ---
-title: Physics-Informed Diffusion Models for Gravitational Lensing Simulation
+title: Physics Guided Machine Learning on Real Lensing Images 
 layout: gsoc_proposal
 project: DEEPLENSE
 project size: 175hr/350hr
@@ -7,45 +7,41 @@ year: 2026
 organization:
   - Alabama
   - MIT
-  - Florida
+  - IIT(ISM) Dhanbad
 ---
 
 ## Description
 
-Strong gravitational lensing is a promising probe of the substructure of dark matter to better understand its underlying nature. Deep learning methods have the potential to accurately identify images containing substructure and differentiate WIMP particle dark matter from other well-motivated models, including axions and axion-like particles, warm dark matter, etc. 
-This project proposes the development of physics-informed diffusion and flow matching models for simulating strong gravitational lensing images. Gravitational lensing is governed by well-defined physical laws and symmetries. We aim to explore strategies for encoding these physical structures directly into generative models so that outputs are not merely statistically realistic but physically consistent. Possible directions include incorporating symmetry-aware architectures, parameterizing the generation process through physically meaningful intermediate representations (e.g., convergence and shear maps), enforcing governing equations as soft or hard constraints, or other approaches the contributor may propose.
-The resulting model is intended to produce high-fidelity, physics-compliant lensing simulations to augment training data for substructure detection and dark matter classification, while offering stronger generalization and a narrower sim-to-real gap compared to purely data-driven generative approaches.
+This project focuses on developing a Physics-Informed Neural Network (PINN) framework for analyzing real strong gravitational lensing datasets to study dark matter distribution. Strong gravitational lensing, a key prediction of general relativity, occurs when a massive galaxy or cluster bends light from a background source, creating arcs or Einstein rings. Traditional algorithms struggle or fail entirely when applied to real lensing datasets due to observational complexities and noise. By leveraging PINNs, the project will integrate physical laws directly into the learning process, enhancing the accuracy and interpretability of dark matter inferences. The model will be trained on real lensing images, incorporating observational constraints to refine mass distribution estimates and improve the efficiency of dark matter studies.
 
 ## Duration
 
 Total project length: 175/350 hours.
 
 ## Difficulty level
+
 Intermediate/Advanced
 
 ## Task ideas
- * Explore diffusion models for the generation of strong gravitational lensing images.
- * Benchmark generated images against traditional simulations for physical consistency and downstream task utility.
- * Create a diverse dataset of simulated gravitational lensing images under various astrophysical conditions.
-
-
+ * Build various physics-informed neural network architectures that are endowed with known physics for real lensing datasets. 
+ * Apply these models to study dark matter in strong lensing images in various contexts: classification, regression, anomaly detection, and more.
+   
 ## Expected results
- *  A diffusion model capable of generating realistic, physically consistent simulations of strong gravitational lensing phenomena.
+ *  A more capable architecture that can operate on a wider variety of lensing images, including lensing images created with real galaxy datasets.
+ *  Insight into the lensing systems, and their sub-structures.
 
 ## Requirements
- * Python, PyTorch and relevant past experience in Machine Learning.
- * Familiarity with astrophysics and gravitational lensing is preferred but not required.
+Python, PyTorch, experience with machine learning, knowledge of computer vision techniques, familiarity with autoencoders.
 
-<!---
 ## Test
-Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWzKYTFMvDeYiJvoE0U2I4x0w/edit?usp=sharing) to access the test for this project.
---->
+Please use this [link](https://docs.google.com/document/d/10APh49fvayGoSftzO4fGXs2HP3uvYSzG-fSrq4xHL1w/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
-  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Hamees Sayed](mailto:ml4-sci@cern.ch) (IIT Madras)
+  * [Ashutosh Ojha](mailto:ml4-sci@cern.ch) (Indian Institute of Technology (Indian School of Mines), Dhanbad)
+  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (Independent Researcher)
+
 
 Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
@@ -53,6 +49,5 @@ Please **DO NOT** contact mentors directly by email. General questions can be di
 ## Links
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
-  * [Paper 3](https://arxiv.org/abs/2112.12121)
-  * [Paper 4](https://arxiv.org/abs/2203.17003)
-  * [Paper 5](https://arxiv.org/abs/2211.03812)
+  * [Paper 3](https://ml4physicalsciences.github.io/2024/files/NeurIPS_ML4PS_2024_78.pdf)
+  * [Paper 4](https://ml4physicalsciences.github.io/2025/files/NeurIPS_ML4PS_2025_252.pdf)

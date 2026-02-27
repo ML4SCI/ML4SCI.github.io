@@ -7,8 +7,8 @@ year: 2026
 organization:
   - Alabama
   - MIT
-  - Florida
   - PSL
+  - UAH
 ---
 
 ## Description
@@ -25,8 +25,12 @@ Total project length: 175/350 hours.
 Advanced
 
 ## Task ideas
+ * Implement hybrid quantum-classical architectures (variational quantum circuits, quantum kernels) for dark matter substructure classification from strong lensing images.
+ * Benchmark quantum models against classical baselines and evaluate noise robustness under realistic NISQ conditions.
 
 ## Expected results
+ * Trained hybrid quantum-classical model for multi-class lensing classification.
+ * Benchmark of quantum vs. classical performance with analysis of near-term hardware feasibility.
 
 ## Requirements
  * Strong background in Machine Learning & Deep Learning.
@@ -34,11 +38,13 @@ Advanced
  * Proficiency in Python & Pennylane or Qiskit.
  * Ability to work independently on research projects.
 
+## Test
+Please use this [link](https://docs.google.com/document/d/10APh49fvayGoSftzO4fGXs2HP3uvYSzG-fSrq4xHL1w/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
+  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (Independent Researcher)
   * [Rajat Shinde](mailto:ml4-sci@cern.ch) (University of Alabama in Huntsville)
 
 
