@@ -1,19 +1,19 @@
 ---
-title: Agentic AI for Autonomous Gravitational Lensing Simulation Workflows
+title: Data Processing Pipeline for the LSST
 layout: gsoc_proposal
 project: DEEPLENSE
-project size: 350hr
+project size: 175hr/350hr
 year: 2026
 organization:
   - Alabama
+  - Brown
   - MIT
+  - PSL
 ---
 
 ## Description
 
-Strong gravitational lensing is a powerful tool for studying dark matter and the large-scale structure of the universe. Current gravitational lensing simulation pipelines (e.g., [DeepLenseSim](https://github.com/mwt5345/DeepLenseSim) built on Lenstronomy) require substantial manual intervention: researchers must configure parameters, submit cluster jobs, validate outputs, retrain downstream ML models, and iterate on failures. This creates bottlenecks in large-scale dataset generation, limits exploration of parameter space, and consumes researcher time on engineering tasks rather than scientific analysis.
-This project proposes the development of an Agentic AI framework to autonomously orchestrate gravitational lensing simulation workflows. Unlike traditional automation scripts that follow rigid rules, agentic systems employ LLM-powered agents that can reason about scientific objectives, adapt to failures, and coordinate complex multi-step workflows with minimal human supervision.
-
+The Rubin Observatory will provide an unprecedented volume of astronomical data, accessible via a dedicated open-source software suite consisting of data reduction pipelines and tools for interacting with calibrated images and catalogs. In order to prepare for the application of DeepLense methods on upcoming LSST data, this project focuses on developing a complementary pipeline that integrates LSST’s data access tools with DeepLense workflows. This pipeline will enable efficient data retrieval, preprocessing, and adaptation for various DeepLense applications such as lens finding, super-resolution, and classification.
 
 ## Duration
 
@@ -21,45 +21,31 @@ Total project length: 175/350 hours.
 
 ## Difficulty level
 
-Advanced
+Intermediate/Advanced
 
 ## Task ideas
- * Survey agent frameworks and orchestration patterns
- * Design multi-agent system with specialized agents
- * Integrate with DeepLenseSim and SLURM
- * Evaluate automation gains and dataset quality
-
+ * Explore the existing LSST data access tools and design the workflow to provide the data for the DeepLense tasks.
+ * Test the workflow on the mock surveys provided by The Rubin Observatory.
 
 ## Expected results
- * Working multi-agent system for autonomous workflow orchestration
- * Significant reduction in manual intervention with adaptive behavior
- * Benchmark study comparing against traditional pipelines
-
+ *  A functional pipeline capable of interfacing LSST data with DeepLense applications.
 
 ## Requirements
- * Prior experience with LLMs and local inference tools such as Llama.cpp or Ollama
- * Prior experience with agentic AI frameworks such as Orchestral AI or Pydantic AI 
- * Prior experience with Reinforcement Learning (RL) and its application to AI agents, planning, or autonomous workflow optimization is highly preferred.
- * Familiarity with gravitational lensing is preferred but not mandatory.
+Python, familiarity with astronomical data processing, and understanding of data access APIs and pipelines.
 
-
-<!---
 ## Test
-Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWzKYTFMvDeYiJvoE0U2I4x0w/edit?usp=sharing) to access the test for this project.
---->
+Please use this [link](https://docs.google.com/document/d/10APh49fvayGoSftzO4fGXs2HP3uvYSzG-fSrq4xHL1w/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
-  * [Rajat Shinde](mailto:ml4-sci@cern.ch) (University of Alabama in Huntsville)
-
+  * [Anna Parul](mailto:ml4-sci@cern.ch) (Observatoire de Paris)
+  * [Lucca Paris](mailto:ml4-sci@cern.ch) (Brown University)
 
 Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 
 ## Links
+  * [LSST Pipeline Docs](https://pipelines.lsst.io)
   * [Paper 1](https://arxiv.org/abs/2008.12731)
   * [Paper 2](https://arxiv.org/abs/1909.07346)
-  * [Paper 3](https://arxiv.org/pdf/2512.15867)
-  
