@@ -7,8 +7,8 @@ year: 2026
 organization:
   - Alabama
   - MIT
-  - Florida
   - PSL
+  - UAH
 ---
 
 ## Description
@@ -44,7 +44,7 @@ Please use this [link](https://docs.google.com/document/d/10APh49fvayGoSftzO4fGX
 ## Mentors
   * [Michael Toomey](mailto:ml4-sci@cern.ch) (Massachusetts Institute of Technology)
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
-  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (University of Florida)
+  * [Pranath Reddy](mailto:ml4-sci@cern.ch) (Independent Researcher)
   * [Rajat Shinde](mailto:ml4-sci@cern.ch) (University of Alabama in Huntsville)
 
 
