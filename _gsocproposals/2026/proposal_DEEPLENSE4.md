@@ -35,10 +35,8 @@ Intermediate/Advanced
 ## Requirements
 Python, PyTorch, experience with machine learning, familiarity with astrophysics datasets.
 
-<!---
 ## Test
-Please use this [link](https://docs.google.com/document/d/1a-5JiHph3K59gV3-kEZWzKYTFMvDeYiJvoE0U2I4x0w/edit?usp=sharing) to access the test for this project.
---->
+Please use this [link](https://docs.google.com/document/d/10APh49fvayGoSftzO4fGXs2HP3uvYSzG-fSrq4xHL1w/edit?usp=sharing) to access the test for this project.
 
 ## Mentors
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
