@@ -56,6 +56,6 @@ Please use [this link](https://bama365-my.sharepoint.com/:w:/g/personal/kebutler
   * [Paper 4](https://www.sciencedirect.com/science/article/pii/S1936878X21008469)
   * [Code](https://pyradiomics.readthedocs.io/en/latest/)
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. Questions should instead be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) which is forwarded to mentors. To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 

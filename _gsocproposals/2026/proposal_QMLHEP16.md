@@ -58,4 +58,4 @@ Use [this link](https://alabama.box.com/s/hhtuposm1m46ra8krmwn95n9l2iaj5l5) for 
   * [Qiboml: towards the orchestration of quantum-classical machine learning](https://arxiv.org/abs/2510.11773)
   * [AI Agents for Variational Quantum Circuit Design](https://arxiv.org/abs/2602.19387)
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. Questions should instead be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) which is forwarded to mentors. To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).

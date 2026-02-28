@@ -40,6 +40,6 @@ Use [this link](https://docs.google.com/document/d/1cPEFea88Y9mvyNGhXVRphjLTzmFl
 * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
 * [Jason Terry](mailto:jpterry@uga.edu) (University of Georgia)
 
-Please **DO NOT** contact mentors directly by email. General questions can be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch). To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
+Please **DO NOT** contact mentors directly by email. Questions should instead be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) which is forwarded to mentors. To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 
