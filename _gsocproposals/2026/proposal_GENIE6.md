@@ -37,6 +37,7 @@ Total project length: 175/350 hours.
   Condition the PINN on damping ratios in the range ξ = 0.1 to 0.4.  
   Solve on the domain z ∈ [0, 20]:  
   d²x/dz² + 2ξ·dx/dz + x = 0
+* [Submission Link](https://forms.gle/SPXo8kSwHHptcBmk9)
 
 <!-- ## Test 
 Please use [this link](https://docs.google.com/document/d/142YpKV7fJ49zaBZkSBekbBzw43KD71No2K_Jd-n5Neo/edit?usp=sharing) to access the test for this project. -->
