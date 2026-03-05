@@ -8,6 +8,7 @@ organization:
   - Alabama
   - MIT
   - IIT(ISM) Dhanbad
+  - IISc
 ---
 
 ## Description
@@ -84,6 +85,7 @@ Please use this [link](https://docs.google.com/document/d/10APh49fvayGoSftzO4fGX
   * [Sergei Gleyzer](mailto:ml4-sci@cern.ch) (University of Alabama)
   * [Pranath Reddy](mailto:ml4-sci@cern.ch) (Independent Researcher)
   * [Ashutosh Ojha](mailto:ml4-sci@cern.ch) (Indian Institute of Technology (Indian School of Mines), Dhanbad)
+  * [J Rishi](mailto:ml4-sci@cern.ch) (Indian Institute of Science, Bangalore)
 
 
 Please **DO NOT** contact mentors directly by email. Questions should instead be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) which is forwarded to mentors. To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
