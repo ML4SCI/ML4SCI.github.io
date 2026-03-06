@@ -92,7 +92,36 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 <tr>
     <td><a href="https://medium.com/@thanhnguyen14401/gsoc-2025-with-ml4sci-event-classification-with-masked-transformer-autoencoders-6da369d42140" target="_blank">"Event Classification with Masked Transformer Autoencoders" by Thanh Nguyen</a></td>
   </tr>
-  
+
+<tr>
+    <td><a href="https://medium.com/@maya030928/exploring-quantum-generative-adversarial-network-with-gsoc-d4fdf3b3dedd" target="_blank">"Quantum Generative Adversarial Networks to Perform HEP Analysis" by Maya Ma</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://github.com/Riteshbhalerao11/GSoC_25" target="_blank">"Next-Generation Transformer Models for Symbolic Calculations of Squared Amplitudes in HEP" by Ritesh Bhalerao</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@tesi.alessandro88/gsoc-25-quantum-particle-transformer-for-high-energy-physics-analysis-at-ml4sci-dad868fd53f2" target="_blank">"Quantum Particle transformer for High Energy Physics Analysis at the LHC" by Alessandro Tesi</a></td>
+  </tr>
+
+</table>
+
+<tr>
+    <td><a href="https://medium.com/@mariya.glushanina/extending-cebra-to-dyadic-neural-dynamics-my-google-summer-of-code-journey-5459134af50c" target="_blank">"Neural Harmony – Decoding Social Interactions with CEBRA-based framework for analysing EEG data" by Maria Glushanina</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@jeffreyhuang1009/cebra-based-data-processing-pipeline-for-mapping-time-locked-eeg-paired-sets-in-interacting-0dbec173a20f" target="_blank">"Latent Neural Signatures in Clinical vs. Neurotypical Dyads: A CEBRA Pipeline" by Jeffrey Huang</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://github.com/EnderNinja7/HEALSwin-PINN/tree/main" target="_blank">"DeepLense: Gravitational Lens Finding" by Dhruv Srivastava</a></td>
+  </tr>
+
+<tr>
+    <td><a href="https://medium.com/@chukwuivnez/a-diffusion-based-deep-learning-framework-for-denoising-protoplanetary-disk-observations-gsoc-4870df837409" target="_blank">"A Diffusion-Based Deep Learning Framework for Denoising Protoplanetary Disk Observations" by Chukwunwogor Faithful</a></td>
+  </tr>
 
 </table>
 
@@ -112,7 +141,7 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 
   
 <tr>
-    <td><a href="https://medium.com/@murariu.alexandra2002/gsoc-ml4sci-exxa-equivariant-vision-networks-for-predicting-planetary-systems-architectures-b6f7c5846bda" target="_blank">"Equivariant Vision Networks for Predicting Planetary Systems’ Architectures" by Murariu Alexandra</a></td>
+    <td><a href="https://medium.com/@murariu.alexandra2002/gsoc-ml4sci-exxa-equivariant-vision-networks-for-predicting-planetary-systems-architectures-b6f7c5846bda" target="_blank">"Equivariant Vision Networks for Predicting Planetary Systems’ Architectures" by Alexandra Murariu</a></td>
   </tr>
 
    
@@ -268,6 +297,7 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   <tr>
     <td><a href="https://medium.com/@akshit.chodhary/wrap-up-gsoc-2023-ml4sci-2f98adaa21ae" target="_blank">"Diffusion Models for Fast Detector Simulation" by Akshit Choudhari</a></td>
   </tr>
+
   <tr>
     <td><a href="https://royforestano.github.io/blog/2023/2023-gsoc-ml4sci-qmlhep/" target="_blank">"Invariant and Equivariant Classical and Quantum Graph Neural Networks" by Roy T. Forestano</a></td>
   </tr>
