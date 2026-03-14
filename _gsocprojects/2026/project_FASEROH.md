@@ -1,9 +1,11 @@
 ---
-project: FASEROH
+Project: FASEROH
 layout: default
 logo: FASEROH.png
-description: |
-   FASEROH is an open source project researching seq2seq model that maps histograms to empirical symbolic representations.
+Description: |
+   FASEROH is an open-source research project focused on developing 
+sequence-to-sequence models that map histograms into empirical 
+symbolic representations for scientific data analysis.
 ---
 
 {% include gsoc_project.ext %}
