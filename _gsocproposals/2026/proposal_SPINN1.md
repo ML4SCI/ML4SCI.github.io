@@ -16,8 +16,11 @@ In many engineering and physics domains, the shape or geometry of an object dire
 Total project length: 175 hours.
 
 ## Task ideas
-  * Identify relevant use-case scenario and develop a PINN to accurately model underlying physics.
-  * Perform model optimization of both PINN and coordinate projection network.
+Recent research has demonstrated the feasibility of using PINNs (Paper 1) for performing shape optimization (Paper 2). Since that initial research, a number of techniques have been proposed and verified to help improve the performance of PINNs in general to overcome the shortcomings that generally plague PINNs: slow convergence, overfitting, and spectral bias in which low frequency solutions are preferentially converged towards during training. In particular, the use of grid-based structures (PIXEL, see Paper 3), and their further development into Physics-Informed Gaussians (PIG, see Paper 4), have improved upon many of these shortcomings. In this work, we look to apply these new techniques to the task of shape optimization. We additionally look to apply them to novel use-cases to demonstrate the usefulness of this approach. One use-case of particular interest is in the design optimization of Paul Traps, which are used in many applications ranging from quantum computing to mass spectrometry and atomic clocks (see Paper 5). The following task ideas are therefore proposed for this project:
+
+  * Identify and implement the latest PINN techniques for the purpose of performing shape optimization, specifically the ones previously mentioned.
+  * Identify relevant use-case scenarios and develop a PINN to accurately model the underlying physics. Paul Traps are of particular interest, however other use-cases will also be considered.
+  * Perform model optimization of both PINN and coordinate projection network, with the intent of achieving superior performance with respect to relevant design metrics and computational complexity.
 
 ## Expected results:
   * PINN model with demonstrated ability to perform shape optimization.
@@ -41,5 +44,8 @@ Please use [this link](https://docs.google.com/document/d/1mIyrMIo7NZSeKwQ2FQ1q3
 Please **DO NOT** contact mentors directly by email. Questions should instead be directed to [ml4-sci@cern.ch](mailto:ml4-sci@cern.ch) which is forwarded to mentors. To submit your proposal, CV, and test task solutions, please use [this Google form](https://forms.gle/SPXo8kSwHHptcBmk9).
 
 ## Links
-  * [Paper 1](https://www.nature.com/articles/s41598-024-57137-4)
-  * [Paper 2](https://arxiv.org/abs/2201.05624)
+  * [Paper 1](https://arxiv.org/abs/2201.05624)
+  * [Paper 2](https://www.nature.com/articles/s41598-024-57137-4)
+  * [Paper 3](https://arxiv.org/abs/2207.12800)
+  * [Paper 4](https://arxiv.org/abs/2412.05994)
+  * [Paper 5](https://arxiv.org/abs/1708.04689)
