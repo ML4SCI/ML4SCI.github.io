@@ -24,7 +24,7 @@ Total project length: 175 hours.
 
  
 ## Expected results
-  * Trained quantum diffusion model
+  * Trained quantum Kolmogorov-Arnold Network
   * Benchmark of the performance on a HEP dataset compared against a classical reference model
 
   
