@@ -20,7 +20,11 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 <tr>
     <td><a href="https://medium.com/@aatmajsalunke/an-ai-scientist-for-dark-matter-closed-loop-agents-for-strong-gravitational-lensing-e6e31a4b13ad" target="_blank">"An AI Scientist for Dark Matter: Closed-Loop Agents for Strong Gravitational Lensing" by Aatmaj Amol Salunke</a></td>
   </tr>
-
+  
+<tr>
+    <td><a href="https://github.com/sohamjadhav95/gsoc-2026-predict-blog" target="_blank">"PrediCT: Deep Learning Segmentation & Autonomous Clinical Workstation for Coronary Calcium Scoring" by Soham Jadhav</a></td>
+  </tr>
+  
 </table>
 
 ### Google Summer of Code 2025
