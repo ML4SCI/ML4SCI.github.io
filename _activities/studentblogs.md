@@ -21,6 +21,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@aatmajsalunke/an-ai-scientist-for-dark-matter-closed-loop-agents-for-strong-gravitational-lensing-e6e31a4b13ad" target="_blank">"An AI Scientist for Dark Matter: Closed-Loop Agents for Strong Gravitational Lensing" by Aatmaj Amol Salunke</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://github.com/dorakingx/llm-vqc/blob/main/GSoC2026_FINAL_BLOG.md" target="_blank">"Quantum Circuit Design with LLMs" by Tomoya Hatanaka</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
