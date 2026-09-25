@@ -21,6 +21,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@aatmajsalunke/an-ai-scientist-for-dark-matter-closed-loop-agents-for-strong-gravitational-lensing-e6e31a4b13ad" target="_blank">"An AI Scientist for Dark Matter: Closed-Loop Agents for Strong Gravitational Lensing" by Aatmaj Amol Salunke</a></td>
   </tr>
 
+<tr>
+    <td><a href="https://medium.com/@rajveer.rathod1301/super-resolving-cms-calorimeter-images-recovering-jet-tagging-performance-with-gans-f4ad41e15b45" target="_blank">"Super-Resolving CMS Calorimeter Images: Recovering Jet Tagging Performance with GANs" by Rajveer Rathod</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
