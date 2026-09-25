@@ -123,8 +123,6 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://medium.com/@tesi.alessandro88/gsoc-25-quantum-particle-transformer-for-high-energy-physics-analysis-at-ml4sci-dad868fd53f2" target="_blank">"Quantum Particle transformer for High Energy Physics Analysis at the LHC" by Alessandro Tesi</a></td>
   </tr>
 
-</table>
-
 <tr>
     <td><a href="https://medium.com/@mariya.glushanina/extending-cebra-to-dyadic-neural-dynamics-my-google-summer-of-code-journey-5459134af50c" target="_blank">"Neural Harmony – Decoding Social Interactions with CEBRA-based framework for analysing EEG data" by Maria Glushanina</a></td>
   </tr>
