@@ -28,6 +28,9 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   <tr>
     <td><a href="https://github.com/sohamjadhav95/gsoc-2026-predict-blog" target="_blank">"PrediCT: Deep Learning Segmentation & Autonomous Clinical Workstation for Coronary Calcium Scoring" by Soham Jadhav</a></td>
   </tr>
+    <tr>
+    <td><a href="https://medium.com/@uprajwal20/unsupervised-super-resolution-of-gravitational-lensing-images-gsoc-2026-mid-term-ml4sci-584a46d8d946" target="_blank">"UnLense: Unsupervised Super-Resolution of Gravitational Lensing Images via a Differentiable Lensing Forward Model" by Prajwal Uday</a></td>
+  </tr>
 
 </table>
 
