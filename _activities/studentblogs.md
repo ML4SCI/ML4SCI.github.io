@@ -17,14 +17,18 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 
 <table class="table table-hover table-striped">
   <tr>
-      <td><a href="https://medium.com/@aatmajsalunke/an-ai-scientist-for-dark-matter-closed-loop-agents-for-strong-gravitational-lensing-e6e31a4b13ad" target="_blank">"An AI Scientist for Dark Matter: Closed-Loop Agents for Strong Gravitational Lensing" by Aatmaj Amol Salunke</a></td>
+    <td><a href="https://medium.com/@aatmajsalunke/an-ai-scientist-for-dark-matter-closed-loop-agents-for-strong-gravitational-lensing-e6e31a4b13ad" target="_blank">"An AI Scientist for Dark Matter: Closed-Loop Agents for Strong Gravitational Lensing" by Aatmaj Amol Salunke</a></td>
   </tr>
   <tr>
-      <td><a href="https://github.com/dorakingx/llm-vqc/blob/main/GSoC2026_FINAL_BLOG.md" target="_blank">"Quantum Circuit Design with LLMs" by Tomoya Hatanaka</a></td>
+    <td><a href="https://github.com/dorakingx/llm-vqc/blob/main/GSoC2026_FINAL_BLOG.md" target="_blank">"Quantum Circuit Design with LLMs" by Tomoya Hatanaka</a></td>
   </tr>
   <tr>
     <td><a href="https://medium.com/@rajveer.rathod1301/super-resolving-cms-calorimeter-images-recovering-jet-tagging-performance-with-gans-f4ad41e15b45" target="_blank">"Super-Resolving CMS Calorimeter Images: Recovering Jet Tagging Performance with GANs" by Rajveer Rathod</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/sohamjadhav95/gsoc-2026-predict-blog" target="_blank">"PrediCT: Deep Learning Segmentation & Autonomous Clinical Workstation for Coronary Calcium Scoring" by Soham Jadhav</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
