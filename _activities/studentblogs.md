@@ -29,6 +29,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://github.com/sohamjadhav95/gsoc-2026-predict-blog" target="_blank">"PrediCT: Deep Learning Segmentation & Autonomous Clinical Workstation for Coronary Calcium Scoring" by Soham Jadhav</a></td>
   </tr>
 
+  <tr>
+  <td><a href="https://mpm-cvr.github.io/gsoc-2026-report/" target="_blank">"Hybrid/Quantum Latent Diffusion Models for High-Resolution Simulation" by Miguel Pámanes</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
