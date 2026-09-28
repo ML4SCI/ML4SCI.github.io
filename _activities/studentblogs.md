@@ -39,6 +39,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
   <td><a href="https://mpm-cvr.github.io/gsoc-2026-report/" target="_blank">"Hybrid/Quantum Latent Diffusion Models for High-Resolution Simulation" by Miguel Pámanes</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://jorge-1501.github.io/en/investigacion/interdisciplinarios/qkan-jets/" target="_blank">"Quantum Kolmogorov-Arnold Network for Top Quark Jet Tagging" by Jorge Toral</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
