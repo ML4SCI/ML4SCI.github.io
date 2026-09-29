@@ -16,6 +16,9 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 ### Google Summer of Code 2026
 
 <table class="table table-hover table-striped">
+    <tr>
+    <td><a href="https://medium.com/@tobeornottobeisneveraquestion/when-a-good-score-isnt-enough-239629e39d9f" target="_blank">"When a Good Score Isn’t Enough" by Tina Shen</a></td>
+  </tr>
   <tr>
     <td><a href="https://medium.com/@aatmajsalunke/an-ai-scientist-for-dark-matter-closed-loop-agents-for-strong-gravitational-lensing-e6e31a4b13ad" target="_blank">"An AI Scientist for Dark Matter: Closed-Loop Agents for Strong Gravitational Lensing" by Aatmaj Amol Salunke</a></td>
   </tr>
