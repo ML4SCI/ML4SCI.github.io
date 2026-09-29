@@ -43,6 +43,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://jorge-1501.github.io/en/investigacion/interdisciplinarios/qkan-jets/" target="_blank">"Quantum Kolmogorov-Arnold Network for Top Quark Jet Tagging" by Jorge Toral</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://arnesh2212.github.io/lens-jepa.github.io" target="_blank">"Foundation Model for Gravitational Lensing " by Arnesh Batra</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
