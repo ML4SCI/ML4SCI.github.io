@@ -50,6 +50,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://arnesh2212.github.io/lens-jepa.github.io" target="_blank">"Foundation Model for Gravitational Lensing " by Arnesh Batra</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://dhruv1108git.github.io/symbolic_reg/" target="_blank">"SymbolicGRPO: Reference-Free Transformer Refinement for Symbolic Regression" by Dhruv Rathi</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
