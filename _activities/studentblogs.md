@@ -50,6 +50,10 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
     <td><a href="https://arnesh2212.github.io/lens-jepa.github.io" target="_blank">"Foundation Model for Gravitational Lensing " by Arnesh Batra</a></td>
   </tr>
 
+  <tr>
+    <td><a href="https://medium.com/@luckyyeyang/deep-graph-anomaly-detection-with-contrastive-learning-for-new-physics-searches-final-report-0f345b95a708" target="_blank">"Deep Graph Anomaly Detection with Contrastive Learning for New Physics Searches" by Yeyang Liu</a></td>
+  </tr>
+
 </table>
 
 ### Google Summer of Code 2025
