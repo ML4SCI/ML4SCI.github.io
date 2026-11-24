@@ -16,6 +16,9 @@ This is a collection of blog posts from GSoC students who worked with ML4SCI.
 ### Google Summer of Code 2026
 
 <table class="table table-hover table-striped">
+  <tr>
+    <td><a href="https://github.com/KenWuqianghao/Agentic-Lagrangian-Extraction/blob/main/docs/blog/gsoc-2026.md" target="_blank">"Can an Agent Turn a Physics Paper into a Working FeynRules Model?" by Ken Wu</a></td>
+  </tr>
     <tr>
     <td><a href="https://medium.com/@tobeornottobeisneveraquestion/when-a-good-score-isnt-enough-239629e39d9f" target="_blank">"When a Good Score Isn’t Enough" by Tina Shen</a></td>
   </tr>
